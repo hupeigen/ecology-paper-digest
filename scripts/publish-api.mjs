@@ -52,10 +52,18 @@ if (repository.__error?.status === 404) {
 }
 
 const branch = 'main';
-const ref = await tryApi(`${repoPath}/git/ref/heads/${branch}`);
-const parent = ref.__error ? null : ref.object.sha;
-if (ref.__error && ref.__error.status !== 404) throw ref.__error;
-
+let ref = await tryApi(`${repoPath}/git/ref/heads/${branch}`);
+let refMissing = Boolean(ref.__error && [404, 409].includes(ref.__error.status));
+if (ref.__error && !refMissing) throw ref.__error;
+if (refMissing) {
+  await api(`${repoPath}/contents/.bootstrap`, {
+    method: 'PUT',
+    body: JSON.stringify({ message: 'chore: initialize repository', content: Buffer.from('# bootstrap\n').toString('base64'), branch })
+  });
+  ref = await api(`${repoPath}/git/ref/heads/${branch}`);
+  refMissing = false;
+}
+const parent = ref.object.sha;
 const tracked = execFileSync('git', ['ls-files', '-z'], { cwd: ROOT })
   .toString('utf8').split('\0').filter(Boolean);
 if (tracked.length === 0) throw new Error('Git 仓库没有已跟踪文件，请先提交项目。');
@@ -82,7 +90,7 @@ const commit = await api(`${repoPath}/git/commits`, {
     parents: parent ? [parent] : []
   })
 });
-if (ref.__error) {
+if (refMissing) {
   await api(`${repoPath}/git/refs`, {
     method: 'POST',
     body: JSON.stringify({ ref: `refs/heads/${branch}`, sha: commit.sha })
@@ -111,3 +119,4 @@ console.log(JSON.stringify({
   pages: pages.html_url || `https://${owner}.github.io/${repoName}/`,
   workflow: 'update-reports.yml started'
 }, null, 2));
+
