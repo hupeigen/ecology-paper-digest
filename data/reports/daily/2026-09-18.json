@@ -7,7 +7,7 @@
     "from": "2026-08-20",
     "to": "2026-09-18"
   },
-  "generatedAt": "2026-09-18T14:09:34.315Z",
+  "generatedAt": "2026-09-18T13:51:23.016Z",
   "selectionTitle": "生态学高价值论文日报 · 2026-09-18",
   "paperCount": 5,
   "papers": [
@@ -61,17 +61,13 @@
       "publishedAt": "2026-09-10",
       "articleType": "research",
       "doiUrl": "https://doi.org/10.1093/jpe/rtag210",
-      "oaUrl": "https://doi.org/10.1093/jpe/rtag210",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag210/71018140/rtag210.pdf",
       "isOpenAccess": true,
       "keywords": [
         "Carbon cycling",
         "Climate change",
         "Biodiversity",
-        "Restoration and management",
-        "Shrubland",
-        "Ecosystem",
-        "Arid",
-        "Grassland"
+        "Restoration and management"
       ],
       "valueScores": {
         "advisor": 8,
@@ -96,80 +92,11 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag210"
-        },
-        {
-          "name": "OpenAlex",
-          "url": "https://openalex.org/W7212156968"
         }
       ]
     },
     {
       "rank": 2,
-      "doi": "10.1111/1365-2745.70448",
-      "title": "Plant diversity reshapes drought resistance across soil nitrifier guilds",
-      "authors": [
-        {
-          "name": "Di Xu",
-          "orcid": null
-        },
-        {
-          "name": "Shuo Wang",
-          "orcid": null
-        },
-        {
-          "name": "Xiang Xiong",
-          "orcid": null
-        },
-        {
-          "name": "Wenzhi Liu",
-          "orcid": "https://orcid.org/0000-0002-7149-9529"
-        },
-        {
-          "name": "Bangjing Ding",
-          "orcid": "https://orcid.org/0000-0003-4032-6999"
-        }
-      ],
-      "journal": "Journal of Ecology",
-      "publishedAt": "2026-09-18",
-      "articleType": "research",
-      "doiUrl": "https://doi.org/10.1111/1365-2745.70448",
-      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70448",
-      "isOpenAccess": true,
-      "keywords": [
-        "Climate change",
-        "Biodiversity",
-        "Modeling and AI"
-      ],
-      "valueScores": {
-        "advisor": 42,
-        "strategy": 16,
-        "application": 0,
-        "interdisciplinary": 0,
-        "frontier": 42
-      },
-      "totalScore": 22,
-      "recommendationReason": "重点体现导师方向与前沿突破；命中“drought、climate change、resistance”等信号。",
-      "essence": {
-        "problem": "Abstract Drought is a major climate stressor threatening global terrestrial ecosystems.",
-        "design": "We combined a field survey with a pot experiment (914 soil samples) to examine how distinct nitrifier groups, including ammonia‐oxidising archaea (AOA), ammonia‐oxidising bacteria (AOB) and complete ammonia oxidisers (comammox), respond to drought across plant diversity levels.",
-        "innovation": "Within the biodiversity–ecosystem function framework, plant diversity is thought to stabilise ecological processes and enhance ecosystem resistance to climate change.",
-        "transferableIdeas": "可借鉴其field survey设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
-        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
-        "evidenceConfidence": "abstract",
-        "summaryMode": "rules"
-      },
-      "methodSignals": [
-        "field survey"
-      ],
-      "sources": [
-        {
-          "name": "Crossref",
-          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70448"
-        }
-      ]
-    },
-    {
-      "rank": 3,
       "doi": "10.1093/jpe/rtag196",
       "title": "Allometric above- and belowground biomass models for China's subtropical forests advance pan-tropical carbon assessments",
       "authors": [
@@ -205,10 +132,7 @@
         "Plant-soil interactions",
         "Ecosystem monitoring",
         "Modeling and AI",
-        "Restoration and management",
-        "Tree allometry",
-        "Biomass (ecology)",
-        "Allometry"
+        "Restoration and management"
       ],
       "valueScores": {
         "advisor": 60,
@@ -233,15 +157,11 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag196"
-        },
-        {
-          "name": "OpenAlex",
-          "url": "https://openalex.org/W7204564547"
         }
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "doi": "10.1111/1365-2745.70434",
       "title": "Extreme drought increases alpine carbon use efficiency through respiration suppression and community reorganization",
       "authors": [
@@ -298,17 +218,11 @@
       "publishedAt": "2026-09-03",
       "articleType": "research",
       "doiUrl": "https://doi.org/10.1111/1365-2745.70434",
-      "oaUrl": "https://doi.org/10.1111/1365-2745.70434",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70434",
       "isOpenAccess": true,
       "keywords": [
         "Climate change",
-        "Modeling and AI",
-        "Ecosystem",
-        "Primary production",
-        "Ecosystem respiration",
-        "Carbon cycle",
-        "Dominance (genetics)",
-        "Respiration"
+        "Modeling and AI"
       ],
       "valueScores": {
         "advisor": 42,
@@ -333,15 +247,11 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70434"
-        },
-        {
-          "name": "OpenAlex",
-          "url": "https://openalex.org/W7207770955"
         }
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "doi": "10.1111/ele.70453",
       "title": "Dovetailing the Genetic, Developmental and Functional Bases of the Adaptation of Stomatal Traits to Climate",
       "authors": [
@@ -394,18 +304,9 @@
       "publishedAt": "2026-09-16",
       "articleType": "research",
       "doiUrl": "https://doi.org/10.1111/ele.70453",
-      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70453",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70453",
       "isOpenAccess": true,
-      "keywords": [
-        "Ecotype",
-        "Guard cell",
-        "Adaptation (eye)",
-        "Stomatal density",
-        "Local adaptation",
-        "Trait",
-        "Arabidopsis",
-        "Ecophysiology"
-      ],
+      "keywords": [],
       "valueScores": {
         "advisor": 0,
         "strategy": 8,
@@ -431,10 +332,145 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1111%2Fele.70453"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70452",
+      "title": "Remote Spectral Detection of Canopy Functional Dimensions Varying Within and Across Forest Types",
+      "authors": [
+        {
+          "name": "Fengqi Wu",
+          "orcid": "https://orcid.org/0000-0002-6512-6830"
         },
         {
-          "name": "OpenAlex",
-          "url": "https://openalex.org/W7213313859"
+          "name": "Shuwen Liu",
+          "orcid": "https://orcid.org/0009-0004-0916-2257"
+        },
+        {
+          "name": "Constantin M. Zohner",
+          "orcid": null
+        },
+        {
+          "name": "Philip A. Townsend",
+          "orcid": "https://orcid.org/0000-0001-7003-8774"
+        },
+        {
+          "name": "Thomas W. Crowther",
+          "orcid": "https://orcid.org/0000-0001-5674-8913"
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Daryl Yang",
+          "orcid": "https://orcid.org/0000-0003-1705-7823"
+        },
+        {
+          "name": "Nan Yang",
+          "orcid": null
+        },
+        {
+          "name": "Tingting Dong",
+          "orcid": "https://orcid.org/0009-0006-2987-1645"
+        },
+        {
+          "name": "Weiying Xu",
+          "orcid": "https://orcid.org/0009-0009-8921-3179"
+        },
+        {
+          "name": "Zhihui Wang",
+          "orcid": null
+        },
+        {
+          "name": "Xiaojuan Liu",
+          "orcid": "https://orcid.org/0000-0002-9292-4432"
+        },
+        {
+          "name": "Guanhua Dai",
+          "orcid": null
+        },
+        {
+          "name": "Jinlong Dong",
+          "orcid": "https://orcid.org/0009-0006-2731-3551"
+        },
+        {
+          "name": "Sandra M. Durán",
+          "orcid": "https://orcid.org/0000-0003-2044-8139"
+        },
+        {
+          "name": "Fabian D. Schneider",
+          "orcid": "https://orcid.org/0000-0003-1791-2041"
+        },
+        {
+          "name": "Yuan Zeng",
+          "orcid": null
+        },
+        {
+          "name": "J. Hans C. Cornelissen",
+          "orcid": null
+        },
+        {
+          "name": "Jens Kattge",
+          "orcid": "https://orcid.org/0000-0002-1022-8469"
+        },
+        {
+          "name": "Jin Wu",
+          "orcid": "https://orcid.org/0000-0001-8991-3970"
+        },
+        {
+          "name": "Gregory P. Asner",
+          "orcid": "https://orcid.org/0000-0001-7893-6421"
+        },
+        {
+          "name": "Jeannine Cavender‐Bares",
+          "orcid": "https://orcid.org/0000-0003-3375-9630"
+        },
+        {
+          "name": "Peter B. Reich",
+          "orcid": "https://orcid.org/0000-0003-4424-662X"
+        },
+        {
+          "name": "Zhengbing Yan",
+          "orcid": "https://orcid.org/0000-0002-5028-8167"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70452",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70452",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 50,
+        "frontier": 0
+      },
+      "totalScore": 11,
+      "recommendationReason": "重点体现跨学科融合与应用价值；命中“monitoring、scenario、spectral、economics”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "design": "Through site‐training scenario, leaf‐to‐canopy scaling and spectral‐domain modelling tests, we find that reliable canopy trait retrieval depends not only on trait and spectral coverage, but also on preserving trait‐spectral relationships across sites and scales.",
+        "innovation": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70452"
         }
       ]
     }
@@ -444,21 +480,21 @@
     "target": 5,
     "minimum": 4,
     "selectedCount": 5,
-    "candidateCount": 46,
-    "coreCandidateCount": 46,
+    "candidateCount": 44,
+    "coreCandidateCount": 44,
     "expansionCandidateCount": 0,
     "expansionUsed": 0,
-    "advisorCount": 3,
+    "advisorCount": 2,
     "reviewCount": 0,
     "journalCounts": {
-      "journal-of-ecology": 2,
       "jpe": 2,
-      "ecology-letters": 1
+      "journal-of-ecology": 1,
+      "ecology-letters": 2
     },
     "maxPerJournal": 2,
     "maxReviews": 1,
     "llmUsed": false,
-    "sourceCandidateCount": 49
+    "sourceCandidateCount": 48
   },
   "warnings": [],
   "notes": [],
