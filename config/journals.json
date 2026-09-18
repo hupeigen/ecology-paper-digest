@@ -1,0 +1,118 @@
+{
+  "core": [
+    {
+      "id": "jpe",
+      "name": "Journal of Plant Ecology",
+      "issns": ["1752-9921", "1752-993X"],
+      "publisher": "Oxford University Press",
+      "scope": "植物生态学、全球变化与植物功能"
+    },
+    {
+      "id": "imeta",
+      "name": "iMeta",
+      "issns": ["2770-596X", "2770-5986"],
+      "publisher": "Wiley",
+      "scope": "微生物组、多组学与生态健康"
+    },
+    {
+      "id": "green-carbon",
+      "name": "Green Carbon",
+      "issns": ["2950-1555"],
+      "publisher": "Elsevier",
+      "scope": "碳循环、绿色低碳技术与碳中和"
+    },
+    {
+      "id": "pedosphere",
+      "name": "Pedosphere",
+      "issns": ["1002-0160", "2210-5107"],
+      "publisher": "Elsevier",
+      "scope": "土壤过程、土壤生态与土壤健康"
+    },
+    {
+      "id": "eeh",
+      "name": "Eco-Environment & Health",
+      "issns": ["2772-9850"],
+      "publisher": "Elsevier",
+      "scope": "生态环境、健康与可持续发展"
+    },
+    {
+      "id": "ecology-letters",
+      "name": "Ecology Letters",
+      "issns": ["1461-023X", "1461-0248"],
+      "publisher": "Wiley",
+      "scope": "生态学理论与前沿综合研究"
+    },
+    {
+      "id": "journal-of-ecology",
+      "name": "Journal of Ecology",
+      "issns": ["0022-0477", "1365-2745"],
+      "publisher": "Wiley",
+      "scope": "植物种群、群落与生态系统生态学"
+    },
+    {
+      "id": "ecological-indicators",
+      "name": "Ecological Indicators",
+      "issns": ["1470-160X"],
+      "publisher": "Elsevier",
+      "scope": "生态监测、评价指标与可持续发展"
+    }
+  ],
+  "expansion": [
+    {
+      "id": "nature-ecology-evolution",
+      "name": "Nature Ecology & Evolution",
+      "issns": ["2397-334X"],
+      "publisher": "Springer Nature",
+      "scope": "生态与演化前沿"
+    },
+    {
+      "id": "nature-climate-change",
+      "name": "Nature Climate Change",
+      "issns": ["1758-678X", "1758-6798"],
+      "publisher": "Springer Nature",
+      "scope": "气候变化与地球系统"
+    },
+    {
+      "id": "global-change-biology",
+      "name": "Global Change Biology",
+      "issns": ["1354-1013", "1365-2486"],
+      "publisher": "Wiley",
+      "scope": "全球变化生物学"
+    },
+    {
+      "id": "new-phytologist",
+      "name": "New Phytologist",
+      "issns": ["0028-646X", "1469-8137"],
+      "publisher": "Wiley",
+      "scope": "植物科学、植物–土壤互作"
+    },
+    {
+      "id": "functional-ecology",
+      "name": "Functional Ecology",
+      "issns": ["0269-8463", "1365-2435"],
+      "publisher": "Wiley",
+      "scope": "功能性状与生态机制"
+    },
+    {
+      "id": "geb",
+      "name": "Global Ecology and Biogeography",
+      "issns": ["1466-822X", "1466-8238"],
+      "publisher": "Wiley",
+      "scope": "宏观生态与生物地理"
+    },
+    {
+      "id": "soil-biology-biochemistry",
+      "name": "Soil Biology and Biochemistry",
+      "issns": ["0038-0717"],
+      "publisher": "Elsevier",
+      "scope": "土壤生物、生物化学与碳氮循环"
+    },
+    {
+      "id": "ecology",
+      "name": "Ecology",
+      "issns": ["0012-9658", "1939-9170"],
+      "publisher": "Wiley",
+      "scope": "基础生态学与综合生态研究"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ecology-paper-digest",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "生态学高价值论文日报与周报生成器",
+  "scripts": {
+    "update": "node scripts/update.mjs --kind=auto",
+    "build": "node scripts/build-site.mjs",
+    "serve": "node scripts/serve.mjs",
+    "test": "node --test",
+    "check": "node --check scripts/update.mjs && node --check scripts/build-site.mjs && node --check web/app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

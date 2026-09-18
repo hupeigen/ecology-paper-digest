@@ -1,0 +1,68 @@
+name: Update ecology reports
+
+on:
+  schedule:
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: Report type
+        required: true
+        default: auto
+        type: choice
+        options: [auto, daily, weekly, both]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ecology-report-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    env:
+      CROSSREF_MAILTO: ${{ secrets.CROSSREF_MAILTO }}
+      CONTACT_EMAIL: ${{ secrets.CONTACT_EMAIL }}
+      LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
+      LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+      LLM_MODEL: ${{ secrets.LLM_MODEL }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - name: Test
+        run: node --test
+      - name: Generate report
+        run: node scripts/update.mjs --kind=${{ github.event.inputs.kind || 'auto' }}
+      - name: Commit report history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reports
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update ecology reports"
+            git push
+          fi
+      - name: Build site
+        run: node scripts/build-site.mjs
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

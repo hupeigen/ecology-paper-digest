@@ -1,0 +1,72 @@
+{
+  "weights": {
+    "advisor": 0.3,
+    "strategy": 0.2,
+    "application": 0.2,
+    "interdisciplinary": 0.15,
+    "frontier": 0.15
+  },
+  "dimensionLabels": {
+    "advisor": "导师方向",
+    "strategy": "国家战略",
+    "application": "应用价值",
+    "interdisciplinary": "跨学科融合",
+    "frontier": "前沿突破"
+  },
+  "terms": {
+    "advisor": [
+      "soil organic carbon", "soil carbon", "carbon cycle", "carbon sink", "carbon source",
+      "drought", "drying", "rewetting", "root exudate", "root exudation", "rhizosphere priming",
+      "priming effect", "plant-soil-microbe", "plant soil microbe", "microbial community",
+      "belowground", "aboveground-belowground", "litter decomposition", "soil respiration",
+      "carbon-water", "water-carbon", "greenhouse gas", "nitrogen deposition", "mineral-associated organic matter",
+      "carbon sequestration", "subtropical forest", "soil moisture", "root trait", "mycorrhizal"
+    ],
+    "strategy": [
+      "carbon neutrality", "dual carbon", "climate change", "climate warming", "global warming",
+      "biodiversity", "ecosystem resilience", "climate adaptation", "climate mitigation",
+      "food security", "water security", "ecological security", "sustainable development",
+      "carbon emission", "net zero", "restoration", "degradation", "tipping point",
+      "planetary boundary", "ecosystem service", "nature-based solution"
+    ],
+    "application": [
+      "management", "policy", "decision support", "monitoring", "indicator", "assessment",
+      "forecast", "prediction", "early warning", "restoration", "conservation", "mitigation",
+      "adaptation", "sustainability", "land use", "agriculture", "forest management",
+      "scenario", "risk assessment", "spatial planning", "field application"
+    ],
+    "interdisciplinary": [
+      "multi-omics", "metagenomics", "metabolomics", "transcriptomics", "proteomics",
+      "remote sensing", "machine learning", "deep learning", "artificial intelligence",
+      "stable isotope", "isotope tracing", "earth system model", "ecosystem model",
+      "data assimilation", "big data", "network analysis", "causal inference",
+      "geospatial", "spectral", "omics", "socio-ecological", "economics"
+    ],
+    "frontier": [
+      "mechanism", "mechanistic", "causal", "experimental evidence", "long-term experiment",
+      "manipulative experiment", "global synthesis", "meta-analysis", "first evidence",
+      "new framework", "paradigm", "breakthrough", "emergent", "nonlinear", "threshold",
+      "resistance", "resilience", "recovery", "multifunctionality", "trait-based",
+      "scale-dependent", "novel method", "high-resolution"
+    ]
+  },
+  "topicLabels": {
+    "Carbon cycling": ["soil organic carbon", "soil carbon", "carbon cycle", "carbon sink", "carbon sequestration", "carbon flux", "net ecosystem exchange"],
+    "Climate change": ["climate change", "warming", "drought", "precipitation", "extreme climate", "heatwave"],
+    "Plant-soil interactions": ["root exudate", "rhizosphere priming", "priming effect", "plant-soil-microbe", "mycorrhizal", "belowground"],
+    "Soil ecology": ["soil respiration", "soil microbial", "microbial community", "litter decomposition", "soil nutrient"],
+    "Biodiversity": ["biodiversity", "species richness", "functional diversity", "community assembly", "extinction"],
+    "Ecosystem monitoring": ["monitoring", "indicator", "remote sensing", "assessment", "early warning"],
+    "Modeling and AI": ["machine learning", "deep learning", "model", "prediction", "data assimilation"],
+    "Restoration and management": ["restoration", "conservation", "management", "sustainability", "policy"],
+    "Multi-omics and health": ["multi-omics", "metagenomics", "metabolomics", "health", "microbiome"]
+  },
+  "methodTerms": [
+    "field experiment", "manipulative experiment", "common garden", "transplant experiment",
+    "long-term experiment", "laboratory incubation", "incubation", "meta-analysis",
+    "global synthesis", "observational study", "field survey", "remote sensing",
+    "stable isotope", "isotope tracing", "metagenomics", "multi-omics", "model simulation",
+    "machine learning", "random forest", "structural equation model", "causal inference",
+    "nitrogen addition", "warming experiment", "drought treatment", "reciprocal transplant"
+  ]
+}

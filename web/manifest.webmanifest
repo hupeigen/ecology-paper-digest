@@ -1,0 +1,13 @@
+{
+  "name": "生态论文雷达",
+  "short_name": "生态雷达",
+  "description": "生态学高价值论文日报与周报",
+  "start_url": "./#/latest",
+  "display": "standalone",
+  "background_color": "#f3efe4",
+  "theme_color": "#163b32",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "version": 1,
+  "kind": "weekly",
+  "reportId": "2026-W37",
+  "date": "2026-09-18",
+  "period": {
+    "from": "2026-09-07",
+    "to": "2026-09-13"
+  },
+  "generatedAt": "2026-09-18T13:51:33.039Z",
+  "selectionTitle": "生态学高价值论文周报 · 2026-09-07 至 2026-09-13",
+  "paperCount": 3,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag210",
+      "title": "Conserving dryland biodiversity and functioning with threshold zones",
+      "authors": [
+        {
+          "name": "Yu Yang",
+          "orcid": "https://orcid.org/0009-0004-1090-887X"
+        },
+        {
+          "name": "Xu Li",
+          "orcid": null
+        },
+        {
+          "name": "ChangChao Zhang",
+          "orcid": null
+        },
+        {
+          "name": "YunXiang Cheng",
+          "orcid": null
+        },
+        {
+          "name": "Hugjiltu Minggagud",
+          "orcid": null
+        },
+        {
+          "name": "Pujin Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Liqing Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Hongtao Luo",
+          "orcid": null
+        },
+        {
+          "name": "Yonghui Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wenhong Ma",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag210",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag210/71018140/rtag210.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 50,
+        "application": 24,
+        "interdisciplinary": 0,
+        "frontier": 50
+      },
+      "totalScore": 25,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“soil organic carbon、climate change、biodiversity、degradation”等信号。",
+      "essence": {
+        "problem": "Abstract Drylands are increasingly vulnerable to climate change and overgrazing, where rising aridity and grazing pressure can trigger abrupt, nonlinear shifts in ecosystem structure and function once critical levels are crossed.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Our framework connects theoretical thresholds with actionable conservation strategies, offering a pathway to safeguard dryland biodiversity and resilience under accelerating global change.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag210"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag207",
+      "title": "Changes in the direction and intensity of plasticity bias between plant nitrogen- and water-use efficiency under nitrogen addition and drought",
+      "authors": [
+        {
+          "name": "Jiaxin Hu",
+          "orcid": null
+        },
+        {
+          "name": "Wang Ma",
+          "orcid": null
+        },
+        {
+          "name": "Pingzhou Wang",
+          "orcid": null
+        },
+        {
+          "name": "Bingsa Li",
+          "orcid": null
+        },
+        {
+          "name": "Changhao Hu",
+          "orcid": null
+        },
+        {
+          "name": "Mingming Xu",
+          "orcid": null
+        },
+        {
+          "name": "Zhengwen Wang",
+          "orcid": null
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-08",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag207",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag207/70989450/rtag207.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 50,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 15,
+      "recommendationReason": "重点体现导师方向；命中“drought、nitrogen deposition”等信号。",
+      "essence": {
+        "problem": "Abstract Plants adapt to the changes of nitrogen and water availability by balancing nitrogen use efficiency (NUE) and water use efficiency (WUE) especially in grasslands, where water and nitrogen are limiting plant growth.",
+        "design": "Under either nitrogen addition or drought, the NUE-WUE plasticity bias in most species consistently exhibited a WUE-favoring direction, with an increased intensity.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其nitrogen addition设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag207"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag218",
+      "title": "Responses of rhizosphere fungi to elevational gradients: distinct diversity and specialization of mycorrhizal and plant-pathogenic fungi in subalpine forests",
+      "authors": [
+        {
+          "name": "Jie Song",
+          "orcid": null
+        },
+        {
+          "name": "Liang-Liang Ma",
+          "orcid": null
+        },
+        {
+          "name": "Ming-Shu Zhu",
+          "orcid": null
+        },
+        {
+          "name": "Jie Liu",
+          "orcid": null
+        },
+        {
+          "name": "Jia-Yun Zou",
+          "orcid": null
+        },
+        {
+          "name": "Wei Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Zhong-Yu Fan",
+          "orcid": null
+        },
+        {
+          "name": "Kun Xu",
+          "orcid": null
+        },
+        {
+          "name": "De-Zhu Li",
+          "orcid": "https://orcid.org/0000-0002-4990-724X"
+        },
+        {
+          "name": "Lian-Ming Gao",
+          "orcid": null
+        },
+        {
+          "name": "Ya-Huang Luo",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag218",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag218/71014864/rtag218.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 13,
+      "recommendationReason": "重点体现导师方向；命中“root trait、mycorrhizal”等信号。",
+      "essence": {
+        "problem": "Abstract Rhizosphere microbes are closely associated with forest community diversity and ecosystem functioning.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Collectively, these findings show that MF and PF are structured by distinct ecological filters along elevational gradients, resulting in guild-dependent patterns of plant-fungal network specialization in subalpine forests and providing new insights into plant–microbe dynamics under global change.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag218"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "weekly",
+    "target": 8,
+    "minimum": 4,
+    "selectedCount": 3,
+    "candidateCount": 10,
+    "coreCandidateCount": 10,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 3
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "llmUsed": false,
+    "sourceCandidateCount": 11
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 3 篇符合约束的论文，未使用低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
