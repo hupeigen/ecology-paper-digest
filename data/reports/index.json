@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T13:51:33.039Z",
+  "updatedAt": "2026-09-18T14:09:34.315Z",
   "daily": [
     {
       "kind": "daily",
@@ -10,7 +10,7 @@
         "from": "2026-08-20",
         "to": "2026-09-18"
       },
-      "generatedAt": "2026-09-18T13:51:23.016Z",
+      "generatedAt": "2026-09-18T14:09:34.315Z",
       "paperCount": 5,
       "title": "生态学高价值论文日报 · 2026-09-18",
       "path": "daily/2026-09-18.json",
@@ -24,16 +24,29 @@
         "Climate change",
         "Biodiversity",
         "Restoration and management",
+        "Shrubland",
+        "Ecosystem",
+        "Arid",
+        "Grassland",
+        "Modeling and AI",
         "Plant-soil interactions",
         "Ecosystem monitoring",
-        "Modeling and AI"
+        "Tree allometry",
+        "Biomass (ecology)",
+        "Allometry",
+        "Primary production",
+        "Ecosystem respiration",
+        "Carbon cycle",
+        "Dominance (genetics)",
+        "Respiration",
+        "Ecotype"
       ],
       "paperDois": [
         "10.1093/jpe/rtag210",
+        "10.1111/1365-2745.70448",
         "10.1093/jpe/rtag196",
         "10.1111/1365-2745.70434",
-        "10.1111/ele.70453",
-        "10.1111/ele.70452"
+        "10.1111/ele.70453"
       ],
       "warnings": []
     }
