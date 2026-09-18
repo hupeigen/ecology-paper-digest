@@ -7,3 +7,5 @@ dist/
 data/cache/
 data/tmp/
 coverage/
+.publish-token
+

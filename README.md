@@ -107,3 +107,16 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass -File .\scripts\publish.ps1
 
 完成后请撤销临时 token。
 
+
+### github.com 直连不可用时
+
+项目提供纯 `api.github.com` 发布器。先准备一个仅用于本次发布的经典 PAT，建议只勾选 `repo` 和 `workflow` 权限，然后运行：
+
+```powershell
+$secure = Read-Host -AsSecureString
+$env:GH_TOKEN = [System.Net.NetworkCredential]::new('', $secure).Password
+node .\scripts\publish-api.mjs
+Remove-Item Env:GH_TOKEN
+```
+
+该脚本通过 GitHub Git Data API 上传已提交文件，创建 `ecology-paper-digest` 仓库，启用 Actions Pages 并启动首次报告任务。完成后请立即撤销临时 PAT。
