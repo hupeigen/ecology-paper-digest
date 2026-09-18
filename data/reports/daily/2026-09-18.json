@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-18",
+  "date": "2026-09-18",
+  "period": {
+    "from": "2026-08-20",
+    "to": "2026-09-18"
+  },
+  "generatedAt": "2026-09-18T13:51:23.016Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-18",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag210",
+      "title": "Conserving dryland biodiversity and functioning with threshold zones",
+      "authors": [
+        {
+          "name": "Yu Yang",
+          "orcid": "https://orcid.org/0009-0004-1090-887X"
+        },
+        {
+          "name": "Xu Li",
+          "orcid": null
+        },
+        {
+          "name": "ChangChao Zhang",
+          "orcid": null
+        },
+        {
+          "name": "YunXiang Cheng",
+          "orcid": null
+        },
+        {
+          "name": "Hugjiltu Minggagud",
+          "orcid": null
+        },
+        {
+          "name": "Pujin Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Liqing Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Hongtao Luo",
+          "orcid": null
+        },
+        {
+          "name": "Yonghui Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wenhong Ma",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag210",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag210/71018140/rtag210.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 50,
+        "application": 24,
+        "interdisciplinary": 0,
+        "frontier": 50
+      },
+      "totalScore": 25,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“soil organic carbon、climate change、biodiversity、degradation”等信号。",
+      "essence": {
+        "problem": "Abstract Drylands are increasingly vulnerable to climate change and overgrazing, where rising aridity and grazing pressure can trigger abrupt, nonlinear shifts in ecosystem structure and function once critical levels are crossed.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Our framework connects theoretical thresholds with actionable conservation strategies, offering a pathway to safeguard dryland biodiversity and resilience under accelerating global change.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag210"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag196",
+      "title": "Allometric above- and belowground biomass models for China's subtropical forests advance pan-tropical carbon assessments",
+      "authors": [
+        {
+          "name": "Sheng Huang",
+          "orcid": "https://orcid.org/0009-0001-9298-7548"
+        },
+        {
+          "name": "Shu-Guang Liu",
+          "orcid": null
+        },
+        {
+          "name": "Wen-Xi Tang",
+          "orcid": null
+        },
+        {
+          "name": "Yu Zhu",
+          "orcid": null
+        },
+        {
+          "name": "Shu-Qing Zhao",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-08-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag196",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag196/70827876/rtag196.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 60,
+        "strategy": 0,
+        "application": 24,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 23,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“carbon sink、belowground、subtropical forest、management”等信号。",
+      "essence": {
+        "problem": "Abstract Accurate allometric models are essential for quantifying forest carbon sinks.",
+        "design": "Abstract Accurate allometric models are essential for quantifying forest carbon sinks.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag196"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/1365-2745.70434",
+      "title": "Extreme drought increases alpine carbon use efficiency through respiration suppression and community reorganization",
+      "authors": [
+        {
+          "name": "Ronglei Zhou",
+          "orcid": "https://orcid.org/0000-0001-9453-5847"
+        },
+        {
+          "name": "Jinsong Wang",
+          "orcid": "https://orcid.org/0000-0002-3425-7387"
+        },
+        {
+          "name": "Chen Chen",
+          "orcid": null
+        },
+        {
+          "name": "Jiayi Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Jinlong Peng",
+          "orcid": null
+        },
+        {
+          "name": "Qinyu Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Jiaqiang Liao",
+          "orcid": null
+        },
+        {
+          "name": "Zhenrui Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Ruiyang Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Dashuan Tian",
+          "orcid": "https://orcid.org/0000-0001-8023-1180"
+        },
+        {
+          "name": "Qingping Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Shuli Niu",
+          "orcid": "https://orcid.org/0000-0002-2394-2864"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70434",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70434",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 8,
+        "frontier": 0
+      },
+      "totalScore": 15,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、climate change、earth system model”等信号。",
+      "essence": {
+        "problem": "Abstract Climate change is intensifying drought globally, but whether severe drought weakens or strengthens ecosystem carbon use efficiency (CUE) remains unresolved.",
+        "design": "Here, using a long‐term (2015–2023) precipitation manipulation experiment in an alpine grassland on the Tibetan Plateau spanning five precipitation levels (P, 3/4 P, 1/2 P, 1/4 P, and 1/12 P, where P denotes ambient precipitation), we investigated how increasing drought intensity regulates ecosystem CUE and the ecological mechanisms driving these responses.",
+        "innovation": "Recent evidence suggests that respiration may decline more rapidly than carbon assimilation under extreme drought, but the ecological mechanisms underlying this shift are unknown.",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70434"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/ele.70453",
+      "title": "Dovetailing the Genetic, Developmental and Functional Bases of the Adaptation of Stomatal Traits to Climate",
+      "authors": [
+        {
+          "name": "Camila D. Medeiros",
+          "orcid": "https://orcid.org/0000-0002-5822-5603"
+        },
+        {
+          "name": "Thomas N. Buckley",
+          "orcid": null
+        },
+        {
+          "name": "Kevin Sartori",
+          "orcid": null
+        },
+        {
+          "name": "Cyrille Violle",
+          "orcid": null
+        },
+        {
+          "name": "Denis Vile",
+          "orcid": null
+        },
+        {
+          "name": "François Vasseur",
+          "orcid": null
+        },
+        {
+          "name": "Leila R. Fletcher",
+          "orcid": null
+        },
+        {
+          "name": "Matteo Pellegrini",
+          "orcid": null
+        },
+        {
+          "name": "Etienne Baron",
+          "orcid": null
+        },
+        {
+          "name": "Elena Kazakou",
+          "orcid": null
+        },
+        {
+          "name": "Lawren Sack",
+          "orcid": null
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-16",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70453",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70453",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 42,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 10,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“climate adaptation、adaptation”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Stomata, the micro‐valves on leaves, regulate CO 2 uptake and water loss.",
+        "design": "For 145 geographically diverse ecotypes of Arabidopsis thaliana grown in a common garden we tested hypotheses for the drivers of variation in g max and a stomatal size‐density trade‐off, considering epidermal optimization, epidermal development and climate adaptation.",
+        "innovation": "Dovetailing mechanisms influence stomatal adaptation to climate across a wide‐ranging species.",
+        "transferableIdeas": "可借鉴其common garden设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70453"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70452",
+      "title": "Remote Spectral Detection of Canopy Functional Dimensions Varying Within and Across Forest Types",
+      "authors": [
+        {
+          "name": "Fengqi Wu",
+          "orcid": "https://orcid.org/0000-0002-6512-6830"
+        },
+        {
+          "name": "Shuwen Liu",
+          "orcid": "https://orcid.org/0009-0004-0916-2257"
+        },
+        {
+          "name": "Constantin M. Zohner",
+          "orcid": null
+        },
+        {
+          "name": "Philip A. Townsend",
+          "orcid": "https://orcid.org/0000-0001-7003-8774"
+        },
+        {
+          "name": "Thomas W. Crowther",
+          "orcid": "https://orcid.org/0000-0001-5674-8913"
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Daryl Yang",
+          "orcid": "https://orcid.org/0000-0003-1705-7823"
+        },
+        {
+          "name": "Nan Yang",
+          "orcid": null
+        },
+        {
+          "name": "Tingting Dong",
+          "orcid": "https://orcid.org/0009-0006-2987-1645"
+        },
+        {
+          "name": "Weiying Xu",
+          "orcid": "https://orcid.org/0009-0009-8921-3179"
+        },
+        {
+          "name": "Zhihui Wang",
+          "orcid": null
+        },
+        {
+          "name": "Xiaojuan Liu",
+          "orcid": "https://orcid.org/0000-0002-9292-4432"
+        },
+        {
+          "name": "Guanhua Dai",
+          "orcid": null
+        },
+        {
+          "name": "Jinlong Dong",
+          "orcid": "https://orcid.org/0009-0006-2731-3551"
+        },
+        {
+          "name": "Sandra M. Durán",
+          "orcid": "https://orcid.org/0000-0003-2044-8139"
+        },
+        {
+          "name": "Fabian D. Schneider",
+          "orcid": "https://orcid.org/0000-0003-1791-2041"
+        },
+        {
+          "name": "Yuan Zeng",
+          "orcid": null
+        },
+        {
+          "name": "J. Hans C. Cornelissen",
+          "orcid": null
+        },
+        {
+          "name": "Jens Kattge",
+          "orcid": "https://orcid.org/0000-0002-1022-8469"
+        },
+        {
+          "name": "Jin Wu",
+          "orcid": "https://orcid.org/0000-0001-8991-3970"
+        },
+        {
+          "name": "Gregory P. Asner",
+          "orcid": "https://orcid.org/0000-0001-7893-6421"
+        },
+        {
+          "name": "Jeannine Cavender‐Bares",
+          "orcid": "https://orcid.org/0000-0003-3375-9630"
+        },
+        {
+          "name": "Peter B. Reich",
+          "orcid": "https://orcid.org/0000-0003-4424-662X"
+        },
+        {
+          "name": "Zhengbing Yan",
+          "orcid": "https://orcid.org/0000-0002-5028-8167"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70452",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70452",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 50,
+        "frontier": 0
+      },
+      "totalScore": 11,
+      "recommendationReason": "重点体现跨学科融合与应用价值；命中“monitoring、scenario、spectral、economics”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "design": "Through site‐training scenario, leaf‐to‐canopy scaling and spectral‐domain modelling tests, we find that reliable canopy trait retrieval depends not only on trait and spectral coverage, but also on preserving trait‐spectral relationships across sites and scales.",
+        "innovation": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70452"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 44,
+    "coreCandidateCount": 44,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "journal-of-ecology": 1,
+      "ecology-letters": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 48
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

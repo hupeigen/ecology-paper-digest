@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-18T13:51:33.039Z",
+  "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-18",
+      "date": "2026-09-18",
+      "period": {
+        "from": "2026-08-20",
+        "to": "2026-09-18"
+      },
+      "generatedAt": "2026-09-18T13:51:23.016Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-18",
+      "path": "daily/2026-09-18.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Restoration and management",
+        "Plant-soil interactions",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag210",
+        "10.1093/jpe/rtag196",
+        "10.1111/1365-2745.70434",
+        "10.1111/ele.70453",
+        "10.1111/ele.70452"
+      ],
+      "warnings": []
+    }
+  ],
+  "weekly": [
+    {
+      "kind": "weekly",
+      "reportId": "2026-W37",
+      "date": "2026-09-18",
+      "period": {
+        "from": "2026-09-07",
+        "to": "2026-09-13"
+      },
+      "generatedAt": "2026-09-18T13:51:33.039Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文周报 · 2026-09-07 至 2026-09-13",
+      "path": "weekly/2026-W37.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Restoration and management",
+        "Modeling and AI",
+        "Plant-soil interactions"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag210",
+        "10.1093/jpe/rtag207",
+        "10.1093/jpe/rtag218"
+      ],
+      "warnings": []
+    }
+  ]
+}

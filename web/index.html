@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#163b32">
+  <meta name="description" content="面向生态学研究的期刊论文日报与周报">
+  <title>生态论文雷达｜日报与周报</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="./#/latest" aria-label="返回最新日报">
+      <span class="brand-mark">ES</span>
+      <span>
+        <strong>生态论文雷达</strong>
+        <small>Ecology Paper Digest</small>
+      </span>
+    </a>
+    <nav class="top-nav" aria-label="主导航">
+      <a href="./#/latest" data-nav="latest">最新日报</a>
+      <a href="./#/weekly" data-nav="weekly">最新周报</a>
+      <a href="./#/archive" data-nav="archive">历史归档</a>
+    </nav>
+    <div class="freshness" id="freshness">正在连接数据…</div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="sidebar-heading">
+        <p class="eyebrow">REPORT ARCHIVE</p>
+        <h1>论文雷达</h1>
+        <p>追踪生态学、全球变化与碳循环的重要进展。</p>
+      </div>
+      <label class="search-box">
+        <span>搜索历史</span>
+        <input id="searchInput" type="search" placeholder="标题、期刊、关键词" autocomplete="off">
+      </label>
+      <div id="reportList" class="report-list" aria-live="polite"></div>
+    </aside>
+
+    <section class="content" id="content" aria-live="polite">
+      <div class="loading-card">
+        <span class="loader"></span>
+        <p>正在读取报告索引…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>数据来源：Crossref、OpenAlex、DOAJ、Unpaywall 与公开论文页面。</p>
+    <p>仅展示公开题录、结构化总结和原文链接；不公开完整摘要或全文，不绕过付费墙。</p>
+  </footer>
+
+  <template id="emptyTemplate">
+    <div class="empty-state">
+      <span>∅</span>
+      <h2>暂无报告</h2>
+      <p>首次数据更新完成后，日报与周报会显示在这里。</p>
+    </div>
+  </template>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
