@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T14:12:59.870Z",
+  "updatedAt": "2026-09-19T00:26:40.885Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-19",
+      "date": "2026-09-19",
+      "period": {
+        "from": "2026-08-21",
+        "to": "2026-09-19"
+      },
+      "generatedAt": "2026-09-19T00:26:40.885Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-19",
+      "path": "daily/2026-09-19.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Modeling and AI",
+        "Restoration and management",
+        "Rhizosphere",
+        "Exudate",
+        "Soil structure",
+        "Microbial population biology",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Trait",
+        "Canopy",
+        "Multidimensional scaling",
+        "Subtropics"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag163",
+        "10.1093/jpe/rtag229",
+        "10.1111/ele.70452",
+        "10.1111/1365-2745.70429",
+        "10.1111/ele.70451"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-18",
