@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-20",
+  "date": "2026-09-20",
+  "period": {
+    "from": "2026-08-22",
+    "to": "2026-09-20"
+  },
+  "generatedAt": "2026-09-20T00:28:13.133Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-20",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag207",
+      "title": "Changes in the direction and intensity of plasticity bias between plant nitrogen- and water-use efficiency under nitrogen addition and drought",
+      "authors": [
+        {
+          "name": "Jiaxin Hu",
+          "orcid": null
+        },
+        {
+          "name": "Wang Ma",
+          "orcid": null
+        },
+        {
+          "name": "Pingzhou Wang",
+          "orcid": null
+        },
+        {
+          "name": "Bingsa Li",
+          "orcid": null
+        },
+        {
+          "name": "Changhao Hu",
+          "orcid": null
+        },
+        {
+          "name": "Mingming Xu",
+          "orcid": null
+        },
+        {
+          "name": "Zhengwen Wang",
+          "orcid": null
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-08",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag207",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag207/70989450/rtag207.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Plasticity",
+        "Temperate climate",
+        "Nitrogen",
+        "Phenotypic plasticity",
+        "Fluctuating asymmetry",
+        "Water-use efficiency"
+      ],
+      "valueScores": {
+        "advisor": 50,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 15,
+      "recommendationReason": "重点体现导师方向；命中“drought、nitrogen deposition”等信号。",
+      "essence": {
+        "problem": "Abstract Plants adapt to the changes of nitrogen and water availability by balancing nitrogen use efficiency (NUE) and water use efficiency (WUE) especially in grasslands, where water and nitrogen are limiting plant growth.",
+        "design": "Under either nitrogen addition or drought, the NUE-WUE plasticity bias in most species consistently exhibited a WUE-favoring direction, with an increased intensity.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其nitrogen addition设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag207"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7211942415"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag225",
+      "title": "Elevation structures plant growth and defence but not resistance to slug herbivory",
+      "authors": [
+        {
+          "name": "Julia Sánchez Vilas",
+          "orcid": "https://orcid.org/0000-0002-4049-8443"
+        },
+        {
+          "name": "Sergio Rasmann",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-18",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag225",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag225",
+      "isOpenAccess": true,
+      "keywords": [
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)",
+        "Brassicaceae",
+        "Sinigrin"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 50
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现前沿突破；命中“resistance、trait-based”等信号。",
+      "essence": {
+        "problem": "Abstract Predicting how plant resistance to herbivory varies along environmental gradients is a central goal in ecology, yet most empirical tests rely on insect herbivores and may not generalize across consumer guilds.",
+        "design": "We conducted a common garden experiment using six closely related Brassicaceae species spanning approximately 2,000 m of elevational distribution in the Swiss Alps.",
+        "innovation": "Rather than elevation per se, species-level trait variation, particularly growth strategies, emerged as a key determinant of herbivory outcomes, highlighting the importance of herbivore functional identity in trait-based frameworks.",
+        "transferableIdeas": "可借鉴其common garden设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag225"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213562062"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/1365-2745.70427",
+      "title": "Plant invader alters root fungal microbiome, physiology and biomass allocation in native understory species",
+      "authors": [
+        {
+          "name": "Jessie Mutz",
+          "orcid": "https://orcid.org/0000-0003-3956-7760"
+        },
+        {
+          "name": "J. Mason Heberling",
+          "orcid": "https://orcid.org/0000-0003-0756-5090"
+        },
+        {
+          "name": "Stephanie N. Kivlin",
+          "orcid": "https://orcid.org/0000-0003-2442-7773"
+        },
+        {
+          "name": "Nicholas G. Smith",
+          "orcid": "https://orcid.org/0000-0001-7048-4387"
+        },
+        {
+          "name": "Snehanjana Chatterjee",
+          "orcid": null
+        },
+        {
+          "name": "Evan A. Perkowski",
+          "orcid": "https://orcid.org/0000-0002-9523-8892"
+        },
+        {
+          "name": "Lalasia Bialic‐Murphy",
+          "orcid": "https://orcid.org/0000-0001-6046-8316"
+        },
+        {
+          "name": "Joseph D. Edwards",
+          "orcid": "https://orcid.org/0000-0002-0543-4233"
+        },
+        {
+          "name": "Susan Kalisz",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-08",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70427",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70427",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Multi-omics and health",
+        "Understory",
+        "Herbaceous plant",
+        "Biomass (ecology)",
+        "Plant community",
+        "Native plant"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现导师方向与前沿突破；命中“mycorrhizal、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Plant invaders that produce novel antimicrobial compounds can alter local soil properties and below‐ground microbial communities, including both arbuscular mycorrhizal (AM) and pathogenic fungi.",
+        "design": "We established a common garden experiment in a forest by transplanting replicates of 10 common native herbaceous understory species (eight mycorrhizal and two non‐mycorrhizal species) into an area previously uninvaded by the widespread invader, Alliaria petiolata (garlic mustard).",
+        "innovation": "Abstract Plant invaders that produce novel antimicrobial compounds can alter local soil properties and below‐ground microbial communities, including both arbuscular mycorrhizal (AM) and pathogenic fungi.",
+        "transferableIdeas": "可借鉴其common garden设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70427"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7211972096"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1002/imt2.70169",
+      "title": "Soil‐derived, gut‐dominant generalist bacteria shape the fitness of folivorous larvae",
+      "authors": [
+        {
+          "name": "Yu‐xuan Zheng",
+          "orcid": "https://orcid.org/0009-0003-9310-2232"
+        },
+        {
+          "name": "Ying Wang",
+          "orcid": "https://orcid.org/0000-0002-5789-2850"
+        },
+        {
+          "name": "Xiao‐man Zhang",
+          "orcid": "https://orcid.org/0000-0002-1623-9062"
+        },
+        {
+          "name": "Qian Jin",
+          "orcid": null
+        },
+        {
+          "name": "Yan Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Gui‐fang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yong‐qi Shao",
+          "orcid": null
+        },
+        {
+          "name": "Jing Li",
+          "orcid": null
+        },
+        {
+          "name": "Cheng Sun",
+          "orcid": null
+        },
+        {
+          "name": "Wei‐dong Kong",
+          "orcid": null
+        },
+        {
+          "name": "Cai‐qing Yang",
+          "orcid": "https://orcid.org/0009-0003-9997-8374"
+        },
+        {
+          "name": "Ai‐bing Zhang",
+          "orcid": "https://orcid.org/0000-0003-3450-5421"
+        }
+      ],
+      "journal": "iMeta",
+      "publishedAt": "2026-08-30",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1002/imt2.70169",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.70169",
+      "isOpenAccess": true,
+      "keywords": [
+        "Generalist and specialist species",
+        "Larva",
+        "Host (biology)",
+        "Microbiome",
+        "Abiotic component",
+        "Symbiosis",
+        "Mutualism (biology)",
+        "Symbiotic bacteria"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现应用价值与前沿突破；命中“management、mechanistic”等信号。",
+      "essence": {
+        "problem": "Whether Lepidoptera harbor a conserved core gut microbiome has long remained contentious.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1002%2Fimt2.70169"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7204841783"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/1365-2745.70435",
+      "title": "Rapid evolution of multidimensional traits and climate‐driven syndromes in an invasive plant across latitudinal gradients",
+      "authors": [
+        {
+          "name": "Yaolin Guo",
+          "orcid": "https://orcid.org/0000-0002-2203-1970"
+        },
+        {
+          "name": "Jinan Lu",
+          "orcid": null
+        },
+        {
+          "name": "Christina L. Richards",
+          "orcid": "https://orcid.org/0000-0001-7848-5165"
+        },
+        {
+          "name": "Lin‐Feng Li",
+          "orcid": "https://orcid.org/0000-0003-2820-3187"
+        },
+        {
+          "name": "Jihua Wu",
+          "orcid": "https://orcid.org/0000-0001-8623-8519"
+        },
+        {
+          "name": "Evan Siemann",
+          "orcid": null
+        },
+        {
+          "name": "Bo Li",
+          "orcid": "https://orcid.org/0000-0002-0439-5666"
+        },
+        {
+          "name": "Rui‐Ting Ju",
+          "orcid": "https://orcid.org/0000-0001-9265-8245"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-11",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70435",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70435",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现应用价值；命中“forecast”等信号。",
+      "essence": {
+        "problem": "Abstract Rapid adaptive evolution is increasingly recognized as a key driver of plant invasion success.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其common garden设计。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70435"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 38,
+    "coreCandidateCount": 38,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "journal-of-ecology": 2,
+      "imeta": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 50
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

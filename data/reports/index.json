@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T00:26:40.885Z",
+  "updatedAt": "2026-09-20T00:28:13.133Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-20",
+      "date": "2026-09-20",
+      "period": {
+        "from": "2026-08-22",
+        "to": "2026-09-20"
+      },
+      "generatedAt": "2026-09-20T00:28:13.133Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-20",
+      "path": "daily/2026-09-20.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "iMeta"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Plasticity",
+        "Temperate climate",
+        "Nitrogen",
+        "Phenotypic plasticity",
+        "Fluctuating asymmetry",
+        "Water-use efficiency",
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)",
+        "Brassicaceae",
+        "Sinigrin",
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Multi-omics and health",
+        "Understory"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag207",
+        "10.1093/jpe/rtag225",
+        "10.1111/1365-2745.70427",
+        "10.1002/imt2.70169",
+        "10.1111/1365-2745.70435"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-19",
