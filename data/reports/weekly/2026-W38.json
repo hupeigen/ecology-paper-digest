@@ -1,0 +1,278 @@
+{
+  "version": 1,
+  "kind": "weekly",
+  "reportId": "2026-W38",
+  "date": "2026-09-21",
+  "period": {
+    "from": "2026-09-14",
+    "to": "2026-09-20"
+  },
+  "generatedAt": "2026-09-21T00:28:11.125Z",
+  "selectionTitle": "生态学高价值论文周报 · 2026-09-14 至 2026-09-20",
+  "paperCount": 3,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag229",
+      "title": "Multi-organ stoichiometry of C:N:P reflects shifts in plant adaptation strategies during secondary succession in temperate forests",
+      "authors": [
+        {
+          "name": "Lili Li",
+          "orcid": null
+        },
+        {
+          "name": "Jiahui Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Chaolian Jiao",
+          "orcid": null
+        },
+        {
+          "name": "Jihua Hou",
+          "orcid": null
+        },
+        {
+          "name": "Nianpeng He",
+          "orcid": "https://orcid.org/0000-0002-0458-5953"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-17",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag229",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag229/71179169/rtag229.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI",
+        "Restoration and management",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 42,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 12,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“restoration、management、restoration、adaptation”等信号。",
+      "essence": {
+        "problem": "Abstract Secondary succession following anthropogenic disturbance is widespread in temperate mixed conifer–broadleaf forests.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag229"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213468265"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag228",
+      "title": "How climatic, edaphic, and biotic drivers collectively govern large-scale grassland biomass allocation",
+      "authors": [
+        {
+          "name": "Liucui Wu",
+          "orcid": null
+        },
+        {
+          "name": "Zehao Fan",
+          "orcid": null
+        },
+        {
+          "name": "Tianshan Zha",
+          "orcid": null
+        },
+        {
+          "name": "Xinwei Guo",
+          "orcid": null
+        },
+        {
+          "name": "Weirong Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yue Jiao",
+          "orcid": null
+        },
+        {
+          "name": "Mengdie Wang",
+          "orcid": null
+        },
+        {
+          "name": "Peihong Song",
+          "orcid": null
+        },
+        {
+          "name": "Zhongmin Hu",
+          "orcid": null
+        },
+        {
+          "name": "Zhongyi Sun",
+          "orcid": "https://orcid.org/0000-0002-5099-5363"
+        },
+        {
+          "name": "Chuan Jin",
+          "orcid": "https://orcid.org/0000-0002-6119-4617"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-17",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag228",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag228/71179157/rtag228.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Restoration and management",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 10,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“belowground、carbon sequestration、management、mechanism”等信号。",
+      "essence": {
+        "problem": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change.",
+        "design": "By integrating multi-scale observations and global datasets, this study applied extreme gradient boosting (XGBoost) and used SHapley Additive exPlanations (SHAP) to quantify variable importance and partial dependence across environmental gradients, revealing how climatic, edaphic, and biological factors synergistically regulate large-scale grassland biomass allocation, and produced a global dataset at 0.",
+        "innovation": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag228"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213443731"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag225",
+      "title": "Elevation structures plant growth and defence but not resistance to slug herbivory",
+      "authors": [
+        {
+          "name": "Julia Sánchez Vilas",
+          "orcid": "https://orcid.org/0000-0002-4049-8443"
+        },
+        {
+          "name": "Sergio Rasmann",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-18",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag225",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag225",
+      "isOpenAccess": true,
+      "keywords": [
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)",
+        "Brassicaceae",
+        "Sinigrin"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 50
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现前沿突破；命中“resistance、trait-based”等信号。",
+      "essence": {
+        "problem": "Abstract Predicting how plant resistance to herbivory varies along environmental gradients is a central goal in ecology, yet most empirical tests rely on insect herbivores and may not generalize across consumer guilds.",
+        "design": "We conducted a common garden experiment using six closely related Brassicaceae species spanning approximately 2,000 m of elevational distribution in the Swiss Alps.",
+        "innovation": "Rather than elevation per se, species-level trait variation, particularly growth strategies, emerged as a key determinant of herbivory outcomes, highlighting the importance of herbivore functional identity in trait-based frameworks.",
+        "transferableIdeas": "可借鉴其common garden设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag225"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213562062"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "weekly",
+    "target": 8,
+    "minimum": 4,
+    "selectedCount": 3,
+    "candidateCount": 10,
+    "coreCandidateCount": 10,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 3
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "llmUsed": false,
+    "sourceCandidateCount": 10
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 3 篇符合约束的论文，未使用低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T00:28:13.133Z",
+  "updatedAt": "2026-09-21T00:28:11.125Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-21",
+      "date": "2026-09-21",
+      "period": {
+        "from": "2026-08-23",
+        "to": "2026-09-21"
+      },
+      "generatedAt": "2026-09-21T00:28:03.297Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-21",
+      "path": "daily/2026-09-21.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Rhizosphere",
+        "Species richness",
+        "Host (biology)",
+        "Beta diversity",
+        "Ecosystem",
+        "Biodiversity",
+        "Community structure",
+        "Ecosystem monitoring",
+        "Ordination",
+        "Temperate rainforest",
+        "Trait",
+        "Temperate deciduous forest",
+        "Temperate forest",
+        "Context (archaeology)",
+        "Modeling and AI",
+        "Environmental stress",
+        "Predation",
+        "Predictability",
+        "Environmental change"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag218",
+        "10.1093/jpe/rtag226",
+        "10.1111/1365-2745.70437",
+        "10.1111/1365-2745.70432",
+        "10.1111/ele.70454"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-20",
@@ -148,6 +196,50 @@
     }
   ],
   "weekly": [
+    {
+      "kind": "weekly",
+      "reportId": "2026-W38",
+      "date": "2026-09-21",
+      "period": {
+        "from": "2026-09-14",
+        "to": "2026-09-20"
+      },
+      "generatedAt": "2026-09-21T00:28:11.125Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文周报 · 2026-09-14 至 2026-09-20",
+      "path": "weekly/2026-W38.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "Restoration and management",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate",
+        "Carbon cycling",
+        "Climate change",
+        "Plant-soil interactions",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration",
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag229",
+        "10.1093/jpe/rtag228",
+        "10.1093/jpe/rtag225"
+      ],
+      "warnings": []
+    },
     {
       "kind": "weekly",
       "reportId": "2026-W37",
