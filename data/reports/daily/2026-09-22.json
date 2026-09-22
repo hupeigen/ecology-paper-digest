@@ -1,0 +1,413 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-22",
+  "date": "2026-09-22",
+  "period": {
+    "from": "2026-08-24",
+    "to": "2026-09-22"
+  },
+  "generatedAt": "2026-09-22T00:26:41.194Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-22",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70439",
+      "title": "Identifying future climate refugia in central European mountain forests",
+      "authors": [
+        {
+          "name": "Sarah Le Berre",
+          "orcid": "https://orcid.org/0000-0001-9623-6445"
+        },
+        {
+          "name": "Dominik Thom",
+          "orcid": "https://orcid.org/0000-0001-8091-6075"
+        },
+        {
+          "name": "Rupert Seidl",
+          "orcid": "https://orcid.org/0000-0002-3338-3402"
+        },
+        {
+          "name": "Cécile Remy",
+          "orcid": "https://orcid.org/0000-0003-1231-0498"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70439",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70439",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 24,
+        "application": 40,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 13,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“climate change、management、conservation”等信号。",
+      "essence": {
+        "problem": "Abstract Forests are under increased pressure from anthropogenic climate change, causing profound changes in species ranges and the composition of forest communities.",
+        "design": "Using the individual‐based forest landscape and disturbance model ‘iLand’, we simulated forest development and disturbances (wind and bark beetle outbreaks) over 1000 years under historic and future climate (Representative Concentration Pathways [RCP] 4.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70439"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag201",
+      "title": "Microbial community assembly in relation to microclimate and intraspecific trait variation: A case study from the subtropical forests of Mount Wuyi",
+      "authors": [
+        {
+          "name": "Zhi-jie Guan",
+          "orcid": null
+        },
+        {
+          "name": "Dong-hao Wu",
+          "orcid": null
+        },
+        {
+          "name": "Ruo-ming Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Xiao-yu Liu",
+          "orcid": null
+        },
+        {
+          "name": "Hong-bo Yu",
+          "orcid": null
+        },
+        {
+          "name": "Wei-bin You",
+          "orcid": "https://orcid.org/0000-0003-1855-9892"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-09",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag201",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag201",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology",
+        "Biodiversity",
+        "Microclimate",
+        "Interspecific competition",
+        "Evergreen",
+        "Intraspecific competition",
+        "Subtropics",
+        "Temperate forest"
+      ],
+      "valueScores": {
+        "advisor": 36,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 11,
+      "recommendationReason": "重点体现导师方向；命中“microbial community、subtropical forest”等信号。",
+      "essence": {
+        "problem": "Abstract Downed log decomposition is a critical process in forest carbon cycling, with microbial communities playing a key role and being modulated by substrate quality.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag201"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7212019978"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag228",
+      "title": "How climatic, edaphic, and biotic drivers collectively govern large-scale grassland biomass allocation",
+      "authors": [
+        {
+          "name": "Liucui Wu",
+          "orcid": null
+        },
+        {
+          "name": "Zehao Fan",
+          "orcid": null
+        },
+        {
+          "name": "Tianshan Zha",
+          "orcid": null
+        },
+        {
+          "name": "Xinwei Guo",
+          "orcid": null
+        },
+        {
+          "name": "Weirong Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yue Jiao",
+          "orcid": null
+        },
+        {
+          "name": "Mengdie Wang",
+          "orcid": null
+        },
+        {
+          "name": "Peihong Song",
+          "orcid": null
+        },
+        {
+          "name": "Zhongmin Hu",
+          "orcid": null
+        },
+        {
+          "name": "Zhongyi Sun",
+          "orcid": "https://orcid.org/0000-0002-5099-5363"
+        },
+        {
+          "name": "Chuan Jin",
+          "orcid": "https://orcid.org/0000-0002-6119-4617"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-17",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag228",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag228/71179157/rtag228.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Restoration and management",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 10,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“belowground、carbon sequestration、management、mechanism”等信号。",
+      "essence": {
+        "problem": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change.",
+        "design": "By integrating multi-scale observations and global datasets, this study applied extreme gradient boosting (XGBoost) and used SHapley Additive exPlanations (SHAP) to quantify variable importance and partial dependence across environmental gradients, revealing how climatic, edaphic, and biological factors synergistically regulate large-scale grassland biomass allocation, and produced a global dataset at 0.",
+        "innovation": "Abstract The pattern of vegetation biomass allocation is a key mechanism for understanding the carbon sequestration function of grassland ecosystems and their responses to global change.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag228"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213443731"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/ele.70456",
+      "title": "Experimental Evidence of High‐Dimensional Elementome Shifts Due to Coexistence and Its Effects on Growth Rates",
+      "authors": [
+        {
+          "name": "M. Fernández‐Martínez",
+          "orcid": "https://orcid.org/0000-0002-5661-3610"
+        },
+        {
+          "name": "A. Martín",
+          "orcid": "https://orcid.org/0000-0002-5053-5535"
+        },
+        {
+          "name": "E. Rodríguez‐Penedo",
+          "orcid": "https://orcid.org/0009-0003-1962-4227"
+        },
+        {
+          "name": "S. Poblador",
+          "orcid": "https://orcid.org/0000-0002-4975-9777"
+        },
+        {
+          "name": "E. Romero",
+          "orcid": "https://orcid.org/0000-0003-3115-7572"
+        },
+        {
+          "name": "F. Sabater",
+          "orcid": "https://orcid.org/0000-0001-6767-231X"
+        },
+        {
+          "name": "R. Grau‐Andrés",
+          "orcid": "https://orcid.org/0000-0001-9020-1276"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-20",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70456",
+      "oaUrl": "https://doi.org/10.1111/ele.70456",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biogeochemical cycle",
+        "Microcosm",
+        "Niche",
+        "Environmental change",
+        "Coexistence theory",
+        "Moss",
+        "Biodiversity",
+        "Species diversity"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 42
+      },
+      "totalScore": 6,
+      "recommendationReason": "重点体现前沿突破；命中“experimental evidence”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Elementomes (i.",
+        "design": "While there is vast observational evidence for that, experimental evidence remains elusive.",
+        "innovation": "Overall, our results provide the first experimental evidence of high‐dimensional shifts in elementomes due to coexistence, supporting the biogeochemical niche hypothesis.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70456"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213770345"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/1365-2745.70438",
+      "title": "Source or sink: The role of plant litter as an environmental reservoir for plant pathogens",
+      "authors": [
+        {
+          "name": "Margaret W. Simon",
+          "orcid": "https://orcid.org/0000-0001-8269-2589"
+        },
+        {
+          "name": "Robert D. Holt",
+          "orcid": null
+        },
+        {
+          "name": "Maria E. Orive",
+          "orcid": "https://orcid.org/0000-0003-4825-0554"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70438",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70438",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“biodiversity、food security、mechanism”等信号。",
+      "essence": {
+        "problem": "Abstract Emerging infectious plant disease is a growing threat to biodiversity and food security.",
+        "design": "To contextualize this opposing evidence, we develop two mathematical models, a plant‐litter model (plant host, litter and pathogens interact) and a plant‐only model describing obligate biotrophy.",
+        "innovation": "pathogen reproductive number ) and the potential to colonize a new host (as measured by steady‐state pathogen density: colonization success generally requires many invasion attempts, which is facilitated by high pathogen levels).",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70438"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 34,
+    "coreCandidateCount": 34,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "journal-of-ecology": 2,
+      "ecology-letters": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 57
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

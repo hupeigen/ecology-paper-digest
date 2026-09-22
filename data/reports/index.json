@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T00:28:11.125Z",
+  "updatedAt": "2026-09-22T00:26:41.194Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-22",
+      "date": "2026-09-22",
+      "period": {
+        "from": "2026-08-24",
+        "to": "2026-09-22"
+      },
+      "generatedAt": "2026-09-22T00:26:41.194Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-22",
+      "path": "daily/2026-09-22.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Restoration and management",
+        "Soil ecology",
+        "Biodiversity",
+        "Microclimate",
+        "Interspecific competition",
+        "Evergreen",
+        "Intraspecific competition",
+        "Subtropics",
+        "Temperate forest",
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration",
+        "Biogeochemical cycle",
+        "Microcosm",
+        "Niche",
+        "Environmental change"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70439",
+        "10.1093/jpe/rtag201",
+        "10.1093/jpe/rtag228",
+        "10.1111/ele.70456",
+        "10.1111/1365-2745.70438"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-21",
