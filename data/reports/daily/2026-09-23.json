@@ -1,0 +1,443 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-23",
+  "date": "2026-09-23",
+  "period": {
+    "from": "2026-08-25",
+    "to": "2026-09-23"
+  },
+  "generatedAt": "2026-09-23T00:25:55.635Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-23",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70447",
+      "title": "Nitrogen addition weakens the positive effect of tree diversity on soil microbial biomass",
+      "authors": [
+        {
+          "name": "Zhaohui Zhan",
+          "orcid": "https://orcid.org/0009-0000-0969-4377"
+        },
+        {
+          "name": "Nicolas Fanin",
+          "orcid": "https://orcid.org/0000-0003-4195-855X"
+        },
+        {
+          "name": "Xiaolei Sun",
+          "orcid": null
+        },
+        {
+          "name": "Sirui Peng",
+          "orcid": "https://orcid.org/0009-0003-5117-1950"
+        },
+        {
+          "name": "Zaipeng Yu",
+          "orcid": null
+        },
+        {
+          "name": "Xiaohua Wan",
+          "orcid": null
+        },
+        {
+          "name": "Hui Jia",
+          "orcid": null
+        },
+        {
+          "name": "Mengjuan Wang",
+          "orcid": null
+        },
+        {
+          "name": "Minghui Da",
+          "orcid": null
+        },
+        {
+          "name": "Shengen Liu",
+          "orcid": null
+        },
+        {
+          "name": "Zhiqun Huang",
+          "orcid": "https://orcid.org/0000-0002-8929-4863"
+        },
+        {
+          "name": "Nico Eisenhauer",
+          "orcid": "https://orcid.org/0000-0002-0371-6720"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70447",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70447",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management",
+        "Species richness",
+        "Biomass (ecology)",
+        "Ecosystem",
+        "Soil biology"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 16,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 10,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“mycorrhizal、biodiversity、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Plant diversity interacts with soil microorganisms to sustain ecosystem functions.",
+        "design": "This study involved a field experiment in which four levels of tree species richness (1, 4, 8 and 16 species) and N addition were factorially manipulated to assess their effects on total soil microbial biomass, including the biomass of bacteria, fungi and arbuscular mycorrhizal fungi, as well as how N addition modulates these effects.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其field experiment、nitrogen addition设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "field experiment",
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70447"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213977640"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2745.70449",
+      "title": "Changes in plant phosphorus acquisition traits across forest biomes along a 3000‐m elevational gradient",
+      "authors": [
+        {
+          "name": "Qi Shen",
+          "orcid": "https://orcid.org/0000-0003-2817-5673"
+        },
+        {
+          "name": "Mengguang Han",
+          "orcid": "https://orcid.org/0000-0003-4020-991X"
+        },
+        {
+          "name": "Quanxin Zeng",
+          "orcid": "https://orcid.org/0009-0004-1300-3523"
+        },
+        {
+          "name": "Zhenping Liu",
+          "orcid": null
+        },
+        {
+          "name": "Jiahou Li",
+          "orcid": null
+        },
+        {
+          "name": "Ying Chen",
+          "orcid": null
+        },
+        {
+          "name": "Wanglin Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Haigang Li",
+          "orcid": null
+        },
+        {
+          "name": "Hans Lambers",
+          "orcid": "https://orcid.org/0000-0002-4118-2272"
+        },
+        {
+          "name": "Biao Zhu",
+          "orcid": "https://orcid.org/0000-0001-9858-7943"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70449",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70449",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Rhizosphere",
+        "Biome",
+        "Tropical and subtropical moist broadleaf forests",
+        "Nutrient",
+        "Phosphorus",
+        "Ecosystem"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现导师方向与前沿突破；命中“subtropical forest、mycorrhizal、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Tropical forests are frequently constrained by phosphorus (P) limitation, yet how plants maintain their P status under low soil P availability through adjustments in P‐acquisition traits remains poorly understood.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "By linking species‐specific trait expression to environmental drivers, our study provides a mechanistic framework for understanding how forests maintain below‐ground nutrient function and species coexistence under shifting environmental conditions.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70449"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213974395"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag233",
+      "title": "Seasonal decoupling of climate and human activity on litter and dung decomposition across the Qinghai-Xizang Plateau",
+      "authors": [
+        {
+          "name": "Weikang Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Zechen Peng",
+          "orcid": null
+        },
+        {
+          "name": "Xiong Zhao He",
+          "orcid": null
+        },
+        {
+          "name": "Fujiang Hou",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag233",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag233",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Soil ecology",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 8,
+        "application": 8,
+        "interdisciplinary": 16,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现跨学科融合与导师方向；命中“litter decomposition、climate change、management、remote sensing”等信号。",
+      "essence": {
+        "problem": "Abstract In grassland ecosystems of the Qinghai-Xizang Plateau, litter and dung decomposition are essential for nutrient cycling and productivity.",
+        "design": "Using remote sensing data, field observations, and machine learning, we examined spatiotemporal patterns of litter decomposition mass (LDM) and dung decomposition mass (DDM) from 2000 to 2020.",
+        "innovation": "During the NGS, human activity emerged as the near-universal positive driver (> 90% of the area), while the climate weakened substantially, revealing a seasonal decoupling of decomposition controls.",
+        "transferableIdeas": "可借鉴其remote sensing、machine learning设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "remote sensing",
+        "machine learning"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag233"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213987771"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1093/jpe/rtag211",
+      "title": "Thinner roots were more efficient to increase soil organic carbon and benefited fungal necromass in an alpine meadow",
+      "authors": [
+        {
+          "name": "Sihan Chen",
+          "orcid": null
+        },
+        {
+          "name": "Lingyan Hu",
+          "orcid": null
+        },
+        {
+          "name": "Xianhui Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Hui Guo",
+          "orcid": null
+        },
+        {
+          "name": "Peng Wang",
+          "orcid": "https://orcid.org/0000-0003-0149-966X"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag211",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag211/70935142/rtag211.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Soil ecology",
+        "Soil carbon",
+        "Microbial population biology",
+        "Abundance (ecology)",
+        "Carbon fibers",
+        "Carbon cycle",
+        "Vegetation (pathology)"
+      ],
+      "valueScores": {
+        "advisor": 34,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 10,
+      "recommendationReason": "重点体现导师方向；命中“soil organic carbon、microbial community”等信号。",
+      "essence": {
+        "problem": "Abstract Microbial necromass is a key regulator of soil organic carbon (SOC) stability in terrestrial ecosystems, and its formation is directly linked to microbial life cycles.",
+        "design": "We conducted a plant functional group removal experiment (graminoids, forbs, legumes) in an alpine meadow on the Qinghai-Tibet Plateau to reveal the pathways through which root functional traits mediate SOC change, microbial community strategies (r- vs.",
+        "innovation": "We conducted a plant functional group removal experiment (graminoids, forbs, legumes) in an alpine meadow on the Qinghai-Tibet Plateau to reveal the pathways through which root functional traits mediate SOC change, microbial community strategies (r- vs.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag211"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7207580466"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70455",
+      "title": "Phylogeny Drives Carrion Consumption by Vertebrate Scavengers Towards Distantly Related Species",
+      "authors": [
+        {
+          "name": "Tatiana Pessano‐Serrat",
+          "orcid": "https://orcid.org/0009-0000-9313-1402"
+        },
+        {
+          "name": "Roberto C. Rodríguez‐Caro",
+          "orcid": "https://orcid.org/0000-0003-2321-9497"
+        },
+        {
+          "name": "Daniel Redondo‐Gómez",
+          "orcid": "https://orcid.org/0000-0001-8942-8203"
+        },
+        {
+          "name": "Adrian Orihuela‐Torres",
+          "orcid": "https://orcid.org/0000-0002-7186-3984"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-20",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70455",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70455",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现应用价值与前沿突破；命中“monitoring、mechanism”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Carrion is a highly nutritious resource that attracts diverse organisms and plays a key role in ecosystem functioning.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Our results revealed a consistent pattern across the assemblage, showing that scavengers consumed carcasses that were more phylogenetically distant than expected by chance, although this pattern varied slightly between taxonomic classes and at the species level.",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70455"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 35,
+    "coreCandidateCount": 35,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "jpe": 2,
+      "ecology-letters": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 64
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T00:26:41.194Z",
+  "updatedAt": "2026-09-23T00:25:55.635Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-23",
+      "date": "2026-09-23",
+      "period": {
+        "from": "2026-08-25",
+        "to": "2026-09-23"
+      },
+      "generatedAt": "2026-09-23T00:25:55.635Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-23",
+      "path": "daily/2026-09-23.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management",
+        "Species richness",
+        "Biomass (ecology)",
+        "Ecosystem",
+        "Soil biology",
+        "Rhizosphere",
+        "Biome",
+        "Tropical and subtropical moist broadleaf forests",
+        "Nutrient",
+        "Phosphorus",
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter",
+        "Carbon cycling"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70447",
+        "10.1111/1365-2745.70449",
+        "10.1093/jpe/rtag233",
+        "10.1093/jpe/rtag211",
+        "10.1111/ele.70455"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-22",
