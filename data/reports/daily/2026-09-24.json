@@ -1,0 +1,538 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-24",
+  "date": "2026-09-24",
+  "period": {
+    "from": "2026-08-26",
+    "to": "2026-09-24"
+  },
+  "generatedAt": "2026-09-24T00:27:27.909Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-24",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag230",
+      "title": "Alpine species and drought: impacts of timing of dry events on leaf growth and senescence",
+      "authors": [
+        {
+          "name": "Filippo Grillo",
+          "orcid": "https://orcid.org/0009-0000-1319-384X"
+        },
+        {
+          "name": "T’ai G W Forte",
+          "orcid": null
+        },
+        {
+          "name": "Elisa Beninato",
+          "orcid": null
+        },
+        {
+          "name": "Giorgio Chiari",
+          "orcid": null
+        },
+        {
+          "name": "Andrea Vannini",
+          "orcid": "https://orcid.org/0000-0003-3789-6691"
+        },
+        {
+          "name": "Marcello Tomaselli",
+          "orcid": null
+        },
+        {
+          "name": "Alessandro Petraglia",
+          "orcid": null
+        },
+        {
+          "name": "Michele Carbognani",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-23",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag230",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag230/71336714/rtag230.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 14,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract Drought effects on plants can depend on timing, especially in seasonal ecosystems.",
+        "design": "Species- and community-level responses were analyzed using t-tests, generalized least squares, generalized/mixed-effects models, and Kruskal-Wallis tests.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag230"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2745.70444",
+      "title": "Extreme drought shifts phosphorus‐related leaf trait relationships without clearly altering pairwise scaling in grasslands",
+      "authors": [
+        {
+          "name": "Hongqiang Wang",
+          "orcid": "https://orcid.org/0009-0005-5502-6384"
+        },
+        {
+          "name": "Yuguang Ke",
+          "orcid": "https://orcid.org/0000-0002-1884-7627"
+        },
+        {
+          "name": "Honghui Wu",
+          "orcid": "https://orcid.org/0000-0003-0921-688X"
+        },
+        {
+          "name": "Ying Li",
+          "orcid": "https://orcid.org/0000-0002-7253-6598"
+        },
+        {
+          "name": "Chong Xu",
+          "orcid": null
+        },
+        {
+          "name": "Wentao Luo",
+          "orcid": "https://orcid.org/0000-0002-9543-1123"
+        },
+        {
+          "name": "Xiaoan Zuo",
+          "orcid": "https://orcid.org/0000-0002-1063-1100"
+        },
+        {
+          "name": "Nianpeng He",
+          "orcid": "https://orcid.org/0000-0002-0458-5953"
+        },
+        {
+          "name": "Yushu Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Robert J. Griffin‐Nolan",
+          "orcid": "https://orcid.org/0000-0002-9411-3588"
+        },
+        {
+          "name": "Qiang Yu",
+          "orcid": "https://orcid.org/0000-0002-5480-0623"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70444",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70444",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 14,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract Leaf trait relationships can aid our understanding of plant adaptations and ecosystem functioning.",
+        "design": "To address this gap, we conducted an extreme drought experiment (66% reduction in growing‐season precipitation) across six grasslands in Inner Mongolia, including desert steppe, typical steppe and meadow steppe.",
+        "innovation": "We also evaluated species‐level pairwise plasticity to uncover mechanisms underlying any changes.",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70444"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag222",
+      "title": "Water uptake strategy of Robinia pseudoacacia as influenced by slope positions in the Loess gully region, China",
+      "authors": [
+        {
+          "name": "Yuxin Wu",
+          "orcid": null
+        },
+        {
+          "name": "Xinxiao Yu",
+          "orcid": null
+        },
+        {
+          "name": "Guodong Jia",
+          "orcid": null
+        },
+        {
+          "name": "Honghong Rao",
+          "orcid": null
+        },
+        {
+          "name": "Yuanming Hong",
+          "orcid": null
+        },
+        {
+          "name": "Zihe Liu",
+          "orcid": null
+        },
+        {
+          "name": "Ruipeng Wang",
+          "orcid": null
+        },
+        {
+          "name": "Tao Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Yankai Feng",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-15",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag222",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag222/71088305/rtag222.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Loess",
+        "Riparian zone",
+        "Robinia",
+        "Hydrology (agriculture)",
+        "Soil water"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 8,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“drought、root trait、monitoring、stable isotope”等信号。",
+      "essence": {
+        "problem": "Abstract Soil water availability in loess landscapes is strongly modulated by hillslope topography, yet how slope positions shape plant water uptake strategies remain poorly resolved.",
+        "design": "This study quantified the water sources of Robinia pseudoacacia across six slope positions along a typical loess gully hillslope using stable isotopes and in situ monitoring.",
+        "innovation": "The results revealed that soil water content varied nearly twofold along the hillslope, declining from 18.",
+        "transferableIdeas": "可借鉴其stable isotope设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "stable isotope"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag222"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213229410"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70443",
+      "title": "Plant species responses to nutrient addition, but not to herbivore exclusion, strengthen over time in global grasslands",
+      "authors": [
+        {
+          "name": "Wenhuai Li",
+          "orcid": "https://orcid.org/0000-0002-1113-2020"
+        },
+        {
+          "name": "Elizabeth T. Borer",
+          "orcid": "https://orcid.org/0000-0003-2259-5853"
+        },
+        {
+          "name": "Eric W. Seabloom",
+          "orcid": "https://orcid.org/0000-0001-6780-9259"
+        },
+        {
+          "name": "Carly J. Stevens",
+          "orcid": "https://orcid.org/0000-0002-2390-1763"
+        },
+        {
+          "name": "Carlos Alberto Arnillas",
+          "orcid": null
+        },
+        {
+          "name": "Isabel C. Barrio",
+          "orcid": null
+        },
+        {
+          "name": "Lori Biederman",
+          "orcid": null
+        },
+        {
+          "name": "Kari Anne Bråthen",
+          "orcid": "https://orcid.org/0000-0003-0942-1074"
+        },
+        {
+          "name": "Yvonne M. Buckley",
+          "orcid": "https://orcid.org/0000-0001-7599-3201"
+        },
+        {
+          "name": "Miguel N. Bugalho",
+          "orcid": null
+        },
+        {
+          "name": "Maria C. Caldeira",
+          "orcid": null
+        },
+        {
+          "name": "Jane A. Catford",
+          "orcid": "https://orcid.org/0000-0003-0582-5960"
+        },
+        {
+          "name": "Qingqing Chen",
+          "orcid": "https://orcid.org/0000-0003-1957-3848"
+        },
+        {
+          "name": "Mick Crawley",
+          "orcid": "https://orcid.org/0000-0002-6944-4553"
+        },
+        {
+          "name": "Carla M. D'Antonio",
+          "orcid": "https://orcid.org/0000-0002-0395-9650"
+        },
+        {
+          "name": "Kendi F. Davies",
+          "orcid": null
+        },
+        {
+          "name": "Chris R. Dickman",
+          "orcid": null
+        },
+        {
+          "name": "Ian Donohue",
+          "orcid": null
+        },
+        {
+          "name": "Mary Ellyn DuPre",
+          "orcid": "https://orcid.org/0000-0002-1567-2681"
+        },
+        {
+          "name": "Anne Ebeling",
+          "orcid": "https://orcid.org/0000-0002-3221-4017"
+        },
+        {
+          "name": "Nico Eisenhauer",
+          "orcid": "https://orcid.org/0000-0002-0371-6720"
+        },
+        {
+          "name": "Anu Eskelinen",
+          "orcid": "https://orcid.org/0000-0003-1707-5263"
+        },
+        {
+          "name": "Nicole Hagenah",
+          "orcid": null
+        },
+        {
+          "name": "Sylvia Haider",
+          "orcid": null
+        },
+        {
+          "name": "Yann Hautier",
+          "orcid": "https://orcid.org/0000-0003-4347-7741"
+        },
+        {
+          "name": "Erika Hersch‐Green",
+          "orcid": "https://orcid.org/0000-0003-3887-0768"
+        },
+        {
+          "name": "Khishigbayar Jamiyansharav",
+          "orcid": null
+        },
+        {
+          "name": "Anke Jentsch",
+          "orcid": null
+        },
+        {
+          "name": "Ingibjörg S. Jónsdóttir",
+          "orcid": "https://orcid.org/0000-0003-3804-7077"
+        },
+        {
+          "name": "Johannes M. H. Knops",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70443",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70443",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“biodiversity、indicator、conservation”等信号。",
+      "essence": {
+        "problem": "Abstract Changes in soil nutrients and herbivore pressure are key drivers of plant community dynamics in grasslands worldwide.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70443"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70428",
+      "title": "A New Effect Size for Meta‐Analysis of Magnitude: lnM",
+      "authors": [
+        {
+          "name": "Shinichi Nakagawa",
+          "orcid": "https://orcid.org/0000-0002-7765-5182"
+        },
+        {
+          "name": "Ayumi Mizuno",
+          "orcid": "https://orcid.org/0000-0003-0822-5637"
+        },
+        {
+          "name": "Coralie Williams",
+          "orcid": "https://orcid.org/0000-0003-1312-4953"
+        },
+        {
+          "name": "Malgorzata Lagisz",
+          "orcid": "https://orcid.org/0000-0002-3993-6127"
+        },
+        {
+          "name": "Rose E. O'Dea",
+          "orcid": "https://orcid.org/0000-0001-8177-5075"
+        },
+        {
+          "name": "Daniel W. A. Noble",
+          "orcid": "https://orcid.org/0000-0001-9460-8743"
+        },
+        {
+          "name": "Alistair M. Senior",
+          "orcid": "https://orcid.org/0000-0001-9805-7280"
+        },
+        {
+          "name": "Erick Lundgren",
+          "orcid": "https://orcid.org/0000-0001-9893-3324"
+        },
+        {
+          "name": "Santiago Ortega",
+          "orcid": "https://orcid.org/0000-0002-3518-276X"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70428",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70428",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "ABSTRACT Meta‐analyses in ecology and evolution sometimes target the magnitude of differences between groups rather than their direction, for example, when the question concerns deviation from a biological optimum or divergence from a reference state.",
+        "design": "A common practice is to convert signed effects into magnitudes by taking absolute values, but this can induce upward distortion and non‐normal sampling distributions under standard meta‐analytic models.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70428"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 32,
+    "coreCandidateCount": 32,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "journal-of-ecology": 2,
+      "ecology-letters": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 65
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

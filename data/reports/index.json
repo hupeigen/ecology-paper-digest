@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T00:25:55.635Z",
+  "updatedAt": "2026-09-24T00:27:27.909Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-24",
+      "date": "2026-09-24",
+      "period": {
+        "from": "2026-08-26",
+        "to": "2026-09-24"
+      },
+      "generatedAt": "2026-09-24T00:27:27.909Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-24",
+      "path": "daily/2026-09-24.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Ecosystem monitoring",
+        "Loess",
+        "Riparian zone",
+        "Robinia",
+        "Hydrology (agriculture)",
+        "Soil water",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag230",
+        "10.1111/1365-2745.70444",
+        "10.1093/jpe/rtag222",
+        "10.1111/1365-2745.70443",
+        "10.1111/ele.70428"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-23",
