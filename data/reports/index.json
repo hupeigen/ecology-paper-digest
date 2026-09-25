@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T00:27:27.909Z",
+  "updatedAt": "2026-09-25T00:28:54.101Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-25",
+      "date": "2026-09-25",
+      "period": {
+        "from": "2026-08-27",
+        "to": "2026-09-25"
+      },
+      "generatedAt": "2026-09-25T00:28:54.101Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-25",
+      "path": "daily/2026-09-25.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "iMeta",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Restoration and management",
+        "Evergreen",
+        "Deciduous",
+        "Specific leaf area",
+        "Subtropics",
+        "Transpiration",
+        "Evergreen forest",
+        "Resource (disambiguation)",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Ecosystem",
+        "Plateau (mathematics)",
+        "Ecological stability",
+        "Stability (learning theory)",
+        "Functional group",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag204",
+        "10.1093/jpe/rtag203",
+        "10.1002/imt2.70175",
+        "10.1111/1365-2745.70441",
+        "10.1111/1365-2745.70436"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-24",

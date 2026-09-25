@@ -1,0 +1,426 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-25",
+  "date": "2026-09-25",
+  "period": {
+    "from": "2026-08-27",
+    "to": "2026-09-25"
+  },
+  "generatedAt": "2026-09-25T00:28:54.101Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-25",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag204",
+      "title": "Leaf and root of Machilus pauhoi both exhibit different resource acquisition strategies when mixed with evergreen broad-leaved tree species compared to deciduous ones in a mid-subtropical region of China",
+      "authors": [
+        {
+          "name": "Chaobin Xu",
+          "orcid": null
+        },
+        {
+          "name": "Yunni Chang",
+          "orcid": null
+        },
+        {
+          "name": "Yuxin Fan",
+          "orcid": null
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Weiyong Gong",
+          "orcid": null
+        },
+        {
+          "name": "Yuanshun Li",
+          "orcid": null
+        },
+        {
+          "name": "Jinpan You",
+          "orcid": null
+        },
+        {
+          "name": "Dongliang Cheng",
+          "orcid": null
+        },
+        {
+          "name": "Baoyin Li",
+          "orcid": null
+        },
+        {
+          "name": "Quanlin Zhong",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag204",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag204/70974945/rtag204.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Restoration and management",
+        "Evergreen",
+        "Deciduous",
+        "Specific leaf area",
+        "Subtropics",
+        "Transpiration",
+        "Evergreen forest",
+        "Resource (disambiguation)"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 9,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“root trait、management”等信号。",
+      "essence": {
+        "problem": "Abstract Mixed forest has become a key approach for enhancing productivity and ecological functions of plantations.",
+        "design": "No significant differences were observed in leaf and fine root traits between CT and MC.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag204"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7211908002"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag203",
+      "title": "Dominant functional group stability underpins ecosystem stability across Tibetan Plateau grasslands",
+      "authors": [
+        {
+          "name": "Rang Ding",
+          "orcid": null
+        },
+        {
+          "name": "Wei Sun",
+          "orcid": null
+        },
+        {
+          "name": "Shaowei Li",
+          "orcid": null
+        },
+        {
+          "name": "Yuan Tian",
+          "orcid": null
+        },
+        {
+          "name": "Gang Fu",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-08-31",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag203",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag203/70877598/rtag203.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "Ecosystem",
+        "Plateau (mathematics)",
+        "Ecological stability",
+        "Stability (learning theory)",
+        "Functional group"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 24
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现前沿突破与应用价值；命中“biodiversity、management、assessment、nonlinear”等信号。",
+      "essence": {
+        "problem": "Abstract Clarifying the relative contributions of functional group asynchrony and dominant functional group stability remains important in ecology.",
+        "design": "Relatively high stability was also observed in the low-diversity western arid region.",
+        "innovation": "Using a biodiversity framework, this study analyzed the spatiotemporal patterns and drivers of the temporal stability of aboveground net primary productivity (ANPP) across Tibetan Plateau grasslands from 2000 to 2022.",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag203"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7204789424"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1002/imt2.70175",
+      "title": "Different gut microbiome dysbioses impact the evolutionary fate of hypervirulent Klebsiella pneumoniae",
+      "authors": [
+        {
+          "name": "Carey Lim",
+          "orcid": null
+        },
+        {
+          "name": "Jialing Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Guoxiang Cheam",
+          "orcid": null
+        },
+        {
+          "name": "Melvin Yong",
+          "orcid": null
+        },
+        {
+          "name": "Hanrong Chen",
+          "orcid": null
+        },
+        {
+          "name": "Andrew Ting",
+          "orcid": null
+        },
+        {
+          "name": "Yahua Chen",
+          "orcid": null
+        },
+        {
+          "name": "Qingqing Wang",
+          "orcid": null
+        },
+        {
+          "name": "Niranjan Nagarajan",
+          "orcid": null
+        },
+        {
+          "name": "Yunn‐Hwen Gan",
+          "orcid": "https://orcid.org/0000-0001-9881-6881"
+        }
+      ],
+      "journal": "iMeta",
+      "publishedAt": "2026-09-23",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1002/imt2.70175",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/imt2.70175",
+      "isOpenAccess": true,
+      "keywords": [
+        "Multi-omics and health"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 24
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现前沿突破与应用价值；命中“adaptation、resistance、recovery”等信号。",
+      "essence": {
+        "problem": "Abstract The intestinal microbiota acts as a barrier against pathogen colonization, yet how specific ecological perturbations shape the evolutionary fate of invading pathogens remains unclear.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Our work reveals that the specific mode of perturbation affects the trajectory for pathogen adaptation, and highlights the potential role of commensal competition in constraining pathogen evolution.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1002%2Fimt2.70175"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70441",
+      "title": "Temperature modulates sexual reproduction in a globally invasive plant species via self‐fertilisation",
+      "authors": [
+        {
+          "name": "Yi Gao",
+          "orcid": null
+        },
+        {
+          "name": "Yuan Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Renping Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Lili Xia",
+          "orcid": null
+        },
+        {
+          "name": "Jingke Ye",
+          "orcid": null
+        },
+        {
+          "name": "Fujia Wu",
+          "orcid": null
+        },
+        {
+          "name": "Hao Wu",
+          "orcid": null
+        },
+        {
+          "name": "Wenwen Liu",
+          "orcid": "https://orcid.org/0000-0001-7585-2812"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-23",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70441",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70441",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 1,
+      "recommendationReason": "重点体现前沿突破；命中“mechanism”等信号。",
+      "essence": {
+        "problem": "Abstract Sexual reproduction is critical for the success of plant invasion, but is constrained in novel environments by mate availability and temperature.",
+        "design": "Here, we conducted four field surveys over a 10‐year period and 2‐year pollination experiments in low‐ and high‐latitude greenhouse common gardens to determine whether there were evolutionary shifts in self‐incompatibility and to identify the latitudinal cline of self‐fertilisation.",
+        "innovation": "Abstract Sexual reproduction is critical for the success of plant invasion, but is constrained in novel environments by mate availability and temperature.",
+        "transferableIdeas": "可借鉴其common garden、field survey设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden",
+        "field survey"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70441"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/1365-2745.70436",
+      "title": "Home‐range ecological dissimilarity and trait coordination promote the establishment of Mediterranean‐origin plants in California",
+      "authors": [
+        {
+          "name": "Haichuan Le",
+          "orcid": "https://orcid.org/0000-0002-2234-0570"
+        },
+        {
+          "name": "Javier Galán Díaz",
+          "orcid": "https://orcid.org/0000-0002-3284-3059"
+        },
+        {
+          "name": "Zongqiang Xie",
+          "orcid": "https://orcid.org/0000-0001-8312-2318"
+        },
+        {
+          "name": "Enrique G. de la Riva",
+          "orcid": "https://orcid.org/0000-0002-3393-8375"
+        },
+        {
+          "name": "Montserrat Vilà",
+          "orcid": "https://orcid.org/0000-0003-3171-8261"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70436",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70436",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "Abstract While ecological dissimilarity plays a critical role in biological invasions, it remains unclear whether ecological differences between alien species and co‐occurring species in their native range persist after introduction.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "These findings suggest that ecological dissimilarity and persistent trait coordination of species in their home range may contribute to their establishment after introduction, highlighting the value of native‐range trait information for understanding invasion functional strategies in novel environments.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70436"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 27,
+    "coreCandidateCount": 27,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "imeta": 1,
+      "journal-of-ecology": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 65
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
