@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T00:28:54.101Z",
+  "updatedAt": "2026-09-26T00:26:23.206Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-26",
+      "date": "2026-09-26",
+      "period": {
+        "from": "2026-08-28",
+        "to": "2026-09-26"
+      },
+      "generatedAt": "2026-09-26T00:26:23.206Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-26",
+      "path": "daily/2026-09-26.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Species richness",
+        "Arthropod",
+        "Arable land",
+        "Ecosystem",
+        "Functional diversity",
+        "Niche",
+        "Trait",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag236",
+        "10.1111/ele.70457",
+        "10.1093/jpe/rtag232",
+        "10.1111/1365-2745.70440",
+        "10.1111/1365-2745.70355"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-25",

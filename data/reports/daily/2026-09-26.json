@@ -1,0 +1,427 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-26",
+  "date": "2026-09-26",
+  "period": {
+    "from": "2026-08-28",
+    "to": "2026-09-26"
+  },
+  "generatedAt": "2026-09-26T00:26:23.206Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-26",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag236",
+      "title": "Warm springs and dry summers weaken radial stem growth dependence on primary growth by increasing phenological synchrony between primary and secondary meristems in Pinus taiwanensis",
+      "authors": [
+        {
+          "name": "Dina Fu",
+          "orcid": null
+        },
+        {
+          "name": "Jincheng Gu",
+          "orcid": null
+        },
+        {
+          "name": "Wenpeng Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yiyun Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Xinsheng Liu",
+          "orcid": "https://orcid.org/0000-0001-7609-796X"
+        },
+        {
+          "name": "Xiaoqin Cheng",
+          "orcid": null
+        },
+        {
+          "name": "Ping Ren",
+          "orcid": null
+        },
+        {
+          "name": "Franco Biondi",
+          "orcid": null
+        },
+        {
+          "name": "Sergio Rossi",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-25",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag236",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag236/71393301/rtag236.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change"
+      ],
+      "valueScores": {
+        "advisor": 48,
+        "strategy": 16,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 18,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、carbon sequestration、subtropical forest、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract A complete integration of the phenology of primary and secondary meristems is essential for understanding the tree growth trajectories under changing climates and the consequences for carbon sequestration in forest ecosystems.",
+        "design": "We conducted weekly observations of primary and secondary growth in Taiwan pine (Pinus taiwanensis Hayata) across an elevational gradient in the subtropical forests of southeastern China during 2017-2019, including one year with an extreme drought event.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag236"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/ele.70457",
+      "title": "Land Use Mediates Long‐Term Arthropod Functional Change",
+      "authors": [
+        {
+          "name": "Carlos Martínez‐Núñez",
+          "orcid": "https://orcid.org/0000-0001-7814-4985"
+        },
+        {
+          "name": "Martin M. Gossner",
+          "orcid": "https://orcid.org/0000-0003-1516-6364"
+        },
+        {
+          "name": "Felix Neff",
+          "orcid": "https://orcid.org/0000-0001-7266-2589"
+        },
+        {
+          "name": "Marco Moretti",
+          "orcid": "https://orcid.org/0000-0002-5845-3198"
+        },
+        {
+          "name": "Martin K. Obrist",
+          "orcid": "https://orcid.org/0000-0001-6766-044X"
+        },
+        {
+          "name": "Felix Herzog",
+          "orcid": "https://orcid.org/0000-0001-9472-4891"
+        },
+        {
+          "name": "Kurt Bollmann",
+          "orcid": "https://orcid.org/0000-0002-4690-7121"
+        },
+        {
+          "name": "Peter Duelli",
+          "orcid": "https://orcid.org/0000-0001-8862-8262"
+        },
+        {
+          "name": "Eva Knop",
+          "orcid": "https://orcid.org/0000-0001-9402-2216"
+        },
+        {
+          "name": "Henryk Luka",
+          "orcid": null
+        },
+        {
+          "name": "Matthias Albrecht",
+          "orcid": "https://orcid.org/0000-0001-5518-3455"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-24",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70457",
+      "oaUrl": "https://doi.org/10.1111/ele.70457",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Species richness",
+        "Arthropod",
+        "Arable land",
+        "Ecosystem",
+        "Functional diversity",
+        "Niche",
+        "Trait"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 34,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 7,
+      "recommendationReason": "重点体现应用价值；命中“land use”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Global change reshapes arthropod communities, yet long‐term effects on their functional diversity remain unclear.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Overall, our study reveals diverging long‐term trajectories of arthropod functional diversity across land uses, indicating potential negative consequences for ecosystem functioning in arable landscapes.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70457"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7214149798"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag232",
+      "title": "Afforestation enhances ecosystem stability in the farming-pastoral ecotone of northern China, but its effects are constrained by water availability",
+      "authors": [
+        {
+          "name": "Yuchao Luo",
+          "orcid": "https://orcid.org/0000-0003-0063-3505"
+        },
+        {
+          "name": "Haile Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Qianhe Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yi Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Xin Chen",
+          "orcid": null
+        },
+        {
+          "name": "Yuling Jin",
+          "orcid": null
+        },
+        {
+          "name": "Xingjie Yin",
+          "orcid": null
+        },
+        {
+          "name": "Guoliang Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Haorui Sun",
+          "orcid": null
+        },
+        {
+          "name": "Jun Bai",
+          "orcid": null
+        },
+        {
+          "name": "Huiyao Shi",
+          "orcid": null
+        },
+        {
+          "name": "Zhihua Pan",
+          "orcid": null
+        },
+        {
+          "name": "Pingli An",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-17",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag232",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag232/71179175/rtag232.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 24
+      },
+      "totalScore": 6,
+      "recommendationReason": "重点体现前沿突破与导师方向；命中“drought、recovery”等信号。",
+      "essence": {
+        "problem": "Abstract The farming-pastoral ecotone of northern China (FPENC), a typical semi-agricultural and semi-pastoral ecologically fragile zone, has long faced controversy over afforestation due to its water-limited environment, raising concerns about how afforestation affects this fragile ecosystem.",
+        "design": "In this study, based on Google Earth Engine and a Random Forest model, we derive afforestation distribution (1985-2020), and further investigated ecosystem stability under afforestation from the perspectives of short-term responses and long-term dynamic changes.",
+        "innovation": "This study revealed despite water scarcity and low tree survival, afforestation under suitable precipitation can effectively enhance regional ecosystem stability.",
+        "transferableIdeas": "可借鉴其random forest设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "random forest"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag232"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70440",
+      "title": "Deep learning derived leaf traits reveal phylogenetic and environmental drivers of diversification in Rhododendron",
+      "authors": [
+        {
+          "name": "Zhen‐Yu Lyu",
+          "orcid": null
+        },
+        {
+          "name": "Ming‐Zhu Li",
+          "orcid": null
+        },
+        {
+          "name": "Nan Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Kun Guo",
+          "orcid": null
+        },
+        {
+          "name": "Yi‐Na Li",
+          "orcid": null
+        },
+        {
+          "name": "Shi‐Kang Shen",
+          "orcid": "https://orcid.org/0000-0002-0611-6763"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-25",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70440",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70440",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 18,
+        "frontier": 0
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现跨学科融合；命中“deep learning”等信号。",
+      "essence": {
+        "problem": "Abstract Leaf traits mediate plant heat and water exchange, driven by evolutionary history and environmental conditions.",
+        "design": "Multi‐optima Ornstein‐Uhlenbeck (OU) models suggested a small ancestral leaf area and indicated six shifts in adaptive optima, most of which occurred between 30 and 10 Mya.",
+        "innovation": "Synthesis : This study reveals that the diversity of leaf morphology in Rhododendron is shaped not only by broad evolutionary history and contemporary environment, but also by distinct evolutionary lineages adopting differentiated adaptive strategies within similar environmental niches.",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70440"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/1365-2745.70355",
+      "title": "Cover Picture and Issue Information",
+      "authors": [],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-08-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70355",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70355",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "公开摘要不可得，题录可用于了解研究主题，但不能据此判断具体科学问题。",
+        "design": "无法可靠判断实验设计，建议通过 DOI 阅读全文。",
+        "innovation": "无法可靠判断创新点，不进行推测。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "摘要或全文页面未提供可验证内容。",
+        "evidenceConfidence": "metadata-only",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70355"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 25,
+    "coreCandidateCount": 25,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "ecology-letters": 1,
+      "journal-of-ecology": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 68
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
