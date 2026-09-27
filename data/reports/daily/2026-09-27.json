@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-27",
+  "date": "2026-09-27",
+  "period": {
+    "from": "2026-08-29",
+    "to": "2026-09-27"
+  },
+  "generatedAt": "2026-09-27T00:29:00.615Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-27",
+  "paperCount": 2,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag192",
+      "title": "Canopy structural diversity mediates the impact of anthropogenic disturbance on forest biomass",
+      "authors": [
+        {
+          "name": "Chuanqi Shi",
+          "orcid": null
+        },
+        {
+          "name": "Siyuan Ren",
+          "orcid": null
+        },
+        {
+          "name": "Yan Zhu",
+          "orcid": "https://orcid.org/0000-0002-2902-1820"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-09",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag192",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag192/71004362/rtag192.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 6,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“restoration、degradation、monitoring、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract The three-dimensional configuration of tree crowns controls resource distribution within canopies, thus driving forest ecosystem functioning, but landscape fragmentation and canopy structure degradation is causing forest biomass loss.",
+        "design": "We further assessed the relative contributions of canopy structural diversity (plant area index, PAI and canopy height diversity, H), anthropogenic disturbance (land surface temperature, LST and road network density, RND), and environmental factors (elevation and soil organic matter content, SOM) to AGBD using Bayesian regression modeling, and clarified the direct and indirect pathways linking them to AGBD by struct…",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其structural equation model设计。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag192"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag212",
+      "title": "Long-term nitrogen deposition drives phosphorus allocation and phoD -harboring bacterial community dynamics in dryland ecosystems",
+      "authors": [
+        {
+          "name": "Shujun Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Xiaobing Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Yongxing Lu",
+          "orcid": null
+        },
+        {
+          "name": "Xiang Liu",
+          "orcid": null
+        },
+        {
+          "name": "Weiwei Zhuang",
+          "orcid": null
+        },
+        {
+          "name": "Yonggang Li",
+          "orcid": "https://orcid.org/0000-0002-5166-7804"
+        },
+        {
+          "name": "Xuerong Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yuyan Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Boyi Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yuanming Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Benfeng Yin",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag212",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag212/70935245/rtag212.pdf",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 18,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现导师方向；命中“nitrogen deposition”等信号。",
+      "essence": {
+        "problem": "Abstract The phoD-harboring bacteria play a crucial role in regulating organic phosphorus (Po) mineralization in soil.",
+        "design": "Here, we used a 13-yr field experiment in the Gurbantunggut Desert to disentangle the effects of long-term N deposition on phoD-mediated P cycling across moss and lichen biocrusts under contrasting seasonal conditions.",
+        "innovation": "The results reveal that moss crusts had significantly higher concentrations of labile inorganic phosphorus (Pi), labile Po, and available P compared to lichen crusts.",
+        "transferableIdeas": "可借鉴其field experiment设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "field experiment"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag212"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 2,
+    "candidateCount": 21,
+    "coreCandidateCount": 21,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 65
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 2 篇符合约束的论文，未使用低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

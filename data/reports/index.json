@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T00:26:23.206Z",
+  "updatedAt": "2026-09-27T00:29:00.615Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-27",
+      "date": "2026-09-27",
+      "period": {
+        "from": "2026-08-29",
+        "to": "2026-09-27"
+      },
+      "generatedAt": "2026-09-27T00:29:00.615Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-27",
+      "path": "daily/2026-09-27.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag192",
+        "10.1093/jpe/rtag212"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-26",
