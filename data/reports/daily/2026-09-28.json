@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-28",
+  "date": "2026-09-28",
+  "period": {
+    "from": "2026-08-30",
+    "to": "2026-09-28"
+  },
+  "generatedAt": "2026-09-28T00:29:57.738Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-28",
+  "paperCount": 2,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag208",
+      "title": "Structural diversity dominates above-ground biomass in China’s subtropical natural forests",
+      "authors": [
+        {
+          "name": "Anchi Wu",
+          "orcid": null
+        },
+        {
+          "name": "Xin Xiong",
+          "orcid": null
+        },
+        {
+          "name": "Guoyi Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Andi Li",
+          "orcid": "https://orcid.org/0000-0003-4404-3523"
+        },
+        {
+          "name": "Huiling Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yanqiong Li",
+          "orcid": null
+        },
+        {
+          "name": "Xuli Tang",
+          "orcid": null
+        },
+        {
+          "name": "Juxiu Liu",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-08",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag208",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag208/70988990/rtag208.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 6,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“biodiversity、management、forest management”等信号。",
+      "essence": {
+        "problem": "Abstract Understanding how multidimensional biodiversity influences forest biomass carbon storage is crucial for sustainable forest management.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "However, empirical evidence on the mechanisms and relative contributions of three dimensions of tree diversity (species, functional, and structural) to forest biomass stocks across varying environmental gradients remains limited.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag208"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag224",
+      "title": "Stand age drives carbon stock in both planted and natural forests across China",
+      "authors": [
+        {
+          "name": "Shaowei Yang",
+          "orcid": null
+        },
+        {
+          "name": "Jianfeng Liu",
+          "orcid": null
+        },
+        {
+          "name": "Qi Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wen Nie",
+          "orcid": null
+        },
+        {
+          "name": "Yipei Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Xiangfen Cheng",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag224",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag224/71280981/rtag224.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现导师方向与前沿突破；命中“carbon cycle、nonlinear”等信号。",
+      "essence": {
+        "problem": "Abstract Forest carbon stock (FCS) is a key component of the terrestrial carbon cycle, and accurately quantifying its spatial patterns and drivers is a critical prerequisite for carbon accounting, particularly when distinguishing between natural (NF) and planted forests (PF).",
+        "design": "Using 7,980 field plots across China, we integrated Geographical Detector analysis, growth-curve modeling, structural equation modeling and Random Forest algorithm to investigate the determinants, growth dynamics, and spatial patterns of above-ground biomass carbon (AGBC), below-ground biomass carbon (BGBC), and total vegetation carbon storage (TC) across China’s forests.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其random forest、structural equation model设计。可将核心变量与土壤碳形成、稳定或通量过程建立联系。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "random forest",
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag224"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 2,
+    "candidateCount": 18,
+    "coreCandidateCount": 18,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 64
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 2 篇符合约束的论文，未使用低置信度文章凑数。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

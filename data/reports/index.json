@@ -1,7 +1,35 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T00:29:00.615Z",
+  "updatedAt": "2026-09-28T00:29:59.537Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-28",
+      "date": "2026-09-28",
+      "period": {
+        "from": "2026-08-30",
+        "to": "2026-09-28"
+      },
+      "generatedAt": "2026-09-28T00:29:57.738Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-28",
+      "path": "daily/2026-09-28.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management",
+        "Carbon cycling",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag208",
+        "10.1093/jpe/rtag224"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-27",
@@ -440,6 +468,52 @@
     }
   ],
   "weekly": [
+    {
+      "kind": "weekly",
+      "reportId": "2026-W39",
+      "date": "2026-09-28",
+      "period": {
+        "from": "2026-09-21",
+        "to": "2026-09-27"
+      },
+      "generatedAt": "2026-09-28T00:29:59.537Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文周报 · 2026-09-21 至 2026-09-27",
+      "path": "weekly/2026-W39.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "iMeta"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Phenology",
+        "Subtropics",
+        "Secondary growth",
+        "Shoot",
+        "Competition (biology)",
+        "Old-growth forest",
+        "Modeling and AI",
+        "Senescence",
+        "Alpine plant",
+        "Altitude (triangle)",
+        "Life span",
+        "Growing season",
+        "Soil ecology",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag236",
+        "10.1093/jpe/rtag230",
+        "10.1093/jpe/rtag233",
+        "10.1002/imt2.70175"
+      ],
+      "warnings": []
+    },
     {
       "kind": "weekly",
       "reportId": "2026-W38",
