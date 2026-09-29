@@ -1,0 +1,351 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-29",
+  "date": "2026-09-29",
+  "period": {
+    "from": "2026-08-31",
+    "to": "2026-09-29"
+  },
+  "generatedAt": "2026-09-29T00:28:44.565Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-29",
+  "paperCount": 4,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70452",
+      "title": "Stability of monodominant and mixed tropical forests: Implications from a biomass‐based competition model",
+      "authors": [
+        {
+          "name": "Takashi S. Kohyama",
+          "orcid": "https://orcid.org/0000-0001-7186-8585"
+        },
+        {
+          "name": "Sean C. Thomas",
+          "orcid": null
+        },
+        {
+          "name": "Tetsuo I. Kohyama",
+          "orcid": "https://orcid.org/0000-0002-4567-2893"
+        },
+        {
+          "name": "Terese B. Hart",
+          "orcid": null
+        },
+        {
+          "name": "Jean‐Remy Makana",
+          "orcid": null
+        },
+        {
+          "name": "Corneille E. N. Ewango",
+          "orcid": null
+        },
+        {
+          "name": "David Kenfack",
+          "orcid": null
+        },
+        {
+          "name": "Zamah S. Nur Hajar",
+          "orcid": null
+        },
+        {
+          "name": "Douglas Sheil",
+          "orcid": "https://orcid.org/0000-0002-1166-6591"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70452",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70452",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“restoration、management、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Tropical rainforests generally exhibit high tree species diversity, yet some stands are dominated by a single species that makes up more than half of the canopy.",
+        "design": "Here we employ a biomass‐based Lotka‐Volterra competition model to analyse community dynamics and stability in monodominant and mixed‐species forests.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70452"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2745.70445",
+      "title": "Elevated CO 2 amplifies contrasting cultivar‐specific plant–soil feedbacks mediated by soil biota",
+      "authors": [
+        {
+          "name": "Chongzhe Zhang",
+          "orcid": "https://orcid.org/0000-0002-1113-6283"
+        },
+        {
+          "name": "Haiyan Ren",
+          "orcid": "https://orcid.org/0000-0003-0745-4438"
+        },
+        {
+          "name": "Linhui Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Nan Jin",
+          "orcid": null
+        },
+        {
+          "name": "Xiaoyun Chen",
+          "orcid": "https://orcid.org/0000-0002-6787-1316"
+        },
+        {
+          "name": "Qiang Yu",
+          "orcid": "https://orcid.org/0000-0002-5480-0623"
+        },
+        {
+          "name": "Chunwu Zhu",
+          "orcid": null
+        },
+        {
+          "name": "Manqiang Liu",
+          "orcid": "https://orcid.org/0000-0001-6654-7795"
+        },
+        {
+          "name": "Joann Whalen",
+          "orcid": "https://orcid.org/0000-0001-8774-0594"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-27",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70445",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70445",
+      "isOpenAccess": true,
+      "keywords": [
+        "Restoration and management",
+        "Multi-omics and health"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“ecosystem resilience、management、resilience”等信号。",
+      "essence": {
+        "problem": "Abstract Atmospheric carbon dioxide enrichment (eCO 2 ) stimulates crop growth, and the fertilization effect can translate into sustained plant performance through soil biota‐mediated plant–soil feedbacks (PSFs).",
+        "design": "Here, we combined a long‐term rice free‐air CO 2 enrichment (FACE) with a greenhouse PSF experiment to test whether weakly and strongly CO 2 ‐responsive cultivars develop contrasting PSFs, using soil inocula collected from FACE plots with contrasting CO 2 treatments and rice cultivars.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70445"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag216",
+      "title": "Mature bamboo sustains young bamboo growth through internal nutrient redistribution during long-term forest rewilding",
+      "authors": [
+        {
+          "name": "Hongsheng Qing",
+          "orcid": "https://orcid.org/0009-0000-2429-1701"
+        },
+        {
+          "name": "Zhikang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Ye Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Jiacun Li",
+          "orcid": null
+        },
+        {
+          "name": "Ruiren Jing",
+          "orcid": null
+        },
+        {
+          "name": "Yu Liu",
+          "orcid": null
+        },
+        {
+          "name": "Quan Li",
+          "orcid": null
+        },
+        {
+          "name": "Xinzhang Song",
+          "orcid": "https://orcid.org/0000-0003-2434-7466"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag216",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag216/71016696/rtag216.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“restoration、management、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Passive rewilding, an emerging concept in restoration ecology, typically involves the cessation of management in plantations.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "The coefficient of variation in stoichiometric traits revealed that nutrient variability declined in young bamboo (homogenization) but increased in mature bamboo (divergence), consistent with young bamboo drawing from a shared clonal nutrient pool while mature bamboo accumulated reserves.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag216"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1093/jpe/rtag223",
+      "title": "Long-term climatic modulation of the hydraulic-mechanical trade-off in xylem of Betula ermanii over 58 yrs",
+      "authors": [
+        {
+          "name": "Yuxin Bai",
+          "orcid": "https://orcid.org/0009-0001-7773-8543"
+        },
+        {
+          "name": "Binqing Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Danyang Yuan",
+          "orcid": null
+        },
+        {
+          "name": "Di Liu",
+          "orcid": "https://orcid.org/0000-0002-6651-2338"
+        },
+        {
+          "name": "Liangjun Zhu",
+          "orcid": null
+        },
+        {
+          "name": "Ying Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xiaochun Wang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-16",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag223",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag223/71125847/rtag223.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“drought、adaptation”等信号。",
+      "essence": {
+        "problem": "Abstract As xylem components, vessels and fibers govern water transport and mechanical support.",
+        "design": "ermanii and provide parameterization for climate–growth modeling.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag223"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 4,
+    "candidateCount": 19,
+    "coreCandidateCount": 19,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 66
+  },
+  "warnings": [],
+  "notes": [
+    "本日达到约束后仅有 4 篇，未使用低相关或低置信度文章凑数。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
