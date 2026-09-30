@@ -1,7 +1,33 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29T00:28:44.565Z",
+  "updatedAt": "2026-09-30T00:30:36.634Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-09-30",
+      "date": "2026-09-30",
+      "period": {
+        "from": "2026-09-01",
+        "to": "2026-09-30"
+      },
+      "generatedAt": "2026-09-30T00:30:36.634Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-30",
+      "path": "daily/2026-09-30.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Climate change"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag209",
+        "10.1093/jpe/rtag227"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-09-29",
