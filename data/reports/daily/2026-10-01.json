@@ -1,0 +1,322 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-01",
+  "date": "2026-10-01",
+  "period": {
+    "from": "2026-09-02",
+    "to": "2026-10-01"
+  },
+  "generatedAt": "2026-10-01T00:31:35.036Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-01",
+  "paperCount": 4,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70442",
+      "title": "Post‐fire trajectories reveal a legacy effect and decoupled structural and floristic responses in a seasonally dry subtropical mountain region",
+      "authors": [
+        {
+          "name": "Melisa A. Giorgis",
+          "orcid": "https://orcid.org/0000-0001-6126-6660"
+        },
+        {
+          "name": "Lucrecia Lipoma",
+          "orcid": "https://orcid.org/0000-0001-7409-6015"
+        },
+        {
+          "name": "Pedro Jaureguiberry",
+          "orcid": "https://orcid.org/0000-0002-7392-5157"
+        },
+        {
+          "name": "Ana M. Cingolani",
+          "orcid": "https://orcid.org/0000-0002-6173-1814"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-30",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70442",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70442",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现应用价值与前沿突破；命中“management、monitoring、recovery”等信号。",
+      "essence": {
+        "problem": "Abstract Fire is a key driver maintaining non‐forest vegetation in tropical and subtropical seasonal climates that could otherwise support forest.",
+        "design": "Here, we leverage a 12‐year dataset from resurveyed sites with pre‐fire vegetation data to assess how pre‐existing site variation influences post‐fire trajectories (i.",
+        "innovation": "Following a wildfire in 2011 that burned 18 of these sites, we resurveyed all sites in 2012 (first post‐fire growing season, representing short‐term change) and biennially until 2020.",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70442"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag217",
+      "title": "Life history and bud-position strategies shape stage-specific phenological responses to global change in grasslands",
+      "authors": [
+        {
+          "name": "Aifang Wen",
+          "orcid": null
+        },
+        {
+          "name": "Tianle Meng",
+          "orcid": null
+        },
+        {
+          "name": "Jian Yang",
+          "orcid": null
+        },
+        {
+          "name": "Jie Zhou",
+          "orcid": null
+        },
+        {
+          "name": "Lei Yue",
+          "orcid": null
+        },
+        {
+          "name": "Lingyu Xue",
+          "orcid": null
+        },
+        {
+          "name": "Zhonghang Wei",
+          "orcid": null
+        },
+        {
+          "name": "Hao Sun",
+          "orcid": null
+        },
+        {
+          "name": "Zhuangsheng Tang",
+          "orcid": null
+        },
+        {
+          "name": "Jie Yang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag217",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag217",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "plant phenology",
+        "grassland",
+        "global change",
+        "warming",
+        "precipitation change"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现应用价值与前沿突破；命中“indicator、meta-analysis”等信号。",
+      "essence": {
+        "problem": "Abstract Plant phenology is a sensitive indicator of ecosystem responses to global change, yet how phenological responses vary among developmental stages, environmental contexts, and plant functional strategies remains poorly resolved in grasslands.",
+        "design": "We conducted a meta-analysis of 1,004 observations extracted from 67 publications to quantify the effects of warming, precipitation change, and nitrogen (N) addition on five phenological stages: green-up date (GUD), flowering date (FLD), fruiting date (FRD), reproductive onset date (RD), and senescence date (SD).",
+        "innovation": "The magnitude of warming-related GUD advancement varied with mean annual temperature (slope = -0.",
+        "transferableIdeas": "可借鉴其meta-analysis设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "meta-analysis"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag217"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213964975"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag234",
+      "title": "Plant invasion through the lens of community assembly: Integrating traits, multitrophic interactions, and environmental change",
+      "authors": [
+        {
+          "name": "Lu Liu",
+          "orcid": null
+        },
+        {
+          "name": "Ayub M O Oduor",
+          "orcid": null
+        },
+        {
+          "name": "Caiyun Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Fanglei Gao",
+          "orcid": null
+        },
+        {
+          "name": "Keyu Chen",
+          "orcid": null
+        },
+        {
+          "name": "Kun Guo",
+          "orcid": "https://orcid.org/0000-0001-9597-2977"
+        },
+        {
+          "name": "Yanjie Liu",
+          "orcid": "https://orcid.org/0000-0003-3948-1246"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-26",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag234",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag234",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Propagule pressure",
+        "Abiotic component",
+        "Ecosystem",
+        "Environmental change",
+        "Biological dispersal",
+        "Population",
+        "Trophic level"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现国家战略；命中“biodiversity”等信号。",
+      "essence": {
+        "problem": "Abstract Plant invasions are a major component of global change and an important driver of biodiversity loss and ecosystem transformation.",
+        "design": "Progress requires life-cycle studies estimating population growth and conspecific versus heterospecific limitation, long-term and native–introduced range comparisons, and factorial experiments spanning trophic groups and environmental drivers.",
+        "innovation": "This review uses community assembly and modern coexistence theory to integrate mechanisms commonly studied in isolation.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag234"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7214433568"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70356",
+      "title": "Cover Picture and Issue Information",
+      "authors": [],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-30",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70356",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70356",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "公开摘要不可得，题录可用于了解研究主题，但不能据此判断具体科学问题。",
+        "design": "无法可靠判断实验设计，建议通过 DOI 阅读全文。",
+        "innovation": "无法可靠判断创新点，不进行推测。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "摘要或全文页面未提供可验证内容。",
+        "evidenceConfidence": "metadata-only",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70356"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 4,
+    "candidateCount": 13,
+    "coreCandidateCount": 13,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 42
+  },
+  "warnings": [
+    "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+  ],
+  "notes": [
+    "本日达到约束后仅有 4 篇，未使用低相关或低置信度文章凑数。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
