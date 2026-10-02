@@ -1,7 +1,40 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01T00:31:35.036Z",
+  "updatedAt": "2026-10-02T00:30:09.277Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-02",
+      "date": "2026-10-02",
+      "period": {
+        "from": "2026-09-03",
+        "to": "2026-10-02"
+      },
+      "generatedAt": "2026-10-02T00:30:09.277Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文日报 · 2026-10-02",
+      "path": "daily/2026-10-02.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Biodiversity",
+        "Restoration and management",
+        "Soil ecology"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70454",
+        "10.1111/1365-2745.70453",
+        "10.1093/jpe/rtag231",
+        "10.1093/jpe/rtag220"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-01",
