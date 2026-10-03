@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-03",
+  "date": "2026-10-03",
+  "period": {
+    "from": "2026-09-04",
+    "to": "2026-10-03"
+  },
+  "generatedAt": "2026-10-03T00:27:55.269Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-03",
+  "paperCount": 2,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag214",
+      "title": "Synergistic effects of litter mixing on decomposition process at organ and species levels in a temperate steppe",
+      "authors": [
+        {
+          "name": "Shuangli Hou",
+          "orcid": "https://orcid.org/0000-0003-2034-0195"
+        },
+        {
+          "name": "Guojiao Yang",
+          "orcid": null
+        },
+        {
+          "name": "Liangchao Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Xingguo Han",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-18",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag214",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag214/71225992/rtag214.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现导师方向；命中“litter decomposition”等信号。",
+      "essence": {
+        "problem": "Abstract Litter decomposition is key to biogeochemical cycling, yet how mixing effects differ between intra-specific organs versus inter-specific leaves remains unclear.",
+        "design": "We conducted a two-year field litterbag experiment in a temperate grassland with three dominant species (Leymus chinensis (Trin.",
+        "innovation": "Across all mixtures, Rao’s quadratic entropy positively predicted cellulose synergy but negatively predicted N synergy, revealing a general trade-off that operates independently of mixture type.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag214"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag206",
+      "title": "Effects of nitrogen addition on radial growth and wood anatomy of Betula platyphylla with different stem diameters in Dongling Mountain",
+      "authors": [
+        {
+          "name": "Guo Yu",
+          "orcid": null
+        },
+        {
+          "name": "Kai Dong",
+          "orcid": null
+        },
+        {
+          "name": "Yanwei Qin",
+          "orcid": null
+        },
+        {
+          "name": "Chengjun Ji",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag206",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag206/71312721/rtag206.pdf",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 1,
+      "recommendationReason": "重点体现前沿突破；命中“mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Atmospheric nitrogen (N) deposition profoundly influences plant growth in forest ecosystems.",
+        "design": "Our study demonstrates that nitrogen addition exacerbates size-dependent growth inequalities in temperate forests through earlywood anatomical adjustments, providing a mechanistic basis for understanding how atmospheric nitrogen inputs affect forest stand dynamics.",
+        "innovation": "While numerous studies have reported the effects of N addition on tree radial growth, the response patterns across trees with different stem diameters and the underlying anatomical mechanisms associated within their wood growth rings remain unclear.",
+        "transferableIdeas": "可借鉴其nitrogen addition设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag206"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 2,
+    "candidateCount": 6,
+    "coreCandidateCount": 6,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 40
+  },
+  "warnings": [
+    "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+  ],
+  "notes": [
+    "仅找到 2 篇符合约束的论文，未使用低置信度文章凑数。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
