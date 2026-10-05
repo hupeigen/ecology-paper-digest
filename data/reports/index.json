@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T03:21:27.915Z",
+  "updatedAt": "2026-10-05T00:32:14.379Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-05",
+      "date": "2026-10-05",
+      "period": {
+        "from": "2026-09-06",
+        "to": "2026-10-05"
+      },
+      "generatedAt": "2026-10-05T00:32:08.582Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-05",
+      "path": "daily/2026-10-05.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-04",
@@ -661,6 +678,55 @@
     }
   ],
   "weekly": [
+    {
+      "kind": "weekly",
+      "reportId": "2026-W40",
+      "date": "2026-10-05",
+      "period": {
+        "from": "2026-09-28",
+        "to": "2026-10-04"
+      },
+      "generatedAt": "2026-10-05T00:32:14.379Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文周报 · 2026-09-28 至 2026-10-04",
+      "path": "weekly/2026-W40.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant Water Relations and Carbon Dynamics",
+        "Tree-ring climate responses",
+        "Plant responses to water stress",
+        "Modeling and AI",
+        "Mediterranean shrubland",
+        "rainfall persistence",
+        "dry spells",
+        "vapor pressure deficit",
+        "diurnal temperature range",
+        "compound drought",
+        "Biodiversity",
+        "Restoration and management",
+        "aridity gradient",
+        "arid ecosystems",
+        "Artemisia ordosica",
+        "Caragana korshinskii",
+        "herbaceous plant diversity",
+        "ground-dwelling arthropods",
+        "Ecosystem monitoring"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70455",
+        "10.1111/1365-2745.70454",
+        "10.1111/1365-2745.70453",
+        "10.1093/jpe/rtag237",
+        "10.1093/jpe/rtag235"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
     {
       "kind": "weekly",
       "reportId": "2026-W39",
