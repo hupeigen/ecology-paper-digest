@@ -1,7 +1,37 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T00:32:14.379Z",
+  "updatedAt": "2026-10-06T00:32:53.035Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-06",
+      "date": "2026-10-06",
+      "period": {
+        "from": "2026-09-07",
+        "to": "2026-10-06"
+      },
+      "generatedAt": "2026-10-06T00:32:53.035Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文日报 · 2026-10-06",
+      "path": "daily/2026-10-06.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "Ecosystem monitoring"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag238",
+        "10.1111/ele.70458",
+        "10.1093/jpe/rtag215"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-05",

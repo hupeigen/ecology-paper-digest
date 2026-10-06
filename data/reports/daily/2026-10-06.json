@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-06",
+  "date": "2026-10-06",
+  "period": {
+    "from": "2026-09-07",
+    "to": "2026-10-06"
+  },
+  "generatedAt": "2026-10-06T00:32:53.035Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-06",
+  "paperCount": 3,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag238",
+      "title": "Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation",
+      "authors": [
+        {
+          "name": "Cui Han",
+          "orcid": null
+        },
+        {
+          "name": "Jing Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xu Luo",
+          "orcid": null
+        },
+        {
+          "name": "Ying Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Jiali Lian",
+          "orcid": null
+        },
+        {
+          "name": "Xueqin Yang",
+          "orcid": null
+        },
+        {
+          "name": "Adilbek Nogayev",
+          "orcid": null
+        },
+        {
+          "name": "Jianping Li",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-05",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag238",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag238/71601605/rtag238.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 56,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 17,
+      "recommendationReason": "重点体现导师方向；命中“soil organic carbon、soil carbon、microbial community、carbon sequestration”等信号。",
+      "essence": {
+        "problem": "Abstract Soil viruses are increasingly recognized as important biotic components influencing microbial community dynamics and soil carbon cycling.",
+        "design": "Using a multi-year precipitation-manipulation experiment in a typical temperate steppe on the Loess Plateau, we integrated viral and microbial sequencing, amino sugar biomarkers, and structural equation modeling to examine how altered precipitation affects MNC accumulation through changes in viral and microbial communities.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其structural equation model设计。可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/ele.70458",
+      "title": "Functional Identity Drives Directional Shifts in Freshwater Plankton Biomass–Size Relationships",
+      "authors": [
+        {
+          "name": "Heather L. Wander",
+          "orcid": "https://orcid.org/0000-0002-3762-6045"
+        },
+        {
+          "name": "Yannick Huot",
+          "orcid": "https://orcid.org/0000-0003-1793-761X"
+        },
+        {
+          "name": "Beatrix E. Beisner",
+          "orcid": "https://orcid.org/0000-0001-6972-6887"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-10-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70458",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70458",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "ABSTRACT Body size is a master variable in ecology that can predict ecosystem‐level processes and reflect environmental conditions across diverse ecosystems.",
+        "design": "This work should improve predictions and assessments of freshwater ecosystem functioning and food web pathways, based on our observation of directional shifts in biomass‐size relationships across functional groups and trophic states.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70458"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag215",
+      "title": "Leaf water-use efficiency varies by season and successional stage in tropical forests of Thailand",
+      "authors": [
+        {
+          "name": "Ratchanon Ampornpitak",
+          "orcid": "https://orcid.org/0000-0003-2488-9599"
+        },
+        {
+          "name": "Nils Henriksson",
+          "orcid": null
+        },
+        {
+          "name": "Anuttara Nathalang",
+          "orcid": null
+        },
+        {
+          "name": "Pantana Tor-ngern",
+          "orcid": "https://orcid.org/0000-0001-7363-4926"
+        },
+        {
+          "name": "Hyungwoo Lim",
+          "orcid": "https://orcid.org/0000-0001-9457-7203"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-11",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag215",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag215/71031394/rtag215.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现导师方向；命中“carbon-water”等信号。",
+      "essence": {
+        "problem": "Abstract Tropical forests play a critical role in global carbon and water cycles, driven by interactions and feedbacks among diverse species across forest successional stages.",
+        "design": "Our findings suggest that use of average leaf-traits for regional or stand level modeling is unadvisable in the diverse tropical ecosystems with varying successional stages.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag215"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 3,
+    "candidateCount": 5,
+    "coreCandidateCount": 5,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "ecology-letters": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 46
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 3 篇符合约束的论文，未使用低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
