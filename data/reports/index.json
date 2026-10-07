@@ -1,7 +1,36 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T00:32:53.035Z",
+  "updatedAt": "2026-10-07T00:33:37.139Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-07",
+      "date": "2026-10-07",
+      "period": {
+        "from": "2026-09-08",
+        "to": "2026-10-07"
+      },
+      "generatedAt": "2026-10-07T00:33:37.139Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文日报 · 2026-10-07",
+      "path": "daily/2026-10-07.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70446",
+        "10.1093/jpe/rtag202",
+        "10.1093/jpe/rtag221"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-06",
