@@ -1,7 +1,39 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T00:33:37.139Z",
+  "updatedAt": "2026-10-08T00:32:17.174Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-08",
+      "date": "2026-10-08",
+      "period": {
+        "from": "2026-09-09",
+        "to": "2026-10-08"
+      },
+      "generatedAt": "2026-10-08T00:32:17.174Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-08",
+      "path": "daily/2026-10-08.json",
+      "journals": [
+        "Journal of Ecology",
+        "Ecology Letters",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70450",
+        "10.1111/ele.70463",
+        "10.1111/1365-2745.70459",
+        "10.1111/ele.70462",
+        "10.1093/jpe/rtag219"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-07",
