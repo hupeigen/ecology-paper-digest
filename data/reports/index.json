@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T00:32:17.174Z",
+  "updatedAt": "2026-10-09T00:35:30.915Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-09",
+      "date": "2026-10-09",
+      "period": {
+        "from": "2026-09-10",
+        "to": "2026-10-09"
+      },
+      "generatedAt": "2026-10-09T00:35:30.915Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-09",
+      "path": "daily/2026-10-09.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-08",
