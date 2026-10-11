@@ -1,7 +1,46 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-10T00:33:37.125Z",
+  "updatedAt": "2026-10-11T00:32:24.901Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-11",
+      "date": "2026-10-11",
+      "period": {
+        "from": "2026-09-12",
+        "to": "2026-10-11"
+      },
+      "generatedAt": "2026-10-11T00:32:24.901Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-11",
+      "path": "daily/2026-10-11.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Restoration and management",
+        "Climate change",
+        "Biodiversity",
+        "Modeling and AI",
+        "seasonal temperature variation",
+        "host-parasitoid interactions",
+        "Drosophila",
+        "pupal parasitoids",
+        "larval parasitoids",
+        "population persistence"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag242",
+        "10.1093/jpe/rtag241",
+        "10.1111/ele.70460",
+        "10.1111/ele.70461",
+        "10.1111/1365-2745.70451"
+      ],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-10",
