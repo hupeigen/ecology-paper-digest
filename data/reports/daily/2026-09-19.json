@@ -1,0 +1,542 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-19",
+  "date": "2026-09-19",
+  "period": {
+    "from": "2026-08-21",
+    "to": "2026-09-19"
+  },
+  "generatedAt": "2026-09-19T00:26:40.885Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-19",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag163",
+      "title": "Root exudates drive stage-dependent soil aggregate stability through direct and microbial pathways",
+      "authors": [
+        {
+          "name": "Songlin Zhang",
+          "orcid": "https://orcid.org/0000-0002-5906-416X"
+        },
+        {
+          "name": "Hongyu Hu",
+          "orcid": null
+        },
+        {
+          "name": "Ying Liu",
+          "orcid": null
+        },
+        {
+          "name": "Muhammd Arif",
+          "orcid": "https://orcid.org/0000-0003-0359-5161"
+        },
+        {
+          "name": "Xiaoxiao Wang",
+          "orcid": null
+        },
+        {
+          "name": "Qiong Ran",
+          "orcid": null
+        },
+        {
+          "name": "Jie Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Shengjun Wu",
+          "orcid": null
+        },
+        {
+          "name": "Ping Huang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag163",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag163",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Modeling and AI",
+        "Restoration and management",
+        "Rhizosphere",
+        "Exudate",
+        "Soil structure",
+        "Microbial population biology"
+      ],
+      "valueScores": {
+        "advisor": 50,
+        "strategy": 8,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 18,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“root exudate、microbial community、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Root exudates are key mediators of plant-microbe-soil interactions, yet how their temporal dynamics impact soil aggregate stability remains poorly understood.",
+        "design": "Partial least squares path modeling (PLS-PM) showed that root exudates affected soil aggregate stability through both direct and microbially mediated pathways.",
+        "innovation": "These findings reveal a lagged plant-microbe-soil feedback in which root exudates first reshape microbial community structure and biochemical processes, with soil structural benefits becoming more evident as plant growth progresses.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag163"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7207749969"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag229",
+      "title": "Multi-organ stoichiometry of C:N:P reflects shifts in plant adaptation strategies during secondary succession in temperate forests",
+      "authors": [
+        {
+          "name": "Lili Li",
+          "orcid": null
+        },
+        {
+          "name": "Jiahui Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Chaolian Jiao",
+          "orcid": null
+        },
+        {
+          "name": "Jihua Hou",
+          "orcid": null
+        },
+        {
+          "name": "Nianpeng He",
+          "orcid": "https://orcid.org/0000-0002-0458-5953"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-17",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag229",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag229",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI",
+        "Restoration and management",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 42,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 12,
+      "recommendationReason": "重点体现应用价值与国家战略；命中“restoration、management、restoration、adaptation”等信号。",
+      "essence": {
+        "problem": "Abstract Secondary succession following anthropogenic disturbance is widespread in temperate mixed conifer–broadleaf forests.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag229"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213468265"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/ele.70452",
+      "title": "Remote Spectral Detection of Canopy Functional Dimensions Varying Within and Across Forest Types",
+      "authors": [
+        {
+          "name": "Fengqi Wu",
+          "orcid": "https://orcid.org/0000-0002-6512-6830"
+        },
+        {
+          "name": "Shuwen Liu",
+          "orcid": "https://orcid.org/0009-0004-0916-2257"
+        },
+        {
+          "name": "Constantin M. Zohner",
+          "orcid": null
+        },
+        {
+          "name": "Philip A. Townsend",
+          "orcid": "https://orcid.org/0000-0001-7003-8774"
+        },
+        {
+          "name": "Thomas W. Crowther",
+          "orcid": "https://orcid.org/0000-0001-5674-8913"
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Daryl Yang",
+          "orcid": "https://orcid.org/0000-0003-1705-7823"
+        },
+        {
+          "name": "Nan Yang",
+          "orcid": null
+        },
+        {
+          "name": "Tingting Dong",
+          "orcid": "https://orcid.org/0009-0006-2987-1645"
+        },
+        {
+          "name": "Weiying Xu",
+          "orcid": "https://orcid.org/0009-0009-8921-3179"
+        },
+        {
+          "name": "Zhihui Wang",
+          "orcid": null
+        },
+        {
+          "name": "Xiaojuan Liu",
+          "orcid": "https://orcid.org/0000-0002-9292-4432"
+        },
+        {
+          "name": "Guanhua Dai",
+          "orcid": null
+        },
+        {
+          "name": "Jinlong Dong",
+          "orcid": "https://orcid.org/0009-0006-2731-3551"
+        },
+        {
+          "name": "Sandra M. Durán",
+          "orcid": "https://orcid.org/0000-0003-2044-8139"
+        },
+        {
+          "name": "Fabian D. Schneider",
+          "orcid": "https://orcid.org/0000-0003-1791-2041"
+        },
+        {
+          "name": "Yuan Zeng",
+          "orcid": null
+        },
+        {
+          "name": "J. Hans C. Cornelissen",
+          "orcid": null
+        },
+        {
+          "name": "Jens Kattge",
+          "orcid": "https://orcid.org/0000-0002-1022-8469"
+        },
+        {
+          "name": "Jin Wu",
+          "orcid": "https://orcid.org/0000-0001-8991-3970"
+        },
+        {
+          "name": "Gregory P. Asner",
+          "orcid": "https://orcid.org/0000-0001-7893-6421"
+        },
+        {
+          "name": "Jeannine Cavender‐Bares",
+          "orcid": "https://orcid.org/0000-0003-3375-9630"
+        },
+        {
+          "name": "Peter B. Reich",
+          "orcid": "https://orcid.org/0000-0003-4424-662X"
+        },
+        {
+          "name": "Zhengbing Yan",
+          "orcid": "https://orcid.org/0000-0002-5028-8167"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70452",
+      "oaUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13543332/",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Trait",
+        "Canopy",
+        "Multidimensional scaling",
+        "Subtropics",
+        "Tropical and subtropical moist broadleaf forests"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 50,
+        "frontier": 0
+      },
+      "totalScore": 11,
+      "recommendationReason": "重点体现跨学科融合与应用价值；命中“monitoring、scenario、spectral、economics”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "design": "Through site‐training scenario, leaf‐to‐canopy scaling and spectral‐domain modelling tests, we find that reliable canopy trait retrieval depends not only on trait and spectral coverage, but also on preserving trait‐spectral relationships across sites and scales.",
+        "innovation": "ABSTRACT Global trait axes reveal overarching dimensions of plant functional variation.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70452"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7208743063"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70429",
+      "title": "Mowing enhances the sensitivity of arbuscular mycorrhizal mycelial carbon pools to nitrogen enrichment in grassland ecosystem",
+      "authors": [
+        {
+          "name": "Xiaojing Zhang",
+          "orcid": "https://orcid.org/0000-0003-3864-7080"
+        },
+        {
+          "name": "Jingjing Yang",
+          "orcid": null
+        },
+        {
+          "name": "Kai Miao",
+          "orcid": null
+        },
+        {
+          "name": "Zizheng Li",
+          "orcid": null
+        },
+        {
+          "name": "Yushan Bo",
+          "orcid": null
+        },
+        {
+          "name": "Xiaoning Dong",
+          "orcid": null
+        },
+        {
+          "name": "Liangchao Jiang",
+          "orcid": "https://orcid.org/0000-0002-6511-2332"
+        },
+        {
+          "name": "Deliang Kong",
+          "orcid": "https://orcid.org/0000-0002-3418-3787"
+        },
+        {
+          "name": "Xuerong Di",
+          "orcid": null
+        },
+        {
+          "name": "Xue Han",
+          "orcid": null
+        },
+        {
+          "name": "Li Liu",
+          "orcid": "https://orcid.org/0000-0001-5504-5773"
+        },
+        {
+          "name": "Wei Fu",
+          "orcid": "https://orcid.org/0000-0002-5377-307X"
+        },
+        {
+          "name": "Haiyang Zhang",
+          "orcid": "https://orcid.org/0000-0001-7951-0502"
+        },
+        {
+          "name": "Xingguo Han",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-08-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70429",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70429",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Restoration and management",
+        "Biomass (ecology)",
+        "Nutrient",
+        "Mycelium",
+        "Ecosystem",
+        "Grassland"
+      ],
+      "valueScores": {
+        "advisor": 26,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 11,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“mycorrhizal、management、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Arbuscular mycorrhizal (AM) fungi are pivotal mediators of plant nutrient acquisition and depend on host‐derived carbon (C).",
+        "design": "We used a long‐term (2015–2023) factorial field experiment in a meadow steppe in northern China, with six N addition rates (0, 2, 5, 10, 20 and 50 g N m −2 yr.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其field experiment设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "field experiment"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70429"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7204540687"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70451",
+      "title": "Temporal Decoupling of Biodiversity Effects on Grassland Productivity and Stability",
+      "authors": [
+        {
+          "name": "Bo Meng",
+          "orcid": "https://orcid.org/0000-0002-7861-3056"
+        },
+        {
+          "name": "Yuanyuan Huang",
+          "orcid": "https://orcid.org/0000-0002-6990-8864"
+        },
+        {
+          "name": "Christiane Roscher",
+          "orcid": "https://orcid.org/0000-0001-9301-7909"
+        },
+        {
+          "name": "Takehiro Sasaki",
+          "orcid": "https://orcid.org/0000-0001-8727-9152"
+        },
+        {
+          "name": "Shaopeng Wang",
+          "orcid": "https://orcid.org/0000-0002-9430-8879"
+        },
+        {
+          "name": "Nico Eisenhauer",
+          "orcid": "https://orcid.org/0000-0002-0371-6720"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70451",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70451",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem",
+        "Productivity",
+        "Alternative stable state",
+        "Interspecific competition",
+        "Grassland",
+        "Ecological stability",
+        "Ecology and Vegetation Dynamics Studies"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 42,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现国家战略；命中“biodiversity”等信号。",
+      "essence": {
+        "problem": "ABSTRACT One key unresolved question in ecology is what drives temporal trends in biodiversity–stability relationships and how these trends link to ecosystem functioning.",
+        "design": "Using plant productivity data from a 20‐year grassland biodiversity experiment, complemented by a paired 5‐year experiment that controlled for legacy effects, we disentangled the contributions of species‐specific dynamics and interaction‐dependent processes to plant community stability.",
+        "innovation": "Our findings reveal the dynamic nature of biodiversity effects on plant community stability, underscoring the importance of understanding long‐term ecosystem trajectories.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70451"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7212224647"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 43,
+    "coreCandidateCount": 43,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "ecology-letters": 2,
+      "journal-of-ecology": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 50
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-07",
+  "date": "2026-10-07",
+  "period": {
+    "from": "2026-09-08",
+    "to": "2026-10-07"
+  },
+  "generatedAt": "2026-10-07T00:33:37.139Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-07",
+  "paperCount": 3,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70446",
+      "title": "Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests",
+      "authors": [
+        {
+          "name": "Elinor B. Fajer",
+          "orcid": "https://orcid.org/0009-0001-0814-5330"
+        },
+        {
+          "name": "Kabir Peay",
+          "orcid": "https://orcid.org/0000-0002-7998-7412"
+        },
+        {
+          "name": "Robert Jackson",
+          "orcid": null
+        },
+        {
+          "name": "Jay Yeam",
+          "orcid": null
+        },
+        {
+          "name": "Zoë Rehnborg",
+          "orcid": null
+        },
+        {
+          "name": "Peter Pellitier",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-05",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70446",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70446",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 18,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 8,
+        "frontier": 8
+      },
+      "totalScore": 9,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“soil carbon、degradation、earth system model、emergent”等信号。",
+      "essence": {
+        "problem": "Abstract Understanding the biological interactions which influence the boreal carbon (C) sink are critical to the development of accurate Earth System Models (ESM).",
+        "design": "Abstract Understanding the biological interactions which influence the boreal carbon (C) sink are critical to the development of accurate Earth System Models (ESM).",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag202",
+      "title": "Patterns and determinants of the glomalin-related soil protein accrual at rock-soil interfaces across two lithologies in karst forests, Southwest China",
+      "authors": [
+        {
+          "name": "Qiumei Ling",
+          "orcid": null
+        },
+        {
+          "name": "Hanqing Wu",
+          "orcid": null
+        },
+        {
+          "name": "Lei Xie",
+          "orcid": null
+        },
+        {
+          "name": "Songjiang Hu",
+          "orcid": null
+        },
+        {
+          "name": "Tong Li",
+          "orcid": null
+        },
+        {
+          "name": "Ram A M Dalal",
+          "orcid": null
+        },
+        {
+          "name": "Apostolos Kyriazopoulos",
+          "orcid": null
+        },
+        {
+          "name": "Shenglong Li",
+          "orcid": null
+        },
+        {
+          "name": "Wei Wan",
+          "orcid": null
+        },
+        {
+          "name": "Peilei Hu",
+          "orcid": null
+        },
+        {
+          "name": "Jun Xiao",
+          "orcid": null
+        },
+        {
+          "name": "Hu Du",
+          "orcid": null
+        },
+        {
+          "name": "Jie Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Hongsong Chen",
+          "orcid": "https://orcid.org/0000-0002-0310-0088"
+        },
+        {
+          "name": "Kelin Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wei Zhang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-06",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag202",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag202/71618524/rtag202.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 8,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 6,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“soil organic carbon、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Glomalin-related soil protein (GRSP) is a complex microbial-derived glycoprotein mixture that acts as an essential bio-glue stabilizing organic carbon (C) pools and driving soil aggregation and C sequestration.",
+        "design": "Random forest modeling confirmed microbial biomass as the key driver of GRSP accumulation, followed by mineral protection, microbial diversity, labile N, and ecoenzymatic stoichiometry.",
+        "innovation": "Structural equation modeling revealed that lithology and rock-soil interface facilitated GRSP formation and stabilization by enhancing N availability, mineral protection, microbial diversity, and biomass.",
+        "transferableIdeas": "可借鉴其random forest、structural equation model设计。可将核心变量与土壤碳形成、稳定或通量过程建立联系。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "random forest",
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag221",
+      "title": "Evolution of competitive and defense plasticity explains the success of an invasive plant Phytolacca americana",
+      "authors": [
+        {
+          "name": "Bangyu Zhang",
+          "orcid": "https://orcid.org/0009-0001-7499-9481"
+        },
+        {
+          "name": "Jingge Kuang",
+          "orcid": null
+        },
+        {
+          "name": "Yuxuan Li",
+          "orcid": null
+        },
+        {
+          "name": "Yi Wang",
+          "orcid": "https://orcid.org/0000-0003-2528-5877"
+        },
+        {
+          "name": "Han-Bo Zhang",
+          "orcid": "https://orcid.org/0000-0002-7647-3248"
+        },
+        {
+          "name": "Bo Li",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-15",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag221",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag221/71083130/rtag221.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "Abstract The evolution of increased competitive ability (EICA) hypothesis posits that invasive species in their introduced ranges exhibit reduced defense but enhanced growth and competitive ability.",
+        "design": "To address these gaps, we conducted a common garden experiment using 10 populations of Phytolacca americana from its introduced (China) and native (North America) ranges to assess trait differences and phenotypic plasticity in response to intraspecific and interspecific competition and pathogen attack.",
+        "innovation": "Our results revealed that, compared to native populations, introduced ones prioritized reproductive allocation over total biomass and exhibited enhanced competitive tolerance rather than suppression.",
+        "transferableIdeas": "可借鉴其common garden设计。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag221"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 3,
+    "candidateCount": 4,
+    "coreCandidateCount": 4,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 1,
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 48
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 3 篇符合约束的论文，未使用低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

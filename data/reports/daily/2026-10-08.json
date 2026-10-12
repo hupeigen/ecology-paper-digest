@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-08",
+  "date": "2026-10-08",
+  "period": {
+    "from": "2026-09-09",
+    "to": "2026-10-08"
+  },
+  "generatedAt": "2026-10-08T00:32:17.174Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-08",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70450",
+      "title": "Context‐dependent unimodal relationships between ectomycorrhizal dominance and tree species diversity in forest ecosystems",
+      "authors": [
+        {
+          "name": "Suhui Ma",
+          "orcid": "https://orcid.org/0000-0001-6557-6834"
+        },
+        {
+          "name": "Qiong Cai",
+          "orcid": "https://orcid.org/0000-0002-7173-1447"
+        },
+        {
+          "name": "Wenjing Fang",
+          "orcid": null
+        },
+        {
+          "name": "Li Huang",
+          "orcid": null
+        },
+        {
+          "name": "Zhiyan Peng",
+          "orcid": "https://orcid.org/0000-0001-6100-6519"
+        },
+        {
+          "name": "Zeyuan Li",
+          "orcid": "https://orcid.org/0009-0002-9416-5967"
+        },
+        {
+          "name": "Zujun Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Qin Li",
+          "orcid": null
+        },
+        {
+          "name": "Zhiming Zhang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70450",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70450",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 24,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 12,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“mycorrhizal、management、conservation、forest management”等信号。",
+      "essence": {
+        "problem": "Abstract Most trees form mycorrhizal associations with soil fungi, which regulate tree nutrient acquisition and species coexistence.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "In fact, the two mechanisms are not mutually exclusive but act jointly to shape diversity as predicted by the asymmetrical unimodal hypothesis.",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70450"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/ele.70463",
+      "title": "The Effect of Biogeographic Origin on the Adaptive Trajectories of Plants in Urban Environments",
+      "authors": [
+        {
+          "name": "Bojana Stojanova",
+          "orcid": "https://orcid.org/0000-0002-6761-7756"
+        },
+        {
+          "name": "Lucrezia Laccetti",
+          "orcid": "https://orcid.org/0000-0001-8578-6644"
+        },
+        {
+          "name": "Tsipe Aavik",
+          "orcid": "https://orcid.org/0000-0001-5232-3950"
+        },
+        {
+          "name": "Pierluigi Cortis",
+          "orcid": "https://orcid.org/0000-0002-9236-2177"
+        },
+        {
+          "name": "Federica Fumo",
+          "orcid": "https://orcid.org/0009-0003-9749-7649"
+        },
+        {
+          "name": "Charlotte Møller",
+          "orcid": "https://orcid.org/0000-0002-6563-1490"
+        },
+        {
+          "name": "Zuzana Münzbergová",
+          "orcid": "https://orcid.org/0000-0002-4026-6220"
+        },
+        {
+          "name": "Markéta Průšová",
+          "orcid": null
+        },
+        {
+          "name": "Christoph Rosche",
+          "orcid": "https://orcid.org/0000-0002-4257-3072"
+        },
+        {
+          "name": "Virve Sõber",
+          "orcid": "https://orcid.org/0000-0001-5601-9446"
+        },
+        {
+          "name": "Epp Valdaru",
+          "orcid": "https://orcid.org/0009-0007-7601-0239"
+        },
+        {
+          "name": "Giuseppe Pellegrino",
+          "orcid": "https://orcid.org/0000-0002-9358-2075"
+        },
+        {
+          "name": "Giovanni Scopece",
+          "orcid": "https://orcid.org/0000-0003-0341-6231"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-10-06",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70463",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70463",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现应用价值；命中“adaptation”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Parallel adaptation is a hallmark of urban evolution, yet whether plant responses to urbanization are globally consistent or influenced by biogeographic origin remains unclear.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其common garden设计。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "common garden"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70463"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/1365-2745.70459",
+      "title": "Functional traits modulate nitrogen addition and climate impacts on growth–mortality trade‐offs in a temperate forest experiment",
+      "authors": [
+        {
+          "name": "Li Ma",
+          "orcid": null
+        },
+        {
+          "name": "Xinna Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Huaijiang He",
+          "orcid": null
+        },
+        {
+          "name": "Juan Wang",
+          "orcid": "https://orcid.org/0000-0001-9021-5985"
+        },
+        {
+          "name": "Xiuhai Zhao",
+          "orcid": "https://orcid.org/0000-0003-0879-4063"
+        },
+        {
+          "name": "Klaus von Gadow",
+          "orcid": null
+        },
+        {
+          "name": "Chunyu Zhang",
+          "orcid": "https://orcid.org/0000-0003-3091-5060"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70459",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70459",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现国家战略；命中“climate change”等信号。",
+      "essence": {
+        "problem": "Abstract The interspecific trade‐off between growth and mortality among tree species is a key dimension of plant life‐history strategies.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Collectively, our findings reveal that N enrichment reshapes sapling life‐history strategies by altering trait‐mediated resource allocation and physiological sensitivity to climatic stress, thereby reconfiguring the growth–mortality trade‐off under global change.",
+        "transferableIdeas": "可借鉴其nitrogen addition设计。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/ele.70462",
+      "title": "Toward an Ecology of Household Biomes",
+      "authors": [
+        {
+          "name": "Raul Costa‐Pereira",
+          "orcid": "https://orcid.org/0000-0003-2370-5866"
+        },
+        {
+          "name": "Robert R. Dunn",
+          "orcid": null
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-10-06",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70462",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70462",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现国家战略；命中“biodiversity”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Understanding the overlooked ecology of our homes can provide ecologists with unprecedented data and fresh ideas while also informing broader societal concerns.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70462"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1093/jpe/rtag219",
+      "title": "Fine-scale density dependence in a spatially heterogeneous plant population",
+      "authors": [
+        {
+          "name": "Rachel Spigler",
+          "orcid": "https://orcid.org/0000-0002-5997-9781"
+        },
+        {
+          "name": "Mark Walker",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-11",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag219",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag219/71025593/rtag219.pdf",
+      "isOpenAccess": true,
+      "keywords": [],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "Abstract Density-dependent competition is one of the most fundamental concepts in plant population ecology yet is not consistently detected in wild populations.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Neighborhood sizes and densities were highly variable, revealing a patchy, heterogeneous spatial distribution of juveniles that may partly reflect fine-scale resource heterogeneity.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag219"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 6,
+    "coreCandidateCount": 6,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "ecology-letters": 2,
+      "jpe": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 50
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

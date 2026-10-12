@@ -1,0 +1,447 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-21",
+  "date": "2026-09-21",
+  "period": {
+    "from": "2026-08-23",
+    "to": "2026-09-21"
+  },
+  "generatedAt": "2026-09-21T00:28:03.297Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-21",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag218",
+      "title": "Responses of rhizosphere fungi to elevational gradients: distinct diversity and specialization of mycorrhizal and plant-pathogenic fungi in subalpine forests",
+      "authors": [
+        {
+          "name": "Jie Song",
+          "orcid": null
+        },
+        {
+          "name": "Liang-Liang Ma",
+          "orcid": null
+        },
+        {
+          "name": "Ming-Shu Zhu",
+          "orcid": null
+        },
+        {
+          "name": "Jie Liu",
+          "orcid": null
+        },
+        {
+          "name": "Jia-Yun Zou",
+          "orcid": null
+        },
+        {
+          "name": "Wei Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Zhong-Yu Fan",
+          "orcid": null
+        },
+        {
+          "name": "Kun Xu",
+          "orcid": null
+        },
+        {
+          "name": "De-Zhu Li",
+          "orcid": "https://orcid.org/0000-0002-4990-724X"
+        },
+        {
+          "name": "Lian-Ming Gao",
+          "orcid": null
+        },
+        {
+          "name": "Ya-Huang Luo",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag218",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag218",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Rhizosphere",
+        "Species richness",
+        "Host (biology)",
+        "Beta diversity",
+        "Ecosystem",
+        "Biodiversity",
+        "Community structure"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 13,
+      "recommendationReason": "重点体现导师方向；命中“root trait、mycorrhizal”等信号。",
+      "essence": {
+        "problem": "Abstract Rhizosphere microbes are closely associated with forest community diversity and ecosystem functioning.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Collectively, these findings show that MF and PF are structured by distinct ecological filters along elevational gradients, resulting in guild-dependent patterns of plant-fungal network specialization in subalpine forests and providing new insights into plant–microbe dynamics under global change.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag218"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7212159743"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag226",
+      "title": "Forest bioindication via vascular plants: from multilevel frameworks to trait-based analysis",
+      "authors": [
+        {
+          "name": "Olena Blinkova",
+          "orcid": null
+        },
+        {
+          "name": "Roma Żytkowiak",
+          "orcid": null
+        },
+        {
+          "name": "Dawid Adamczyk",
+          "orcid": null
+        },
+        {
+          "name": "Liudmyla Raichuk",
+          "orcid": null
+        },
+        {
+          "name": "Saulius Mickevičius",
+          "orcid": null
+        },
+        {
+          "name": "Marina Sidorenko",
+          "orcid": null
+        },
+        {
+          "name": "Volodymyr Vasylenko",
+          "orcid": null
+        },
+        {
+          "name": "Olga Iungin",
+          "orcid": null
+        },
+        {
+          "name": "Dalia Urbonavičienė",
+          "orcid": null
+        },
+        {
+          "name": "Andrzej M Jagodziński",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-16",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag226",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag226",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring",
+        "Ordination",
+        "Temperate rainforest",
+        "Trait",
+        "Temperate deciduous forest",
+        "Temperate forest",
+        "Context (archaeology)",
+        "Biodiversity"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 18
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现前沿突破与应用价值；命中“subtropical forest、indicator、trait-based”等信号。",
+      "essence": {
+        "problem": "Abstract Forest bioindication is widely used to assess ecosystem condition under anthropogenic and climatic stress, yet vascular plant-based approaches remain fragmented across biological levels, forest types, and indicator traits.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "The ABC framework supports comparison among studies and highlights priorities for diagnostic coherence, defined as consistent classification, measurement, and interpretation of indicators across biological levels, forest types, and trait categories.",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag226"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213428161"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/1365-2745.70437",
+      "title": "Nutritional regulation of the trade‐off between carbon assimilation and water loss across and within Mediterranean plant species",
+      "authors": [
+        {
+          "name": "Angela Illuminati",
+          "orcid": "https://orcid.org/0000-0003-2313-1639"
+        },
+        {
+          "name": "José Ignacio Querejeta",
+          "orcid": "https://orcid.org/0000-0002-9547-0974"
+        },
+        {
+          "name": "Silvia Matesanz",
+          "orcid": "https://orcid.org/0000-0003-0060-6136"
+        },
+        {
+          "name": "Adrián Escudero",
+          "orcid": "https://orcid.org/0000-0002-1427-5465"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-09-15",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70437",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70437",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 1,
+      "recommendationReason": "重点体现前沿突破；命中“experimental evidence”等信号。",
+      "essence": {
+        "problem": "Abstract The least‐cost economic theory of photosynthesis (LCE) postulates that leaf nitrogen (N) modulates the balance between carbon gain and water loss in plants, with N‐rich leaves exhibiting higher photosynthetic efficiency and lower transpiration rates than N‐poor leaves.",
+        "design": "Phylogenetic mixed models confirmed that leaf N was the main driver of variation in leaf water flux (δ 18 O) and metabolic efficiency (IMS) across individuals.",
+        "innovation": "4 to 6% across species and was positively associated with both δ 18 O and IMS, revealing tighter stomatal regulation and enhanced metabolic efficiency in N‐rich leaves.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70437"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/1365-2745.70432",
+      "title": "Cross‐scale biogeochemical niche coordination links plant organs and community diversity",
+      "authors": [
+        {
+          "name": "Mengguang Han",
+          "orcid": "https://orcid.org/0000-0003-4020-991X"
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Marcos Fernández‐Martínez",
+          "orcid": "https://orcid.org/0000-0002-5661-3610"
+        },
+        {
+          "name": "Jordi Sardans",
+          "orcid": null
+        },
+        {
+          "name": "Gukailin Ao",
+          "orcid": null
+        },
+        {
+          "name": "Yunlong Hu",
+          "orcid": null
+        },
+        {
+          "name": "Miao Yu",
+          "orcid": null
+        },
+        {
+          "name": "Zhenping Liu",
+          "orcid": null
+        },
+        {
+          "name": "Biao Zhu",
+          "orcid": "https://orcid.org/0000-0001-9858-7943"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-08-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70432",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70432",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 8
+      },
+      "totalScore": 3,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“biodiversity、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract The elemental composition (i.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "The element‐based niche (biogeochemical niche) offers a powerful framework to understand the biodiversity‐ecosystem functioning relationship.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70432"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/ele.70454",
+      "title": "Born This Way: Individuality Is Seeded Before Birth and Robust to Ecological Stress",
+      "authors": [
+        {
+          "name": "James H. Gallagher",
+          "orcid": "https://orcid.org/0000-0001-5705-1325"
+        },
+        {
+          "name": "Ammon D. Perkes",
+          "orcid": "https://orcid.org/0000-0001-8932-8309"
+        },
+        {
+          "name": "Chia‐Chen Chang",
+          "orcid": "https://orcid.org/0000-0001-9853-8949"
+        },
+        {
+          "name": "Emma S. Chirila",
+          "orcid": "https://orcid.org/0009-0009-8719-3362"
+        },
+        {
+          "name": "Karen Kacevas",
+          "orcid": null
+        },
+        {
+          "name": "Kate L. Laskowski",
+          "orcid": "https://orcid.org/0000-0003-1523-9340"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-09-14",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70454",
+      "oaUrl": "https://doi.org/10.1111/ele.70454",
+      "isOpenAccess": true,
+      "keywords": [
+        "Environmental stress",
+        "Predation",
+        "Predictability",
+        "Environmental change",
+        "Salient",
+        "Maternal effect",
+        "Fish <Actinopterygii>",
+        "Evolutionary ecology"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "ABSTRACT Behavioural individuality is widespread, yet its developmental origins are unclear.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "We subjected clonal individuals to a critical ecological challenge—the threat of predation—to disentangle the developmental mechanisms of individuality.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70454"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7212352019"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 32,
+    "coreCandidateCount": 32,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "journal-of-ecology": 2,
+      "ecology-letters": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 49
+  },
+  "warnings": [],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

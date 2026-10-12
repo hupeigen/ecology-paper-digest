@@ -1,0 +1,215 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-09-30",
+  "date": "2026-09-30",
+  "period": {
+    "from": "2026-09-01",
+    "to": "2026-09-30"
+  },
+  "generatedAt": "2026-09-30T00:30:36.634Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-09-30",
+  "paperCount": 2,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag209",
+      "title": "AMF limitation at the invasion front: differential benefits to edge versus core populations shape the expansion of an invasive plant",
+      "authors": [
+        {
+          "name": "Chun-Ling Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Rui-Ling Liu",
+          "orcid": null
+        },
+        {
+          "name": "Gang Liu",
+          "orcid": null
+        },
+        {
+          "name": "Ying-Ying Sun",
+          "orcid": null
+        },
+        {
+          "name": "Jia Wang",
+          "orcid": null
+        },
+        {
+          "name": "Xing-Jiang Song",
+          "orcid": null
+        },
+        {
+          "name": "Yu Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xin-Di Li",
+          "orcid": null
+        },
+        {
+          "name": "Jia-Bin Zou",
+          "orcid": null
+        },
+        {
+          "name": "Dong-Hao Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wei-Qi Wang",
+          "orcid": null
+        },
+        {
+          "name": "Zi-Hao Jiang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-04",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag209",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag209/70962499/rtag209.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现导师方向；命中“mycorrhizal”等信号。",
+      "essence": {
+        "problem": "Abstract Arbuscular mycorrhizal fungi (AMF) are key mutualists in plant invasions, but their availability may constrain range expansion if plant spread outpaces fungal dispersal.",
+        "design": "Using a combination of field surveys and a greenhouse experiment, we investigated the effects of AMF on the growth, competitive ability, and reproduction of the invasive plant Galinsoga quadriradiata in its core and edge populations.",
+        "innovation": "The results of piecewise structural equation models revealed distinct plant-AMF interaction pathways for the core versus edge populations of G.",
+        "transferableIdeas": "可借鉴其field survey、structural equation model设计。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "field survey",
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag209"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag227",
+      "title": "Sprouting coincides with reduced adverse effects of stress on species loss and productivity in a natural forest",
+      "authors": [
+        {
+          "name": "Chen-Yue Shi",
+          "orcid": null
+        },
+        {
+          "name": "Jing Yang",
+          "orcid": "https://orcid.org/0000-0001-6609-6795"
+        },
+        {
+          "name": "Chao Jin",
+          "orcid": null
+        },
+        {
+          "name": "Siyu Wu",
+          "orcid": null
+        },
+        {
+          "name": "Congling Zhang",
+          "orcid": null
+        },
+        {
+          "name": "JiQing Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Xihua Wang",
+          "orcid": null
+        },
+        {
+          "name": "Guochun Shen",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-15",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag227",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag227/71088347/rtag227.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 4,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“subtropical forest、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract Increasing environmental stress has exacerbated diversity and productivity declines in natural forests.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag227"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 2,
+    "candidateCount": 14,
+    "coreCandidateCount": 14,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 64
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 2 篇符合约束的论文，未使用低置信度文章凑数。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-02",
+  "date": "2026-10-02",
+  "period": {
+    "from": "2026-09-03",
+    "to": "2026-10-02"
+  },
+  "generatedAt": "2026-10-02T00:30:09.277Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-02",
+  "paperCount": 4,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70454",
+      "title": "Rainfall memory and spring atmospheric demand predict herbaceous biomass production in Mediterranean ecosystems",
+      "authors": [
+        {
+          "name": "Marcelo Sternberg",
+          "orcid": "https://orcid.org/0000-0001-8710-4141"
+        },
+        {
+          "name": "Shay Adar",
+          "orcid": "https://orcid.org/0000-0001-7404-715X"
+        },
+        {
+          "name": "Darya Perry",
+          "orcid": null
+        },
+        {
+          "name": "Danila Beliavskii",
+          "orcid": "https://orcid.org/0000-0002-3738-8024"
+        },
+        {
+          "name": "Jaime Kigel",
+          "orcid": "https://orcid.org/0000-0003-3028-9522"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-01",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70454",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70454",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 16
+      },
+      "totalScore": 13,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“drought、prediction、experimental evidence”等信号。",
+      "essence": {
+        "problem": "Abstract Aboveground herbaceous biomass production in Mediterranean ecosystems is often related to precipitation amount, yet similar rainfall totals can produce contrasting biomass.",
+        "design": "Treatment‐specific rainfall records were combined with meteorological data and Random Forest modelling.",
+        "innovation": "Favourable rainfall conditions during the previous growing season were also strongly associated with greater current biomass, revealing a climatic legacy across growing seasons.",
+        "transferableIdeas": "可借鉴其random forest设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "random forest"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70454"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2745.70453",
+      "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
+      "authors": [
+        {
+          "name": "Rentao Liu",
+          "orcid": "https://orcid.org/0000-0001-6537-1986"
+        },
+        {
+          "name": "Zhixia Guo",
+          "orcid": null
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Marcelo Sternberg",
+          "orcid": "https://orcid.org/0000-0001-8710-4141"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-01",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70453",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70453",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 24,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 16
+      },
+      "totalScore": 9,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“biodiversity、restoration、restoration、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Shrubs are key ecosystem engineers in drylands, yet their effects on biodiversity range from strongly positive to negative depending on species identity and climatic stress.",
+        "design": "Furthermore, a consistently close and strong plant–arthropod diversity coupling was observed across the three microhabitats.",
+        "innovation": "Our findings revealed that C.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70453"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag231",
+      "title": "Edge effects reduce plant diversity through cascading effects on microclimate and soil properties",
+      "authors": [
+        {
+          "name": "Jiaru Wu",
+          "orcid": null
+        },
+        {
+          "name": "Yongzhi Yan",
+          "orcid": "https://orcid.org/0000-0001-8493-6698"
+        },
+        {
+          "name": "Xiaoxu Lang",
+          "orcid": null
+        },
+        {
+          "name": "Anqi Liu",
+          "orcid": null
+        },
+        {
+          "name": "Jianming Niu",
+          "orcid": null
+        },
+        {
+          "name": "Qing Zhang",
+          "orcid": "https://orcid.org/0000-0002-3489-1417"
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag231",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag231/71300265/rtag231.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology",
+        "Biodiversity"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现国家战略；命中“biodiversity”等信号。",
+      "essence": {
+        "problem": "Abstract Habitat fragmentation is a major threat to biodiversity, yet the edge effects on plant diversity remain unresolved.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag231"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1093/jpe/rtag220",
+      "title": "Mangrove phylogeny shapes rhizosphere microbial diversity and biogeochemical functions",
+      "authors": [
+        {
+          "name": "Guo-Hong Liu",
+          "orcid": null
+        },
+        {
+          "name": "Qi Li",
+          "orcid": null
+        },
+        {
+          "name": "Hui-Yuan Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Hao-Cheng Shen",
+          "orcid": null
+        },
+        {
+          "name": "Huai Shi",
+          "orcid": null
+        },
+        {
+          "name": "Wen-Jun Li",
+          "orcid": "https://orcid.org/0000-0002-1233-736X"
+        },
+        {
+          "name": "Pandeng Wang",
+          "orcid": "https://orcid.org/0000-0002-7593-6634"
+        },
+        {
+          "name": "Shun-Gui Zhou",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag220",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag220/71280975/rtag220.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现导师方向；命中“microbial community”等信号。",
+      "essence": {
+        "problem": "Abstract Mangroves often have well-developed root systems, providing rhizosphere habitats for diverse microorganisms that mediate the elemental cycles in coastal wetlands.",
+        "design": "In this study, we systematically investigated microbial diversity, community composition, and functional potential in rhizosphere sediments of five mangrove species and adjacent unvegetated mudflats within a single mangrove ecosystem across six sampling time points from May 2019 to December 2020.",
+        "innovation": "Amplicon sequencing revealed that microbial diversity and community composition were temporally stable but differed significantly among mangrove species, with plant identity accounting for over 70% and 60% of the total explained variation in alpha diversity and community composition, respectively.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag220"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 4,
+    "candidateCount": 11,
+    "coreCandidateCount": 11,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "jpe": 2
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 44
+  },
+  "warnings": [
+    "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+  ],
+  "notes": [
+    "本日达到约束后仅有 4 篇，未使用低相关或低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

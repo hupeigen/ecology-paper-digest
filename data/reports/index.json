@@ -61,6 +61,796 @@
     },
     {
       "kind": "daily",
+      "reportId": "2026-10-11",
+      "date": "2026-10-11",
+      "period": {
+        "from": "2026-09-12",
+        "to": "2026-10-11"
+      },
+      "generatedAt": "2026-10-11T00:32:24.901Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-11",
+      "path": "daily/2026-10-11.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Restoration and management",
+        "Climate change",
+        "Biodiversity",
+        "Modeling and AI",
+        "seasonal temperature variation",
+        "host-parasitoid interactions",
+        "Drosophila",
+        "pupal parasitoids",
+        "larval parasitoids",
+        "population persistence"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag242",
+        "10.1093/jpe/rtag241",
+        "10.1111/ele.70460",
+        "10.1111/ele.70461",
+        "10.1111/1365-2745.70451"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-10",
+      "date": "2026-10-10",
+      "period": {
+        "from": "2026-09-11",
+        "to": "2026-10-10"
+      },
+      "generatedAt": "2026-10-10T00:33:37.125Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-10",
+      "path": "daily/2026-10-10.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-09",
+      "date": "2026-10-09",
+      "period": {
+        "from": "2026-09-10",
+        "to": "2026-10-09"
+      },
+      "generatedAt": "2026-10-09T00:35:30.915Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-09",
+      "path": "daily/2026-10-09.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-08",
+      "date": "2026-10-08",
+      "period": {
+        "from": "2026-09-09",
+        "to": "2026-10-08"
+      },
+      "generatedAt": "2026-10-08T00:32:17.174Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-08",
+      "path": "daily/2026-10-08.json",
+      "journals": [
+        "Journal of Ecology",
+        "Ecology Letters",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70450",
+        "10.1111/ele.70463",
+        "10.1111/1365-2745.70459",
+        "10.1111/ele.70462",
+        "10.1093/jpe/rtag219"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-07",
+      "date": "2026-10-07",
+      "period": {
+        "from": "2026-09-08",
+        "to": "2026-10-07"
+      },
+      "generatedAt": "2026-10-07T00:33:37.139Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文日报 · 2026-10-07",
+      "path": "daily/2026-10-07.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70446",
+        "10.1093/jpe/rtag202",
+        "10.1093/jpe/rtag221"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-06",
+      "date": "2026-10-06",
+      "period": {
+        "from": "2026-09-07",
+        "to": "2026-10-06"
+      },
+      "generatedAt": "2026-10-06T00:32:53.035Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文日报 · 2026-10-06",
+      "path": "daily/2026-10-06.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "Ecosystem monitoring"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag238",
+        "10.1111/ele.70458",
+        "10.1093/jpe/rtag215"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-05",
+      "date": "2026-10-05",
+      "period": {
+        "from": "2026-09-06",
+        "to": "2026-10-05"
+      },
+      "generatedAt": "2026-10-05T00:32:08.582Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-05",
+      "path": "daily/2026-10-05.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-04",
+      "date": "2026-10-04",
+      "period": {
+        "from": "2026-09-05",
+        "to": "2026-10-04"
+      },
+      "generatedAt": "2026-10-04T03:21:27.915Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文日报 · 2026-10-04",
+      "path": "daily/2026-10-04.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management",
+        "Biodiversity"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70455",
+        "10.1093/jpe/rtag237",
+        "10.1111/1365-2745.70456",
+        "10.1093/jpe/rtag235"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-03",
+      "date": "2026-10-03",
+      "period": {
+        "from": "2026-09-04",
+        "to": "2026-10-03"
+      },
+      "generatedAt": "2026-10-03T00:27:55.269Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-10-03",
+      "path": "daily/2026-10-03.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Soil ecology"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag214",
+        "10.1093/jpe/rtag206"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-02",
+      "date": "2026-10-02",
+      "period": {
+        "from": "2026-09-03",
+        "to": "2026-10-02"
+      },
+      "generatedAt": "2026-10-02T00:30:09.277Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文日报 · 2026-10-02",
+      "path": "daily/2026-10-02.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Biodiversity",
+        "Restoration and management",
+        "Soil ecology"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70454",
+        "10.1111/1365-2745.70453",
+        "10.1093/jpe/rtag231",
+        "10.1093/jpe/rtag220"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-10-01",
+      "date": "2026-10-01",
+      "period": {
+        "from": "2026-09-02",
+        "to": "2026-10-01"
+      },
+      "generatedAt": "2026-10-01T00:31:35.036Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文日报 · 2026-10-01",
+      "path": "daily/2026-10-01.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "Climate change",
+        "Modeling and AI",
+        "plant phenology",
+        "grassland",
+        "global change",
+        "warming",
+        "precipitation change",
+        "Biodiversity",
+        "Propagule pressure",
+        "Abiotic component",
+        "Ecosystem",
+        "Environmental change",
+        "Biological dispersal",
+        "Population",
+        "Trophic level"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70442",
+        "10.1093/jpe/rtag217",
+        "10.1093/jpe/rtag234",
+        "10.1111/1365-2745.70356"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-30",
+      "date": "2026-09-30",
+      "period": {
+        "from": "2026-09-01",
+        "to": "2026-09-30"
+      },
+      "generatedAt": "2026-09-30T00:30:36.634Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-30",
+      "path": "daily/2026-09-30.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Climate change"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag209",
+        "10.1093/jpe/rtag227"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-29",
+      "date": "2026-09-29",
+      "period": {
+        "from": "2026-08-31",
+        "to": "2026-09-29"
+      },
+      "generatedAt": "2026-09-29T00:28:44.565Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文日报 · 2026-09-29",
+      "path": "daily/2026-09-29.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Modeling and AI",
+        "Restoration and management",
+        "Multi-omics and health",
+        "Soil ecology",
+        "Climate change"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70452",
+        "10.1111/1365-2745.70445",
+        "10.1093/jpe/rtag216",
+        "10.1093/jpe/rtag223"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-28",
+      "date": "2026-09-28",
+      "period": {
+        "from": "2026-08-30",
+        "to": "2026-09-28"
+      },
+      "generatedAt": "2026-09-28T00:29:57.738Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-28",
+      "path": "daily/2026-09-28.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management",
+        "Carbon cycling",
+        "Ecosystem monitoring",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag208",
+        "10.1093/jpe/rtag224"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-27",
+      "date": "2026-09-27",
+      "period": {
+        "from": "2026-08-29",
+        "to": "2026-09-27"
+      },
+      "generatedAt": "2026-09-27T00:29:00.615Z",
+      "paperCount": 2,
+      "title": "生态学高价值论文日报 · 2026-09-27",
+      "path": "daily/2026-09-27.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag192",
+        "10.1093/jpe/rtag212"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-26",
+      "date": "2026-09-26",
+      "period": {
+        "from": "2026-08-28",
+        "to": "2026-09-26"
+      },
+      "generatedAt": "2026-09-26T00:26:23.206Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-26",
+      "path": "daily/2026-09-26.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Species richness",
+        "Arthropod",
+        "Arable land",
+        "Ecosystem",
+        "Functional diversity",
+        "Niche",
+        "Trait",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag236",
+        "10.1111/ele.70457",
+        "10.1093/jpe/rtag232",
+        "10.1111/1365-2745.70440",
+        "10.1111/1365-2745.70355"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-25",
+      "date": "2026-09-25",
+      "period": {
+        "from": "2026-08-27",
+        "to": "2026-09-25"
+      },
+      "generatedAt": "2026-09-25T00:28:54.101Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-25",
+      "path": "daily/2026-09-25.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "iMeta",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Restoration and management",
+        "Evergreen",
+        "Deciduous",
+        "Specific leaf area",
+        "Subtropics",
+        "Transpiration",
+        "Evergreen forest",
+        "Resource (disambiguation)",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Ecosystem",
+        "Plateau (mathematics)",
+        "Ecological stability",
+        "Stability (learning theory)",
+        "Functional group",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag204",
+        "10.1093/jpe/rtag203",
+        "10.1002/imt2.70175",
+        "10.1111/1365-2745.70441",
+        "10.1111/1365-2745.70436"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-24",
+      "date": "2026-09-24",
+      "period": {
+        "from": "2026-08-26",
+        "to": "2026-09-24"
+      },
+      "generatedAt": "2026-09-24T00:27:27.909Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-24",
+      "path": "daily/2026-09-24.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Ecosystem monitoring",
+        "Loess",
+        "Riparian zone",
+        "Robinia",
+        "Hydrology (agriculture)",
+        "Soil water",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag230",
+        "10.1111/1365-2745.70444",
+        "10.1093/jpe/rtag222",
+        "10.1111/1365-2745.70443",
+        "10.1111/ele.70428"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-23",
+      "date": "2026-09-23",
+      "period": {
+        "from": "2026-08-25",
+        "to": "2026-09-23"
+      },
+      "generatedAt": "2026-09-23T00:25:55.635Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-23",
+      "path": "daily/2026-09-23.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management",
+        "Species richness",
+        "Biomass (ecology)",
+        "Ecosystem",
+        "Soil biology",
+        "Rhizosphere",
+        "Biome",
+        "Tropical and subtropical moist broadleaf forests",
+        "Nutrient",
+        "Phosphorus",
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter",
+        "Carbon cycling"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70447",
+        "10.1111/1365-2745.70449",
+        "10.1093/jpe/rtag233",
+        "10.1093/jpe/rtag211",
+        "10.1111/ele.70455"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-22",
+      "date": "2026-09-22",
+      "period": {
+        "from": "2026-08-24",
+        "to": "2026-09-22"
+      },
+      "generatedAt": "2026-09-22T00:26:41.194Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-22",
+      "path": "daily/2026-09-22.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Restoration and management",
+        "Soil ecology",
+        "Biodiversity",
+        "Microclimate",
+        "Interspecific competition",
+        "Evergreen",
+        "Intraspecific competition",
+        "Subtropics",
+        "Temperate forest",
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration",
+        "Biogeochemical cycle",
+        "Microcosm",
+        "Niche",
+        "Environmental change"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70439",
+        "10.1093/jpe/rtag201",
+        "10.1093/jpe/rtag228",
+        "10.1111/ele.70456",
+        "10.1111/1365-2745.70438"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-21",
+      "date": "2026-09-21",
+      "period": {
+        "from": "2026-08-23",
+        "to": "2026-09-21"
+      },
+      "generatedAt": "2026-09-21T00:28:03.297Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-21",
+      "path": "daily/2026-09-21.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "Ecology Letters"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Rhizosphere",
+        "Species richness",
+        "Host (biology)",
+        "Beta diversity",
+        "Ecosystem",
+        "Biodiversity",
+        "Community structure",
+        "Ecosystem monitoring",
+        "Ordination",
+        "Temperate rainforest",
+        "Trait",
+        "Temperate deciduous forest",
+        "Temperate forest",
+        "Context (archaeology)",
+        "Modeling and AI",
+        "Environmental stress",
+        "Predation",
+        "Predictability",
+        "Environmental change"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag218",
+        "10.1093/jpe/rtag226",
+        "10.1111/1365-2745.70437",
+        "10.1111/1365-2745.70432",
+        "10.1111/ele.70454"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-20",
+      "date": "2026-09-20",
+      "period": {
+        "from": "2026-08-22",
+        "to": "2026-09-20"
+      },
+      "generatedAt": "2026-09-20T00:28:13.133Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-20",
+      "path": "daily/2026-09-20.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Journal of Ecology",
+        "iMeta"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Plasticity",
+        "Temperate climate",
+        "Nitrogen",
+        "Phenotypic plasticity",
+        "Fluctuating asymmetry",
+        "Water-use efficiency",
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)",
+        "Brassicaceae",
+        "Sinigrin",
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Multi-omics and health",
+        "Understory"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag207",
+        "10.1093/jpe/rtag225",
+        "10.1111/1365-2745.70427",
+        "10.1002/imt2.70169",
+        "10.1111/1365-2745.70435"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
+      "reportId": "2026-09-19",
+      "date": "2026-09-19",
+      "period": {
+        "from": "2026-08-21",
+        "to": "2026-09-19"
+      },
+      "generatedAt": "2026-09-19T00:26:40.885Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-09-19",
+      "path": "daily/2026-09-19.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Ecology Letters",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Modeling and AI",
+        "Restoration and management",
+        "Rhizosphere",
+        "Exudate",
+        "Soil structure",
+        "Microbial population biology",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Trait",
+        "Canopy",
+        "Multidimensional scaling",
+        "Subtropics"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag163",
+        "10.1093/jpe/rtag229",
+        "10.1111/ele.70452",
+        "10.1111/1365-2745.70429",
+        "10.1111/ele.70451"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "daily",
       "reportId": "2026-09-18",
       "date": "2026-09-18",
       "period": {
@@ -156,6 +946,145 @@
         "公开摘要页 10.1073/pnas.2619598123 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成"
       ]
+    },
+    {
+      "kind": "weekly",
+      "reportId": "2026-W40",
+      "date": "2026-10-05",
+      "period": {
+        "from": "2026-09-28",
+        "to": "2026-10-04"
+      },
+      "generatedAt": "2026-10-05T00:32:14.379Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文周报 · 2026-09-28 至 2026-10-04",
+      "path": "weekly/2026-W40.json",
+      "journals": [
+        "Journal of Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant Water Relations and Carbon Dynamics",
+        "Tree-ring climate responses",
+        "Plant responses to water stress",
+        "Modeling and AI",
+        "Mediterranean shrubland",
+        "rainfall persistence",
+        "dry spells",
+        "vapor pressure deficit",
+        "diurnal temperature range",
+        "compound drought",
+        "Biodiversity",
+        "Restoration and management",
+        "aridity gradient",
+        "arid ecosystems",
+        "Artemisia ordosica",
+        "Caragana korshinskii",
+        "herbaceous plant diversity",
+        "ground-dwelling arthropods",
+        "Ecosystem monitoring"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70455",
+        "10.1111/1365-2745.70454",
+        "10.1111/1365-2745.70453",
+        "10.1093/jpe/rtag237",
+        "10.1093/jpe/rtag235"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+      ]
+    },
+    {
+      "kind": "weekly",
+      "reportId": "2026-W39",
+      "date": "2026-09-28",
+      "period": {
+        "from": "2026-09-21",
+        "to": "2026-09-27"
+      },
+      "generatedAt": "2026-09-28T00:29:59.537Z",
+      "paperCount": 4,
+      "title": "生态学高价值论文周报 · 2026-09-21 至 2026-09-27",
+      "path": "weekly/2026-W39.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "iMeta"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Phenology",
+        "Subtropics",
+        "Secondary growth",
+        "Shoot",
+        "Competition (biology)",
+        "Old-growth forest",
+        "Modeling and AI",
+        "Senescence",
+        "Alpine plant",
+        "Altitude (triangle)",
+        "Life span",
+        "Growing season",
+        "Soil ecology",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag236",
+        "10.1093/jpe/rtag230",
+        "10.1093/jpe/rtag233",
+        "10.1002/imt2.70175"
+      ],
+      "warnings": []
+    },
+    {
+      "kind": "weekly",
+      "reportId": "2026-W38",
+      "date": "2026-09-21",
+      "period": {
+        "from": "2026-09-14",
+        "to": "2026-09-20"
+      },
+      "generatedAt": "2026-09-21T00:28:11.125Z",
+      "paperCount": 3,
+      "title": "生态学高价值论文周报 · 2026-09-14 至 2026-09-20",
+      "path": "weekly/2026-W38.json",
+      "journals": [
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "Restoration and management",
+        "Chronosequence",
+        "Ecological succession",
+        "Secondary succession",
+        "Ecological stoichiometry",
+        "Temperate forest",
+        "Temperate climate",
+        "Carbon cycling",
+        "Climate change",
+        "Plant-soil interactions",
+        "Biomass (ecology)",
+        "Grassland",
+        "Carbon sequestration",
+        "Herbivore",
+        "Generalist and specialist species",
+        "Glucosinolate",
+        "Plant tolerance to herbivory",
+        "Slug",
+        "Resistance (ecology)"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag229",
+        "10.1093/jpe/rtag228",
+        "10.1093/jpe/rtag225"
+      ],
+      "warnings": []
     },
     {
       "kind": "weekly",

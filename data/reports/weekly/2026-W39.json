@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "kind": "weekly",
+  "reportId": "2026-W39",
+  "date": "2026-09-28",
+  "period": {
+    "from": "2026-09-21",
+    "to": "2026-09-27"
+  },
+  "generatedAt": "2026-09-28T00:29:59.537Z",
+  "selectionTitle": "生态学高价值论文周报 · 2026-09-21 至 2026-09-27",
+  "paperCount": 4,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag236",
+      "title": "Warm springs and dry summers weaken radial stem growth dependence on primary growth by increasing phenological synchrony between primary and secondary meristems in Pinus taiwanensis",
+      "authors": [
+        {
+          "name": "Dina Fu",
+          "orcid": null
+        },
+        {
+          "name": "Jincheng Gu",
+          "orcid": null
+        },
+        {
+          "name": "Wenpeng Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Yang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yiyun Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Xinsheng Liu",
+          "orcid": "https://orcid.org/0000-0001-7609-796X"
+        },
+        {
+          "name": "Xiaoqin Cheng",
+          "orcid": null
+        },
+        {
+          "name": "Ping Ren",
+          "orcid": null
+        },
+        {
+          "name": "Franco Biondi",
+          "orcid": null
+        },
+        {
+          "name": "Sergio Rossi",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-25",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag236",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag236/71393301/rtag236.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Phenology",
+        "Subtropics",
+        "Secondary growth",
+        "Shoot",
+        "Competition (biology)",
+        "Old-growth forest"
+      ],
+      "valueScores": {
+        "advisor": 48,
+        "strategy": 16,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 18,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、carbon sequestration、subtropical forest、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract A complete integration of the phenology of primary and secondary meristems is essential for understanding the tree growth trajectories under changing climates and the consequences for carbon sequestration in forest ecosystems.",
+        "design": "We conducted weekly observations of primary and secondary growth in Taiwan pine (Pinus taiwanensis Hayata) across an elevational gradient in the subtropical forests of southeastern China during 2017-2019, including one year with an extreme drought event.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag236"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7214317066"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag230",
+      "title": "Alpine species and drought: impacts of timing of dry events on leaf growth and senescence",
+      "authors": [
+        {
+          "name": "Filippo Grillo",
+          "orcid": "https://orcid.org/0009-0000-1319-384X"
+        },
+        {
+          "name": "T’ai G W Forte",
+          "orcid": null
+        },
+        {
+          "name": "Elisa Beninato",
+          "orcid": null
+        },
+        {
+          "name": "Giorgio Chiari",
+          "orcid": null
+        },
+        {
+          "name": "Andrea Vannini",
+          "orcid": "https://orcid.org/0000-0003-3789-6691"
+        },
+        {
+          "name": "Marcello Tomaselli",
+          "orcid": null
+        },
+        {
+          "name": "Alessandro Petraglia",
+          "orcid": null
+        },
+        {
+          "name": "Michele Carbognani",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-23",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag230",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag230/71336714/rtag230.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Senescence",
+        "Alpine plant",
+        "Phenology",
+        "Altitude (triangle)",
+        "Life span",
+        "Growing season"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 14,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“drought、climate change”等信号。",
+      "essence": {
+        "problem": "Abstract Drought effects on plants can depend on timing, especially in seasonal ecosystems.",
+        "design": "Species- and community-level responses were analyzed using t-tests, generalized least squares, generalized/mixed-effects models, and Kruskal-Wallis tests.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag230"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7211898583"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag233",
+      "title": "Seasonal decoupling of climate and human activity on litter and dung decomposition across the Qinghai-Xizang Plateau",
+      "authors": [
+        {
+          "name": "Weikang Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Zechen Peng",
+          "orcid": null
+        },
+        {
+          "name": "Xiong Zhao He",
+          "orcid": null
+        },
+        {
+          "name": "Fujiang Hou",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-22",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag233",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag233/71301848/rtag233.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Soil ecology",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management",
+        "Decoupling (probability)",
+        "Grassland",
+        "Litter"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 8,
+        "application": 8,
+        "interdisciplinary": 16,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现跨学科融合与导师方向；命中“litter decomposition、climate change、management、remote sensing”等信号。",
+      "essence": {
+        "problem": "Abstract In grassland ecosystems of the Qinghai-Xizang Plateau, litter and dung decomposition are essential for nutrient cycling and productivity.",
+        "design": "Using remote sensing data, field observations, and machine learning, we examined spatiotemporal patterns of litter decomposition mass (LDM) and dung decomposition mass (DDM) from 2000 to 2020.",
+        "innovation": "During the NGS, human activity emerged as the near-universal positive driver (> 90% of the area), while the climate weakened substantially, revealing a seasonal decoupling of decomposition controls.",
+        "transferableIdeas": "可借鉴其remote sensing、machine learning设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "remote sensing",
+        "machine learning"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag233"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7213987771"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1002/imt2.70175",
+      "title": "Different gut microbiome dysbioses impact the evolutionary fate of hypervirulent Klebsiella pneumoniae",
+      "authors": [
+        {
+          "name": "Carey Lim",
+          "orcid": null
+        },
+        {
+          "name": "Jialing Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Guoxiang Cheam",
+          "orcid": null
+        },
+        {
+          "name": "Melvin Yong",
+          "orcid": null
+        },
+        {
+          "name": "Hanrong Chen",
+          "orcid": null
+        },
+        {
+          "name": "Andrew Ting",
+          "orcid": null
+        },
+        {
+          "name": "Yahua Chen",
+          "orcid": null
+        },
+        {
+          "name": "Qingqing Wang",
+          "orcid": null
+        },
+        {
+          "name": "Niranjan Nagarajan",
+          "orcid": null
+        },
+        {
+          "name": "Yunn‐Hwen Gan",
+          "orcid": "https://orcid.org/0000-0001-9881-6881"
+        }
+      ],
+      "journal": "iMeta",
+      "publishedAt": "2026-09-23",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1002/imt2.70175",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/imt2.70175",
+      "isOpenAccess": true,
+      "keywords": [
+        "Multi-omics and health",
+        "Microbiome",
+        "Colonisation resistance",
+        "Butyrate",
+        "Pathogen",
+        "Klebsiella pneumoniae",
+        "Dysbiosis",
+        "Gut flora"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 24
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现前沿突破与应用价值；命中“adaptation、resistance、recovery”等信号。",
+      "essence": {
+        "problem": "Abstract The intestinal microbiota acts as a barrier against pathogen colonization, yet how specific ecological perturbations shape the evolutionary fate of invading pathogens remains unclear.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Our work reveals that the specific mode of perturbation affects the trajectory for pathogen adaptation, and highlights the potential role of commensal competition in constraining pathogen evolution.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1002%2Fimt2.70175"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7214239544"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "weekly",
+    "target": 8,
+    "minimum": 4,
+    "selectedCount": 4,
+    "candidateCount": 10,
+    "coreCandidateCount": 10,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 3,
+      "imeta": 1
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "llmUsed": false,
+    "sourceCandidateCount": 12
+  },
+  "warnings": [],
+  "notes": [
+    "本周达到约束后仅有 4 篇，未使用低相关或低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-11",
+  "date": "2026-10-11",
+  "period": {
+    "from": "2026-09-12",
+    "to": "2026-10-11"
+  },
+  "generatedAt": "2026-10-11T00:32:24.901Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-11",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1093/jpe/rtag242",
+      "title": "Divergent assembly mechanisms mediate plant stoichiometric responses to soil P constraints during ecosystem restoration",
+      "authors": [
+        {
+          "name": "Jiannan Lu",
+          "orcid": null
+        },
+        {
+          "name": "Xuyang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yuqiang Li",
+          "orcid": null
+        },
+        {
+          "name": "Chengzhuo Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Yuqian Li",
+          "orcid": null
+        },
+        {
+          "name": "Xueyong Zhao",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag242",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag242/71830609/rtag242.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 34,
+        "application": 34,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 18,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“belowground、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Stoichiometric coupling within plant-soil-microbial systems underpins ecosystem development.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "However, the assembly mechanisms governing these interactions during restoration in resource-limited environments remain poorly understood.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag242"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1093/jpe/rtag241",
+      "title": "Divergent diversity but convergent spatial variability responses: Plant and AMF communities under different precipitation pattern in temperate grasslands of Inner Mongolia",
+      "authors": [
+        {
+          "name": "Yu Tang",
+          "orcid": null
+        },
+        {
+          "name": "Sen Xing",
+          "orcid": null
+        },
+        {
+          "name": "Keyu Chen",
+          "orcid": null
+        },
+        {
+          "name": "Jiahui Sun",
+          "orcid": null
+        },
+        {
+          "name": "Jing Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Baoming Ji",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag241",
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag241/71816394/rtag241.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 16,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“belowground、mycorrhizal、climate change、biodiversity”等信号。",
+      "essence": {
+        "problem": "Abstract Global climate change is causing dramatic changes in precipitation patterns, profoundly affecting aboveground and belowground biodiversity in grasslands.",
+        "design": "In this study, we set up a controlled experiment in a typical grassland of Inner Mongolia with three natural precipitation treatments: ambient (control), reduced precipitation (-50%), and increased precipitation (+50%).",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag241"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/ele.70460",
+      "title": "Pyrodiversity and Phylodiversity: Insights on Post‐Fire Forest Communities",
+      "authors": [
+        {
+          "name": "Rebecca C. Wilcox",
+          "orcid": "https://orcid.org/0000-0002-6776-3737"
+        },
+        {
+          "name": "Becky L. Estes",
+          "orcid": "https://orcid.org/0009-0007-6902-0615"
+        },
+        {
+          "name": "Brent D. Mishler",
+          "orcid": "https://orcid.org/0000-0001-5727-4916"
+        },
+        {
+          "name": "Sarah J. Jacobs",
+          "orcid": "https://orcid.org/0000-0002-3125-6266"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-10-09",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70460",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.70460",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 16,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“biodiversity、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Fire is a fundamental process that structures community assembly and biodiversity patterns; however, altered disturbance regimes associated with anthropogenic change present a major threat to fire‐adapted systems.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "Further, with increased pyrodiversity, community assembly mechanisms diversified and occurrences of diverse plant lineages and local phylogenetic endemism increased, illustrating how evolutionary history influences responses of plants to pyrodiversity.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70460"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1111/ele.70461",
+      "title": "Seasonal Temperature Fluctuation Enables Persistence of a Model Multi‐Trophic System",
+      "authors": [
+        {
+          "name": "Tiantian Liu",
+          "orcid": "https://orcid.org/0009-0002-5379-7714"
+        },
+        {
+          "name": "Lin Wang",
+          "orcid": "https://orcid.org/0000-0003-1046-6878"
+        },
+        {
+          "name": "Jinlin Chen",
+          "orcid": "https://orcid.org/0000-0002-8435-0897"
+        },
+        {
+          "name": "Minghui Fei",
+          "orcid": "https://orcid.org/0000-0002-4664-2231"
+        },
+        {
+          "name": "Jeffrey A. Harvey",
+          "orcid": "https://orcid.org/0000-0002-4227-7935"
+        },
+        {
+          "name": "Owen T. Lewis",
+          "orcid": "https://orcid.org/0000-0001-7935-6111"
+        },
+        {
+          "name": "Dongbo Li",
+          "orcid": "https://orcid.org/0000-0003-0471-7917"
+        },
+        {
+          "name": "Nuo Xu",
+          "orcid": "https://orcid.org/0009-0001-0619-3507"
+        },
+        {
+          "name": "Chi Xu",
+          "orcid": "https://orcid.org/0000-0002-1841-9032"
+        },
+        {
+          "name": "Shucun Sun",
+          "orcid": "https://orcid.org/0000-0003-0748-8048"
+        },
+        {
+          "name": "Xinqiang Xi",
+          "orcid": "https://orcid.org/0000-0001-9312-1095"
+        }
+      ],
+      "journal": "Ecology Letters",
+      "publishedAt": "2026-10-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/ele.70461",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70461",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Modeling and AI",
+        "seasonal temperature variation",
+        "host-parasitoid interactions",
+        "Drosophila",
+        "pupal parasitoids",
+        "larval parasitoids",
+        "population persistence"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 8,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 2,
+      "recommendationReason": "重点体现国家战略；命中“biodiversity”等信号。",
+      "essence": {
+        "problem": "ABSTRACT Seasonal thermal fluctuation is a dominant environmental force in temperate ecosystems, yet its role in shaping community dynamics and persistence remains poorly understood.",
+        "design": "We addressed this question by tracking high‐resolution seasonal dynamics of a model system composed of host Drosophila flies and two parasitoid species attacking hosts at larval and pupal stages respectively.",
+        "innovation": "Life history assays clearly revealed that cool and warm seasons favour different parasitoid species: cooler temperatures resulted in higher mortality of immature larval parasitoids due to host immunity, whereas warmer temperatures narrowed the host exposure window and increased mortality of immature pupal parasitoids.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fele.70461"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220973434"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1111/1365-2745.70451",
+      "title": "Why finer spatial resolutions do not necessarily improve species distribution models",
+      "authors": [
+        {
+          "name": "Kryštof Chytrý",
+          "orcid": "https://orcid.org/0000-0003-4113-6564"
+        },
+        {
+          "name": "Jonathan Lenoir",
+          "orcid": "https://orcid.org/0000-0003-0638-9582"
+        },
+        {
+          "name": "Dietmar Moser",
+          "orcid": null
+        },
+        {
+          "name": "Karl Hülber",
+          "orcid": "https://orcid.org/0000-0001-9274-1647"
+        },
+        {
+          "name": "Norbert Helm",
+          "orcid": "https://orcid.org/0000-0002-4732-7399"
+        },
+        {
+          "name": "Johannes Hausharter",
+          "orcid": null
+        },
+        {
+          "name": "Johannes Wessely",
+          "orcid": null
+        },
+        {
+          "name": "Stefan Dullinger",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70451",
+      "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2745.70451",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "Abstract In recent years, there has been growing criticism of using too coarse environmental data in species distribution models (SDMs), especially for sessile organisms such as plants.",
+        "design": "Abstract In recent years, there has been growing criticism of using too coarse environmental data in species distribution models (SDMs), especially for sessile organisms such as plants.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70451"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 5,
+    "coreCandidateCount": 5,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "ecology-letters": 2,
+      "journal-of-ecology": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 48
+  },
+  "warnings": [],
+  "notes": [
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "kind": "weekly",
+  "reportId": "2026-W40",
+  "date": "2026-10-05",
+  "period": {
+    "from": "2026-09-28",
+    "to": "2026-10-04"
+  },
+  "generatedAt": "2026-10-05T00:32:14.379Z",
+  "selectionTitle": "生态学高价值论文周报 · 2026-09-28 至 2026-10-04",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1111/1365-2745.70455",
+      "title": "Multifactorial diagnosis of drought‐induced decline in Mediterranean conifer forests",
+      "authors": [
+        {
+          "name": "Ester González de Andrés",
+          "orcid": "https://orcid.org/0000-0001-7951-5426"
+        },
+        {
+          "name": "Antonio Gazol",
+          "orcid": "https://orcid.org/0000-0001-5902-9543"
+        },
+        {
+          "name": "José Ignacio Querejeta",
+          "orcid": "https://orcid.org/0000-0002-9547-0974"
+        },
+        {
+          "name": "Cristina Valeriano",
+          "orcid": null
+        },
+        {
+          "name": "Michele Colangelo",
+          "orcid": null
+        },
+        {
+          "name": "Cristopher Fernández‐Blas",
+          "orcid": "https://orcid.org/0009-0006-2621-5722"
+        },
+        {
+          "name": "Marina Rodes‐Blanco",
+          "orcid": "https://orcid.org/0000-0001-9326-5101"
+        },
+        {
+          "name": "Paloma Ruiz‐Benito",
+          "orcid": null
+        },
+        {
+          "name": "J. Julio Camarero",
+          "orcid": "https://orcid.org/0000-0003-2436-2922"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70455",
+      "oaUrl": "https://doi.org/10.1111/1365-2745.70455",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Plant Water Relations and Carbon Dynamics",
+        "Tree-ring climate responses",
+        "Plant responses to water stress"
+      ],
+      "valueScores": {
+        "advisor": 42,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 8,
+        "frontier": 8
+      },
+      "totalScore": 15,
+      "recommendationReason": "重点体现导师方向与跨学科融合；命中“drought、stable isotope、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Drought‐induced tree mortality is a complex process involving interdependent shifts in tree water, carbon and nutrient relations, alongside adjustments in growth and trait variability.",
+        "design": "Tree‐ring metrics, foliar carbon and oxygen stable isotopes (δ 13 C, ∆ 18 O) and elemental composition and soil properties were integrated to assess drought impact on growth ( DGIi ), intrinsic water‐use efficiency (iWUE), ∆ 18 O‐inferred stomatal conductance (G ∆18O ) and nutrient status of trees.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其stable isotope设计。可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "stable isotope"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70455"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7219103546"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2745.70454",
+      "title": "Rainfall memory and spring atmospheric demand predict herbaceous biomass production in Mediterranean ecosystems",
+      "authors": [
+        {
+          "name": "Marcelo Sternberg",
+          "orcid": "https://orcid.org/0000-0001-8710-4141"
+        },
+        {
+          "name": "Shay Adar",
+          "orcid": "https://orcid.org/0000-0001-7404-715X"
+        },
+        {
+          "name": "Darya Perry",
+          "orcid": null
+        },
+        {
+          "name": "Danila Beliavskii",
+          "orcid": "https://orcid.org/0000-0002-3738-8024"
+        },
+        {
+          "name": "Jaime Kigel",
+          "orcid": "https://orcid.org/0000-0003-3028-9522"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-01",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70454",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70454",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Mediterranean shrubland",
+        "rainfall persistence",
+        "dry spells",
+        "vapor pressure deficit",
+        "diurnal temperature range",
+        "compound drought"
+      ],
+      "valueScores": {
+        "advisor": 24,
+        "strategy": 0,
+        "application": 16,
+        "interdisciplinary": 0,
+        "frontier": 16
+      },
+      "totalScore": 13,
+      "recommendationReason": "重点体现导师方向与应用价值；命中“drought、prediction、experimental evidence”等信号。",
+      "essence": {
+        "problem": "Abstract Aboveground herbaceous biomass production in Mediterranean ecosystems is often related to precipitation amount, yet similar rainfall totals can produce contrasting biomass.",
+        "design": "Treatment‐specific rainfall records were combined with meteorological data and Random Forest modelling.",
+        "innovation": "Favourable rainfall conditions during the previous growing season were also strongly associated with greater current biomass, revealing a climatic legacy across growing seasons.",
+        "transferableIdeas": "可借鉴其random forest设计。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "random forest"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70454"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7215101645"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1111/1365-2745.70453",
+      "title": "Shrub species identity modulates plant–arthropod diversity coupling across a dryland aridity gradient",
+      "authors": [
+        {
+          "name": "Rentao Liu",
+          "orcid": "https://orcid.org/0000-0001-6537-1986"
+        },
+        {
+          "name": "Zhixia Guo",
+          "orcid": null
+        },
+        {
+          "name": "Josep Peñuelas",
+          "orcid": "https://orcid.org/0000-0002-7215-0150"
+        },
+        {
+          "name": "Marcelo Sternberg",
+          "orcid": "https://orcid.org/0000-0001-8710-4141"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-01",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70453",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70453",
+      "isOpenAccess": true,
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management",
+        "aridity gradient",
+        "arid ecosystems",
+        "Artemisia ordosica",
+        "Caragana korshinskii",
+        "herbaceous plant diversity",
+        "ground-dwelling arthropods"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 24,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 16
+      },
+      "totalScore": 9,
+      "recommendationReason": "重点体现国家战略与前沿突破；命中“biodiversity、restoration、restoration、mechanistic”等信号。",
+      "essence": {
+        "problem": "Abstract Shrubs are key ecosystem engineers in drylands, yet their effects on biodiversity range from strongly positive to negative depending on species identity and climatic stress.",
+        "design": "Furthermore, a consistently close and strong plant–arthropod diversity coupling was observed across the three microhabitats.",
+        "innovation": "Our findings revealed that C.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70453"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7215070711"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1093/jpe/rtag237",
+      "title": "Decoding nearly four decades of rubber plantation age in China using Bi-directional CCDC and height–age model",
+      "authors": [
+        {
+          "name": "Hongfeng Xu",
+          "orcid": null
+        },
+        {
+          "name": "Shanshan Liu",
+          "orcid": null
+        },
+        {
+          "name": "Yaoliang Chen",
+          "orcid": null
+        },
+        {
+          "name": "Lilei Jiang",
+          "orcid": null
+        },
+        {
+          "name": "Dengsheng Lu",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-03",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag237",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag237",
+      "isOpenAccess": true,
+      "keywords": [
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management",
+        "Remote Sensing and LiDAR Applications",
+        "Remote Sensing in Agriculture",
+        "Plant Water Relations and Carbon Dynamics"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 24,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 5,
+      "recommendationReason": "重点体现应用价值；命中“management、indicator、assessment”等信号。",
+      "essence": {
+        "problem": "Abstract Stand age is a key ecological and management indicator for rubber plantations, because it controls plantation productivity, renewal cycles, carbon accumulation, and tropical land-use legacies.",
+        "design": "In this study, we reconstructed annual 30 m stand-age maps of rubber plantations in China from 1987 to 2022 by integrating Landsat time-series analysis, an improved Bi-directional Continuous Change Detection and Classification (BCDC) algorithm, handheld laser scanning (HLS)-derived plot height, and a four-parameter logistic height-age model.",
+        "innovation": "The resulting maps revealed a transition from a juvenile-dominated plantation system in 1987 (≤5 yr, 91.",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag237"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7218770064"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1093/jpe/rtag235",
+      "title": "Vegetation structure and diaspore traits shape secondary wind dispersal: wind-tunnel insights",
+      "authors": [
+        {
+          "name": "Liang Tian",
+          "orcid": null
+        },
+        {
+          "name": "Wei Liang",
+          "orcid": null
+        },
+        {
+          "name": "Zhimin Liu",
+          "orcid": null
+        },
+        {
+          "name": "Minghu Liu",
+          "orcid": null
+        },
+        {
+          "name": "Carol C Baskin",
+          "orcid": null
+        },
+        {
+          "name": "Lu Zong",
+          "orcid": null
+        },
+        {
+          "name": "Zhiming Xin",
+          "orcid": null
+        },
+        {
+          "name": "Quanlai Zhou",
+          "orcid": "https://orcid.org/0000-0001-7887-3686"
+        },
+        {
+          "name": "Jing Wu",
+          "orcid": null
+        },
+        {
+          "name": "Xuanping Qin",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-09-28",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag235",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag235",
+      "isOpenAccess": true,
+      "keywords": [
+        "Modeling and AI",
+        "diaspore traits",
+        "vegetation structure",
+        "vegetation cover",
+        "vertical arrangements",
+        "vegetation interception",
+        "dispersal distance",
+        "wing loading"
+      ],
+      "valueScores": {
+        "advisor": 0,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 0,
+      "recommendationReason": "主题信号较弱，因期刊范围、时效性或方法价值进入候选，建议结合摘要判断。",
+      "essence": {
+        "problem": "Abstract Vegetation structure’s role in secondary wind dispersal remains poorly understood.",
+        "design": "We used wind-tunnel experiments with standardized, artificially constructed vegetation treatments to quantify the proportion of diaspores dispersed beyond 5 m over bare ground and through 12 vegetation treatments that varied in cover (0–30%), life-form composition, vertical arrangement and horizontal pattern.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag235"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7214666938"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "weekly",
+    "target": 8,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 8,
+    "coreCandidateCount": 8,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 3,
+      "jpe": 2
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "llmUsed": false,
+    "sourceCandidateCount": 10
+  },
+  "warnings": [
+    "公开摘要页 10.1111/1365-2745.70356 失败：HTTP 403 Forbidden"
+  ],
+  "notes": [
+    "本周达到约束后仅有 5 篇，未使用低相关或低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

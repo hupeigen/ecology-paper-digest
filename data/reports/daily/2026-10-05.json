@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "kind": "daily",
+  "reportId": "2026-10-05",
+  "date": "2026-10-05",
+  "period": {
+    "from": "2026-09-06",
+    "to": "2026-10-05"
+  },
+  "generatedAt": "2026-10-05T00:32:08.582Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-05",
+  "paperCount": 0,
+  "papers": [],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 0,
+    "candidateCount": 3,
+    "coreCandidateCount": 3,
+    "expansionCandidateCount": 0,
+    "expansionUsed": 0,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {},
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "llmUsed": false,
+    "sourceCandidateCount": 43
+  },
+  "warnings": [],
+  "notes": [
+    "仅找到 0 篇符合约束的论文，未使用低置信度文章凑数。",
+    "近 30 天候选池只有 3 篇符合基本条件。",
+    "本批次没有足够的导师方向相关论文，已按综合价值补位。",
+    "本批次高分候选集中于导师方向，暂未形成方向对照。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}
