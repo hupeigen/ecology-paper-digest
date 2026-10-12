@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T01:26:55.640Z",
+  "updatedAt": "2026-10-12T02:11:28.896Z",
   "daily": [
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
-      "searchText": "Temporal Pattern and Metabolic Mechanisms of Ecosystem Carbon Fluxes Under Decadal‐Long Nitrogen Enrichment in an Alpine Grassland 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Multi-omics and health decomposition soil carbon nitrogen addition phosphorus limitation net ecosystem production alpine meadow Responses of Soil Organic Matter and Minerals to Winter and Growing Season Climate Change 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Climate change mineral-associated soil organic matter soil carbon storage organo-mineral associations soil CO2 production soil nitrogen soil minerals Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI decay soil carbon ectomycorrhizal fungi tree growth nitrogen limitation Divergent trends in post-landfall decay of strong and weak tropical cyclones 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Ecosystem monitoring decay moisture tropical cyclone decay sea surface temperature warming air humidity atmospheric stability",
+      "searchText": "Temporal Pattern and Metabolic Mechanisms of Ecosystem Carbon Fluxes Under Decadal‐Long Nitrogen Enrichment in an Alpine Grassland 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Multi-omics and health decomposition soil carbon nitrogen addition phosphorus limitation net ecosystem production alpine meadow Responses of Soil Organic Matter and Minerals to Winter and Growing Season Climate Change 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Climate change mineral-associated soil organic matter soil carbon storage organo-mineral associations soil CO2 production soil nitrogen soil minerals Divergent trends in post-landfall decay of strong and weak tropical cyclones 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Ecosystem monitoring decay moisture tropical cyclone decay sea surface temperature warming air humidity atmospheric stability Functional memory of drought affects leaf chemical defenses and microbial interactions in aspen 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought water limitation drought legacy effects Populus tremuloides aspen proanthocyanidins plant-microbe interactions Precipitation‐mediated asymmetric fitness consequences of nectar robbing in distylous Primula florindae 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation nectar robbing distyly seed production pollen limitation corolla length divergent selection",
       "reportId": "2026-10-12",
       "date": "2026-10-12",
       "period": {
         "from": "2026-09-13",
         "to": "2026-10-12"
       },
-      "generatedAt": "2026-10-12T01:26:16.136Z",
+      "generatedAt": "2026-10-12T02:10:45.082Z",
       "paperCount": 5,
       "title": "生态学高价值论文日报 · 2026-10-12",
       "path": "daily/2026-10-12.json",
       "journals": [
         "Global Change Biology",
-        "Journal of Plant Ecology",
-        "Journal of Ecology",
-        "Nature Communications"
+        "Nature Communications",
+        "New Phytologist",
+        "Functional Ecology"
       ],
       "keywords": [
         "Carbon cycling",
@@ -39,17 +39,17 @@
         "soil CO2 production",
         "soil nitrogen",
         "soil minerals",
-        "Soil ecology",
-        "Modeling and AI",
-        "soil organic carbon",
-        "carbon sequestration"
+        "Ecosystem monitoring",
+        "decay",
+        "moisture",
+        "tropical cyclone decay"
       ],
       "paperDois": [
         "10.1111/gcb.71125",
         "10.1111/gcb.71110",
-        "10.1093/jpe/rtag238",
-        "10.1111/1365-2745.70446",
-        "10.1038/s41467-026-77958-3"
+        "10.1038/s41467-026-77958-3",
+        "10.1111/nph.71561",
+        "10.1111/1365-2435.70449"
       ],
       "warnings": [
         "Nature Communications 检索达到页数上限，覆盖不完整",
@@ -896,7 +896,7 @@
         "from": "2026-10-05",
         "to": "2026-10-11"
       },
-      "generatedAt": "2026-10-12T01:26:55.640Z",
+      "generatedAt": "2026-10-12T02:11:05.963Z",
       "paperCount": 8,
       "title": "生态学高价值论文周报 · 2026-10-05 至 2026-10-11",
       "path": "weekly/2026-W41.json",
@@ -1129,7 +1129,7 @@
         "from": "2026-10-01",
         "to": "2026-10-12"
       },
-      "generatedAt": "2026-10-12T01:07:50.815Z",
+      "generatedAt": "2026-10-12T02:11:28.896Z",
       "paperCount": 4,
       "title": "生态论文雷达月度精选 · 2026-10",
       "path": "monthly/2026-10.json",
@@ -1169,6 +1169,8 @@
         "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2528067123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed8728 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aei3713 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成",
         "模型不可用：深读及候选空白分析未完成"
       ]

@@ -24,7 +24,7 @@
     "from": "2026-10-01",
     "to": "2026-10-12"
   },
-  "generatedAt": "2026-10-12T01:07:50.815Z",
+  "generatedAt": "2026-10-12T02:11:28.896Z",
   "selectionTitle": "生态论文雷达月度精选 · 2026-10",
   "paperCount": 4,
   "papers": [
@@ -45,7 +45,7 @@
         "sections": [
           {
             "label": "问题起源",
-            "text": "降水改变如何通过病毒—微生物关联影响微生物残体碳？",
+            "text": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
             "evidence": [
               {
                 "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
@@ -75,12 +75,12 @@
           },
           {
             "label": "结论边界",
-            "text": "研究对象是温带半干旱草原，不可直接推广到亚热带森林。结构方程与网络关联不能单独证明病毒的因果作用。",
+            "text": "仅有摘要/题录，无法确认具体实验单位、样本数和因果边界。",
             "evidence": []
           },
           {
             "label": "可迁移方案",
-            "text": "可参考“水分处理—微生物与残体指标—土壤碳”的变量链；氨基糖检测和测序条件需核实。",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
             "evidence": []
           },
           {
@@ -158,52 +158,14 @@
       "totalScore": 41,
       "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
       "essence": {
-        "problem": "降水改变如何通过病毒—微生物关联影响微生物残体碳？",
-        "design": "摘要报告多年降水操纵试验，结合病毒与微生物测序、氨基糖标志物和结构方程模型。",
-        "innovation": "将病毒—微生物关联纳入降水与土壤碳机制讨论；是否构成前沿空白尚未核实。",
-        "transferableIdeas": "可参考“水分处理—微生物与残体指标—土壤碳”的变量链；氨基糖检测和测序条件需核实。",
-        "limitations": "研究对象是温带半干旱草原，不可直接推广到亚热带森林。结构方程与网络关联不能单独证明病毒的因果作用。",
-        "evidenceConfidence": "abstract",
-        "summaryMode": "human-reviewed-abstract",
-        "results": "减水降低细菌残体碳和总微生物残体碳；增水也降低总残体碳，主要由细菌残体变化贡献。网络复杂度与残体碳呈正关联。",
-        "evidence": {
-          "problem": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "design": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "results": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "innovation": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "transferableIdeas": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "limitations": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ]
-        }
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“experiment、manipulation、sequencing、structural equation”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
       },
       "methodSignals": [
         "structural equation model"
@@ -217,12 +179,7 @@
           "name": "OpenAlex",
           "url": "https://openalex.org/W7220690454"
         }
-      ],
-      "contentReview": {
-        "status": "abstract-reviewed",
-        "reviewedAt": "2026-10-12T01:12:42.185Z",
-        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
-      }
+      ]
     },
     {
       "rank": 2,
@@ -241,7 +198,7 @@
         "sections": [
           {
             "label": "问题起源",
-            "text": "外生菌根真菌的氮获取是否与树木生长和土壤碳之间的权衡有关？",
+            "text": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
             "evidence": [
               {
                 "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
@@ -271,12 +228,12 @@
           },
           {
             "label": "结论边界",
-            "text": "寒带森林观察研究；土壤碳浓度不等于碳储量，也不能直接证明菌根引起碳损失。摘要未提供可核验的具体重复设计。",
+            "text": "仅有摘要/题录，无法确认具体实验单位、样本数和因果边界。",
             "evidence": []
           },
           {
             "label": "可迁移方案",
-            "text": "可借鉴配对采样及“群落特征—植物生长—土壤碳”的证据组织方式；先确认外生菌根宿主与测序条件。",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
             "evidence": []
           },
           {
@@ -343,52 +300,14 @@
       "totalScore": 37,
       "recommendationReason": "贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。",
       "essence": {
-        "problem": "外生菌根真菌的氮获取是否与树木生长和土壤碳之间的权衡有关？",
-        "design": "摘要报告阿拉斯加气候梯度下的长期树木生长记录，以及配对根系和周围土壤的真菌群落分子信息，并使用叶片氮同位素指标。",
-        "innovation": "把真菌群落与地上、地下碳权衡联系起来；不是干旱或倒木操纵试验。",
-        "transferableIdeas": "可借鉴配对采样及“群落特征—植物生长—土壤碳”的证据组织方式；先确认外生菌根宿主与测序条件。",
-        "limitations": "寒带森林观察研究；土壤碳浓度不等于碳储量，也不能直接证明菌根引起碳损失。摘要未提供可核验的具体重复设计。",
-        "evidenceConfidence": "abstract",
-        "summaryMode": "human-reviewed-abstract",
-        "results": "部分丰度较高的外生菌根类群同时关联较低土壤碳浓度和较高长期树木生长；控制共变气候趋势后仍观察到这一关联。",
-        "evidence": {
-          "problem": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "design": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "results": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "innovation": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "transferableIdeas": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "limitations": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ]
-        }
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "规则未识别到明确方法信号，需阅读原文确认。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
       },
       "methodSignals": [],
       "sources": [
@@ -400,12 +319,7 @@
           "name": "OpenAlex",
           "url": "https://openalex.org/W7220697333"
         }
-      ],
-      "contentReview": {
-        "status": "abstract-reviewed",
-        "reviewedAt": "2026-10-12T01:12:42.186Z",
-        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
-      }
+      ]
     },
     {
       "rank": 3,
@@ -424,7 +338,7 @@
         "sections": [
           {
             "label": "问题起源",
-            "text": "岩性和岩土界面是否影响森林土壤中的球囊霉素相关土壤蛋白积累？",
+            "text": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
             "evidence": [
               {
                 "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
@@ -454,12 +368,12 @@
           },
           {
             "label": "结论边界",
-            "text": "喀斯特岩土界面不是倒木界面；相关蛋白混合指标不能等同于单一真菌生物量。模型解释及相关关系不自动构成因果证据。",
+            "text": "仅有摘要/题录，无法确认具体实验单位、样本数和因果边界。",
             "evidence": []
           },
           {
             "label": "可迁移方案",
-            "text": "可参考“界面与邻近土壤配对、基质类型分组”的采样思路；倒木环境是否适用须单独验证。",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
             "evidence": []
           },
           {
@@ -566,52 +480,14 @@
       "totalScore": 30,
       "recommendationReason": "贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。",
       "essence": {
-        "problem": "岩性和岩土界面是否影响森林土壤中的球囊霉素相关土壤蛋白积累？",
-        "design": "摘要比较西南喀斯特森林石灰岩、白云岩的岩土界面与邻近土壤；采用相关、回归、随机森林和结构方程分析。",
-        "innovation": "提出岩土界面微生境的解释框架；与倒木—土壤界面的类比属于读者提出的迁移线索。",
-        "transferableIdeas": "可参考“界面与邻近土壤配对、基质类型分组”的采样思路；倒木环境是否适用须单独验证。",
-        "limitations": "喀斯特岩土界面不是倒木界面；相关蛋白混合指标不能等同于单一真菌生物量。模型解释及相关关系不自动构成因果证据。",
-        "evidenceConfidence": "abstract",
-        "summaryMode": "human-reviewed-abstract",
-        "results": "两类岩性下，界面的相关蛋白含量均高于邻近土壤；石灰岩中的相关蛋白含量及其对土壤有机碳的贡献高于白云岩。",
-        "evidence": {
-          "problem": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "design": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "results": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "innovation": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "transferableIdeas": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "limitations": [
-            {
-              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ]
-        }
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“structural equation”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
       },
       "methodSignals": [
         "random forest",
@@ -626,12 +502,7 @@
           "name": "OpenAlex",
           "url": "https://openalex.org/W7220859395"
         }
-      ],
-      "contentReview": {
-        "status": "abstract-reviewed",
-        "reviewedAt": "2026-10-12T01:12:42.186Z",
-        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
-      }
+      ]
     },
     {
       "rank": 4,
@@ -650,7 +521,7 @@
         "sections": [
           {
             "label": "问题起源",
-            "text": "氮添加与气候变化如何共同影响幼树生长—死亡权衡？",
+            "text": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
             "evidence": [
               {
                 "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
@@ -680,12 +551,12 @@
           },
           {
             "label": "结论边界",
-            "text": "温带森林氮添加结果不能直接替代亚热带干旱试验；气候变异与实验操纵的证据层级须阅读全文核实。",
+            "text": "仅有摘要/题录，无法确认具体实验单位、样本数和因果边界。",
             "evidence": []
           },
           {
             "label": "可迁移方案",
-            "text": "作为跨方向参考，学习主效应、交互作用和性状中介的假设拆分；长期试验周期不可直接照搬。",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
             "evidence": []
           },
           {
@@ -756,52 +627,14 @@
       "totalScore": 30,
       "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
       "essence": {
-        "problem": "氮添加与气候变化如何共同影响幼树生长—死亡权衡？",
-        "design": "摘要报告温带森林多年氮添加试验，结合气候变化、功能性状、土壤与邻域竞争分析。",
-        "innovation": "从性状与环境交互组织问题；主要响应是幼树种群动态，尚未直接研究分解或土壤碳效应。",
-        "transferableIdeas": "作为跨方向参考，学习主效应、交互作用和性状中介的假设拆分；长期试验周期不可直接照搬。",
-        "limitations": "温带森林氮添加结果不能直接替代亚热带干旱试验；气候变异与实验操纵的证据层级须阅读全文核实。",
-        "evidenceConfidence": "abstract",
-        "summaryMode": "human-reviewed-abstract",
-        "results": "低氮处理增加相对生长而未同步增加死亡；高氮处理增加死亡且没有显著提高生长。降水与增温调节氮添加响应。",
-        "evidence": {
-          "problem": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "design": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "results": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "innovation": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "transferableIdeas": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ],
-          "limitations": [
-            {
-              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
-              "locator": "Publisher-deposited Abstract via Crossref"
-            }
-          ]
-        }
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“experiment、factorial”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
       },
       "methodSignals": [
         "nitrogen addition"
@@ -815,12 +648,7 @@
           "name": "OpenAlex",
           "url": "https://openalex.org/W7220855036"
         }
-      ],
-      "contentReview": {
-        "status": "abstract-reviewed",
-        "reviewedAt": "2026-10-12T01:12:42.186Z",
-        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
-      }
+      ]
     }
   ],
   "diagnostics": {
@@ -846,7 +674,7 @@
       "exhausted": false
     },
     "llmUsed": false,
-    "sourceCandidateCount": 153,
+    "sourceCandidateCount": 152,
     "coverage": [
       {
         "journalId": "jpe",
@@ -1044,7 +872,7 @@
         "issn": "2375-2548",
         "pages": 2,
         "totalResults": 174,
-        "retrievedCount": 166,
+        "retrievedCount": 165,
         "complete": true,
         "error": null
       },
@@ -1084,13 +912,14 @@
     "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
     "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
     "公开摘要页 10.1073/pnas.2528067123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1126/sciadv.aed8728 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1126/sciadv.aei3713 失败：HTTP 403 Forbidden",
     "模型不可用：采用规则评分，摘要解读与深读未完成",
     "模型不可用：深读及候选空白分析未完成"
   ],
   "notes": [
     "仅选入4篇符合约束的论文，候选不足不凑数。",
-    "贴近主线论文少于8篇；保留主线缺口，不用跨方向论文填满。",
-    "首次预览人工核查4篇出版方登记摘要：推荐理由及摘要级结果通过；全文深读、补充材料及文献空白质量尚未通过。"
+    "贴近主线论文少于8篇；保留主线缺口，不用跨方向论文填满。"
   ],
   "methodology": {
     "scoreWeights": {
@@ -1100,12 +929,5 @@
       "frontier": 0.15
     },
     "policy": "主线优先；根系分泌物机制参考；可行性待核实；期刊名气不加分；证据不足明确降级。"
-  },
-  "contentReview": {
-    "status": "abstract-level-pass",
-    "paperCount": 4,
-    "fullTextQuality": "not-run",
-    "gapQuality": "not-run",
-    "reviewedAt": "2026-10-12T01:12:42.186Z"
   }
 }
