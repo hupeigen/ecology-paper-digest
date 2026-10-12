@@ -23,7 +23,8 @@ test('Crossref 论文被规范化为稳定数据结构', () => {
   assert.equal(paper.abstract, 'We tested drought & priming.');
   assert.equal(paper.publishedAt, '2026-09-17');
   assert.equal(paper.articleType, 'research');
-  assert.equal(paper.isOpenAccess, true);
+  assert.equal(paper.isOpenAccess, false); // PDF link does not establish a public license.
+  assert.equal(paper.oaUrl,null);
   assert.equal(paper.authors[0].name, 'Yu Fu');
 });
 

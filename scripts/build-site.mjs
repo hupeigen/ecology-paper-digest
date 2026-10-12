@@ -1,4 +1,4 @@
-import { cp, mkdir, rm, stat, writeFile } from 'node:fs/promises';
+import { cp, mkdir, rm, stat, writeFile, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { REPORTS_DIR, ROOT } from '../src/config.mjs';
 
@@ -14,6 +14,18 @@ async function main() {
   await mkdir(DIST_DIR, { recursive: true });
   await cp(WEB_DIR, DIST_DIR, { recursive: true });
   if (await exists(REPORTS_DIR)) await cp(REPORTS_DIR, path.join(DIST_DIR, 'reports'), { recursive: true });
+  const indexPath=path.join(DIST_DIR,'reports','index.json');
+  if(await exists(indexPath)){
+    const index=JSON.parse(await readFile(indexPath,'utf8'));
+    for(const entry of [...(index.daily||[]),...(index.weekly||[]),...(index.monthly||[])]){
+      if(entry.searchText)continue;
+      const reportsRoot=path.join(DIST_DIR,'reports'),target=path.resolve(reportsRoot,entry.path);
+      if(!target.startsWith(reportsRoot+path.sep))throw new Error('报告路径超出目录');
+      const report=JSON.parse(await readFile(target,'utf8'));
+      entry.searchText=(report.papers||[]).map(p=>[p.title,p.recommendationReason,...(p.keywords||[])].join(' ')).join(' ');
+    }
+    await writeFile(indexPath,JSON.stringify(index,null,2)+'\n','utf8');
+  }
   await writeFile(path.join(DIST_DIR, '.nojekyll'), '', 'utf8');
   console.log(`站点已构建：${DIST_DIR}`);
 }

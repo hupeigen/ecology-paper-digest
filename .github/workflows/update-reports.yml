@@ -1,5 +1,4 @@
 name: Update ecology reports
-
 on:
   schedule:
     - cron: '10 0 * * *'
@@ -10,17 +9,22 @@ on:
         required: true
         default: auto
         type: choice
-        options: [auto, daily, weekly, both]
-
+        options: [auto, daily, weekly, monthly, both]
+      month:
+        description: Monthly period (YYYY-MM; blank for current)
+        required: false
+        type: string
+      revise:
+        description: Explicitly revise an archived month
+        default: false
+        type: boolean
 permissions:
   contents: write
   pages: write
   id-token: write
-
 concurrency:
   group: ecology-report-update
   cancel-in-progress: false
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -33,19 +37,30 @@ jobs:
       LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
       LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
       LLM_MODEL: ${{ secrets.LLM_MODEL }}
+      REPORT_KIND: ${{ github.event.inputs.kind || 'auto' }}
+      REPORT_MONTH: ${{ github.event.inputs.month }}
+      REPORT_REVISE: ${{ github.event.inputs.revise }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 24
+      - uses: actions/cache@v4
+        with:
+          path: data/cache
+          key: research-v1-${{ github.run_id }}
+          restore-keys: research-v1-
       - name: Test
         run: node --test
-      - name: Generate report
-        run: node scripts/update.mjs --kind=${{ github.event.inputs.kind || 'auto' }}
+      - name: Generate reports
+        shell: bash
+        run: |
+          args=("--kind=$REPORT_KIND")
+          if [ -n "$REPORT_MONTH" ]; then args+=("--month=$REPORT_MONTH"); fi
+          if [ "$REPORT_REVISE" = "true" ]; then args+=(--revise); fi
+          node scripts/update.mjs "${args[@]}"
       - name: Commit report history
         run: |
           git config user.name "github-actions[bot]"
@@ -55,14 +70,10 @@ jobs:
             git commit -m "chore: update ecology reports"
             git push
           fi
-      - name: Build site
-        run: node scripts/build-site.mjs
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - run: node scripts/build-site.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-      - name: Deploy Pages
-        id: deployment
+      - id: deployment
         uses: actions/deploy-pages@v4

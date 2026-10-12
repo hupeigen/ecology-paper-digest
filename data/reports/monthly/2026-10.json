@@ -1,0 +1,1111 @@
+{
+  "version": 2,
+  "criteriaVersion": "ecology-topic-v1",
+  "status": "provisional",
+  "monthlySynthesis": {
+    "themes": [
+      "Carbon cycling（本期入选3篇，不代表热点增长）",
+      "Modeling and AI（本期入选3篇，不代表热点增长）",
+      "Climate change（本期入选2篇，不代表热点增长）",
+      "soil carbon（本期入选2篇，不代表热点增长）",
+      "soil organic carbon（本期入选2篇，不代表热点增长）",
+      "precipitation（本期入选2篇，不代表热点增长）"
+    ],
+    "disagreements": [
+      "证据尚未综合核验，不推断研究分歧。"
+    ],
+    "gaps": [],
+    "status": "degraded"
+  },
+  "kind": "monthly",
+  "reportId": "2026-10",
+  "date": "2026-10-12",
+  "period": {
+    "from": "2026-10-01",
+    "to": "2026-10-12"
+  },
+  "generatedAt": "2026-10-12T01:07:50.815Z",
+  "selectionTitle": "生态论文雷达月度精选 · 2026-10",
+  "paperCount": 4,
+  "papers": [
+    {
+      "rank": 1,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“soil carbon、soil organic carbon、carbon sequestration、necromass、carbon cycling”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“experiment、manipulation、sequencing、structural equation”；具体迁移条件待全文及设备核实。",
+        "decomposition": "题目/公开摘要匹配“interaction、mediat”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "题目/公开摘要匹配“unclear”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "deepRead": {
+        "status": "abstract-only",
+        "evidenceLevel": "abstract",
+        "sections": [
+          {
+            "label": "问题起源",
+            "text": "降水改变如何通过病毒—微生物关联影响微生物残体碳？",
+            "evidence": [
+              {
+                "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+                "locator": "Abstract"
+              }
+            ]
+          },
+          {
+            "label": "假设拆分",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "处理与对照",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "实验单位和测量",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "分析方法",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "结论边界",
+            "text": "研究对象是温带半干旱草原，不可直接推广到亚热带森林。结构方程与网络关联不能单独证明病毒的因果作用。",
+            "evidence": []
+          },
+          {
+            "label": "可迁移方案",
+            "text": "可参考“水分处理—微生物与残体指标—土壤碳”的变量链；氨基糖检测和测序条件需核实。",
+            "evidence": []
+          },
+          {
+            "label": "必要条件",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          }
+        ],
+        "necessaryConditions": "实验周期、设备和经费待核实",
+        "supplementsStatus": "补充材料未取得"
+      },
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1093/jpe/rtag238",
+      "title": "Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation",
+      "authors": [
+        {
+          "name": "Cui Han",
+          "orcid": null
+        },
+        {
+          "name": "Jing Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xu Luo",
+          "orcid": null
+        },
+        {
+          "name": "Ying Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Jiali Lian",
+          "orcid": null
+        },
+        {
+          "name": "Xueqin Yang",
+          "orcid": null
+        },
+        {
+          "name": "Adilbek Nogayev",
+          "orcid": null
+        },
+        {
+          "name": "Jianping Li",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-05",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag238",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag238",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "soil carbon",
+        "soil organic carbon",
+        "carbon sequestration",
+        "necromass",
+        "carbon cycling",
+        "precipitation",
+        "moisture"
+      ],
+      "valueScores": {
+        "relevance": 45,
+        "transferability": 60,
+        "decomposition": 28,
+        "frontier": 10
+      },
+      "totalScore": 41,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "降水改变如何通过病毒—微生物关联影响微生物残体碳？",
+        "design": "摘要报告多年降水操纵试验，结合病毒与微生物测序、氨基糖标志物和结构方程模型。",
+        "innovation": "将病毒—微生物关联纳入降水与土壤碳机制讨论；是否构成前沿空白尚未核实。",
+        "transferableIdeas": "可参考“水分处理—微生物与残体指标—土壤碳”的变量链；氨基糖检测和测序条件需核实。",
+        "limitations": "研究对象是温带半干旱草原，不可直接推广到亚热带森林。结构方程与网络关联不能单独证明病毒的因果作用。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "human-reviewed-abstract",
+        "results": "减水降低细菌残体碳和总微生物残体碳；增水也降低总残体碳，主要由细菌残体变化贡献。网络复杂度与残体碳呈正关联。",
+        "evidence": {
+          "problem": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "design": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "results": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "innovation": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "transferableIdeas": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "limitations": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ]
+        }
+      },
+      "methodSignals": [
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220690454"
+        }
+      ],
+      "contentReview": {
+        "status": "abstract-reviewed",
+        "reviewedAt": "2026-10-12T01:12:42.185Z",
+        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
+      }
+    },
+    {
+      "rank": 2,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“decay、soil carbon、forest”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "未发现明确匹配信号，不据期刊名气补分。",
+        "decomposition": "题目/公开摘要匹配“interaction、trade-off”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "未发现明确匹配信号，不据期刊名气补分。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "优先核验摘要与方法",
+      "deepRead": {
+        "status": "abstract-only",
+        "evidenceLevel": "abstract",
+        "sections": [
+          {
+            "label": "问题起源",
+            "text": "外生菌根真菌的氮获取是否与树木生长和土壤碳之间的权衡有关？",
+            "evidence": [
+              {
+                "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+                "locator": "Abstract"
+              }
+            ]
+          },
+          {
+            "label": "假设拆分",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "处理与对照",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "实验单位和测量",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "分析方法",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "结论边界",
+            "text": "寒带森林观察研究；土壤碳浓度不等于碳储量，也不能直接证明菌根引起碳损失。摘要未提供可核验的具体重复设计。",
+            "evidence": []
+          },
+          {
+            "label": "可迁移方案",
+            "text": "可借鉴配对采样及“群落特征—植物生长—土壤碳”的证据组织方式；先确认外生菌根宿主与测序条件。",
+            "evidence": []
+          },
+          {
+            "label": "必要条件",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          }
+        ],
+        "necessaryConditions": "实验周期、设备和经费待核实",
+        "supplementsStatus": "补充材料未取得"
+      },
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "mainline",
+      "doi": "10.1111/1365-2745.70446",
+      "title": "Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests",
+      "authors": [
+        {
+          "name": "Elinor B. Fajer",
+          "orcid": "https://orcid.org/0009-0001-0814-5330"
+        },
+        {
+          "name": "Kabir Peay",
+          "orcid": "https://orcid.org/0000-0002-7998-7412"
+        },
+        {
+          "name": "Robert Jackson",
+          "orcid": null
+        },
+        {
+          "name": "Jay Yeam",
+          "orcid": null
+        },
+        {
+          "name": "Zoë Rehnborg",
+          "orcid": null
+        },
+        {
+          "name": "Peter Pellitier",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-05",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70446",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70446",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "decay",
+        "soil carbon",
+        "ectomycorrhizal fungi",
+        "tree growth",
+        "nitrogen limitation"
+      ],
+      "valueScores": {
+        "relevance": 80,
+        "transferability": 10,
+        "decomposition": 28,
+        "frontier": 0
+      },
+      "totalScore": 37,
+      "recommendationReason": "贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。",
+      "essence": {
+        "problem": "外生菌根真菌的氮获取是否与树木生长和土壤碳之间的权衡有关？",
+        "design": "摘要报告阿拉斯加气候梯度下的长期树木生长记录，以及配对根系和周围土壤的真菌群落分子信息，并使用叶片氮同位素指标。",
+        "innovation": "把真菌群落与地上、地下碳权衡联系起来；不是干旱或倒木操纵试验。",
+        "transferableIdeas": "可借鉴配对采样及“群落特征—植物生长—土壤碳”的证据组织方式；先确认外生菌根宿主与测序条件。",
+        "limitations": "寒带森林观察研究；土壤碳浓度不等于碳储量，也不能直接证明菌根引起碳损失。摘要未提供可核验的具体重复设计。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "human-reviewed-abstract",
+        "results": "部分丰度较高的外生菌根类群同时关联较低土壤碳浓度和较高长期树木生长；控制共变气候趋势后仍观察到这一关联。",
+        "evidence": {
+          "problem": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "design": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "results": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "innovation": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "transferableIdeas": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "limitations": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ]
+        }
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70446"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220697333"
+        }
+      ],
+      "contentReview": {
+        "status": "abstract-reviewed",
+        "reviewedAt": "2026-10-12T01:12:42.186Z",
+        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
+      }
+    },
+    {
+      "rank": 3,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“soil organic carbon、forest”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“structural equation”；具体迁移条件待全文及设备核实。",
+        "decomposition": "未发现明确匹配信号，不据期刊名气补分。",
+        "frontier": "题目/公开摘要匹配“poorly understood”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "优先核验摘要与方法",
+      "deepRead": {
+        "status": "abstract-only",
+        "evidenceLevel": "abstract",
+        "sections": [
+          {
+            "label": "问题起源",
+            "text": "岩性和岩土界面是否影响森林土壤中的球囊霉素相关土壤蛋白积累？",
+            "evidence": [
+              {
+                "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+                "locator": "Abstract"
+              }
+            ]
+          },
+          {
+            "label": "假设拆分",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "处理与对照",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "实验单位和测量",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "分析方法",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "结论边界",
+            "text": "喀斯特岩土界面不是倒木界面；相关蛋白混合指标不能等同于单一真菌生物量。模型解释及相关关系不自动构成因果证据。",
+            "evidence": []
+          },
+          {
+            "label": "可迁移方案",
+            "text": "可参考“界面与邻近土壤配对、基质类型分组”的采样思路；倒木环境是否适用须单独验证。",
+            "evidence": []
+          },
+          {
+            "label": "必要条件",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          }
+        ],
+        "necessaryConditions": "实验周期、设备和经费待核实",
+        "supplementsStatus": "补充材料未取得"
+      },
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "mainline",
+      "doi": "10.1093/jpe/rtag202",
+      "title": "Patterns and determinants of the glomalin-related soil protein accrual at rock-soil interfaces across two lithologies in karst forests, Southwest China",
+      "authors": [
+        {
+          "name": "Qiumei Ling",
+          "orcid": null
+        },
+        {
+          "name": "Hanqing Wu",
+          "orcid": null
+        },
+        {
+          "name": "Lei Xie",
+          "orcid": null
+        },
+        {
+          "name": "Songjiang Hu",
+          "orcid": null
+        },
+        {
+          "name": "Tong Li",
+          "orcid": null
+        },
+        {
+          "name": "Ram A M Dalal",
+          "orcid": null
+        },
+        {
+          "name": "Apostolos Kyriazopoulos",
+          "orcid": null
+        },
+        {
+          "name": "Shenglong Li",
+          "orcid": null
+        },
+        {
+          "name": "Wei Wan",
+          "orcid": null
+        },
+        {
+          "name": "Peilei Hu",
+          "orcid": null
+        },
+        {
+          "name": "Jun Xiao",
+          "orcid": null
+        },
+        {
+          "name": "Hu Du",
+          "orcid": null
+        },
+        {
+          "name": "Jie Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Hongsong Chen",
+          "orcid": "https://orcid.org/0000-0002-0310-0088"
+        },
+        {
+          "name": "Kelin Wang",
+          "orcid": null
+        },
+        {
+          "name": "Wei Zhang",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-06",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag202",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag202",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Modeling and AI",
+        "Restoration and management",
+        "soil organic carbon",
+        "glomalin-related soil protein",
+        "soil-rock interface",
+        "karst forest",
+        "bedrock lithology"
+      ],
+      "valueScores": {
+        "relevance": 60,
+        "transferability": 25,
+        "decomposition": 0,
+        "frontier": 10
+      },
+      "totalScore": 30,
+      "recommendationReason": "贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。",
+      "essence": {
+        "problem": "岩性和岩土界面是否影响森林土壤中的球囊霉素相关土壤蛋白积累？",
+        "design": "摘要比较西南喀斯特森林石灰岩、白云岩的岩土界面与邻近土壤；采用相关、回归、随机森林和结构方程分析。",
+        "innovation": "提出岩土界面微生境的解释框架；与倒木—土壤界面的类比属于读者提出的迁移线索。",
+        "transferableIdeas": "可参考“界面与邻近土壤配对、基质类型分组”的采样思路；倒木环境是否适用须单独验证。",
+        "limitations": "喀斯特岩土界面不是倒木界面；相关蛋白混合指标不能等同于单一真菌生物量。模型解释及相关关系不自动构成因果证据。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "human-reviewed-abstract",
+        "results": "两类岩性下，界面的相关蛋白含量均高于邻近土壤；石灰岩中的相关蛋白含量及其对土壤有机碳的贡献高于白云岩。",
+        "evidence": {
+          "problem": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "design": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "results": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "innovation": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "transferableIdeas": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "limitations": [
+            {
+              "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ]
+        }
+      },
+      "methodSignals": [
+        "random forest",
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag202"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220859395"
+        }
+      ],
+      "contentReview": {
+        "status": "abstract-reviewed",
+        "reviewedAt": "2026-10-12T01:12:42.186Z",
+        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
+      }
+    },
+    {
+      "rank": 4,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“forest、precipitation”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“experiment、factorial”；具体迁移条件待全文及设备核实。",
+        "decomposition": "题目/公开摘要匹配“factorial、interaction、mediat、trade-off”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "题目/公开摘要匹配“poorly understood”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "deepRead": {
+        "status": "abstract-only",
+        "evidenceLevel": "abstract",
+        "sections": [
+          {
+            "label": "问题起源",
+            "text": "氮添加与气候变化如何共同影响幼树生长—死亡权衡？",
+            "evidence": [
+              {
+                "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+                "locator": "Abstract"
+              }
+            ]
+          },
+          {
+            "label": "假设拆分",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "处理与对照",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "实验单位和测量",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "分析方法",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          },
+          {
+            "label": "结论边界",
+            "text": "温带森林氮添加结果不能直接替代亚热带干旱试验；气候变异与实验操纵的证据层级须阅读全文核实。",
+            "evidence": []
+          },
+          {
+            "label": "可迁移方案",
+            "text": "作为跨方向参考，学习主效应、交互作用和性状中介的假设拆分；长期试验周期不可直接照搬。",
+            "evidence": []
+          },
+          {
+            "label": "必要条件",
+            "text": "深读未完成，不能据此确定实验或分析细节。",
+            "evidence": []
+          }
+        ],
+        "necessaryConditions": "实验周期、设备和经费待核实",
+        "supplementsStatus": "补充材料未取得"
+      },
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1111/1365-2745.70459",
+      "title": "Functional traits modulate nitrogen addition and climate impacts on growth–mortality trade‐offs in a temperate forest experiment",
+      "authors": [
+        {
+          "name": "Li Ma",
+          "orcid": null
+        },
+        {
+          "name": "Xinna Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Huaijiang He",
+          "orcid": null
+        },
+        {
+          "name": "Juan Wang",
+          "orcid": "https://orcid.org/0000-0001-9021-5985"
+        },
+        {
+          "name": "Xiuhai Zhao",
+          "orcid": "https://orcid.org/0000-0003-0879-4063"
+        },
+        {
+          "name": "Klaus von Gadow",
+          "orcid": null
+        },
+        {
+          "name": "Chunyu Zhang",
+          "orcid": "https://orcid.org/0000-0003-3091-5060"
+        }
+      ],
+      "journal": "Journal of Ecology",
+      "publishedAt": "2026-10-07",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2745.70459",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.70459",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "precipitation",
+        "growth-mortality trade-off",
+        "nitrogen addition",
+        "nitrogen deposition",
+        "functional traits",
+        "warming",
+        "temperate forests"
+      ],
+      "valueScores": {
+        "relevance": 25,
+        "transferability": 30,
+        "decomposition": 56,
+        "frontier": 10
+      },
+      "totalScore": 30,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "氮添加与气候变化如何共同影响幼树生长—死亡权衡？",
+        "design": "摘要报告温带森林多年氮添加试验，结合气候变化、功能性状、土壤与邻域竞争分析。",
+        "innovation": "从性状与环境交互组织问题；主要响应是幼树种群动态，尚未直接研究分解或土壤碳效应。",
+        "transferableIdeas": "作为跨方向参考，学习主效应、交互作用和性状中介的假设拆分；长期试验周期不可直接照搬。",
+        "limitations": "温带森林氮添加结果不能直接替代亚热带干旱试验；气候变异与实验操纵的证据层级须阅读全文核实。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "human-reviewed-abstract",
+        "results": "低氮处理增加相对生长而未同步增加死亡；高氮处理增加死亡且没有显著提高生长。降水与增温调节氮添加响应。",
+        "evidence": {
+          "problem": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "design": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "results": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "innovation": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "transferableIdeas": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ],
+          "limitations": [
+            {
+              "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459",
+              "locator": "Publisher-deposited Abstract via Crossref"
+            }
+          ]
+        }
+      },
+      "methodSignals": [
+        "nitrogen addition"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2745.70459"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220855036"
+        }
+      ],
+      "contentReview": {
+        "status": "abstract-reviewed",
+        "reviewedAt": "2026-10-12T01:12:42.186Z",
+        "boundary": "仅核查出版方登记摘要；全文与补充材料未核查。"
+      }
+    }
+  ],
+  "diagnostics": {
+    "kind": "monthly",
+    "target": 10,
+    "selectedCount": 4,
+    "candidateCount": 26,
+    "mainlineCount": 2,
+    "inspirationCount": 2,
+    "reviewCount": 0,
+    "journalCounts": {
+      "journal-of-ecology": 2,
+      "jpe": 2
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "budget": {
+      "limit": 12,
+      "attempts": 0,
+      "abstractDois": [],
+      "deepDois": [],
+      "gaps": 0,
+      "exhausted": false
+    },
+    "llmUsed": false,
+    "sourceCandidateCount": 153,
+    "coverage": [
+      {
+        "journalId": "jpe",
+        "name": "Journal of Plant Ecology",
+        "issn": "1752-9921",
+        "pages": 1,
+        "totalResults": 5,
+        "retrievedCount": 5,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "imeta",
+        "name": "iMeta",
+        "issn": "2770-596X",
+        "pages": 1,
+        "totalResults": 4,
+        "retrievedCount": 4,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "green-carbon",
+        "name": "Green Carbon",
+        "issn": "2950-1555",
+        "pages": 1,
+        "totalResults": 1,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "pedosphere",
+        "name": "Pedosphere",
+        "issn": "1002-0160",
+        "pages": 1,
+        "totalResults": 13,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "eeh",
+        "name": "Eco-Environment & Health",
+        "issn": "2772-9850",
+        "pages": 1,
+        "totalResults": 2,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecology-letters",
+        "name": "Ecology Letters",
+        "issn": "1461-023X",
+        "pages": 1,
+        "totalResults": 7,
+        "retrievedCount": 5,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "journal-of-ecology",
+        "name": "Journal of Ecology",
+        "issn": "0022-0477",
+        "pages": 1,
+        "totalResults": 9,
+        "retrievedCount": 8,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecological-indicators",
+        "name": "Ecological Indicators",
+        "issn": "1470-160X",
+        "pages": 2,
+        "totalResults": 192,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-ecology-evolution",
+        "name": "Nature Ecology & Evolution",
+        "issn": "2397-334X",
+        "pages": 1,
+        "totalResults": 9,
+        "retrievedCount": 9,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-climate-change",
+        "name": "Nature Climate Change",
+        "issn": "1758-678X",
+        "pages": 1,
+        "totalResults": 2,
+        "retrievedCount": 2,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "global-change-biology",
+        "name": "Global Change Biology",
+        "issn": "1354-1013",
+        "pages": 1,
+        "totalResults": 20,
+        "retrievedCount": 17,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "new-phytologist",
+        "name": "New Phytologist",
+        "issn": "0028-646X",
+        "pages": 1,
+        "totalResults": 28,
+        "retrievedCount": 24,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "functional-ecology",
+        "name": "Functional Ecology",
+        "issn": "0269-8463",
+        "pages": 1,
+        "totalResults": 10,
+        "retrievedCount": 9,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "geb",
+        "name": "Global Ecology and Biogeography",
+        "issn": "1466-822X",
+        "pages": 1,
+        "totalResults": 6,
+        "retrievedCount": 5,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "soil-biology-biochemistry",
+        "name": "Soil Biology and Biochemistry",
+        "issn": "0038-0717",
+        "pages": 1,
+        "totalResults": 46,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecology",
+        "name": "Ecology",
+        "issn": "0012-9658",
+        "pages": 1,
+        "totalResults": 23,
+        "retrievedCount": 21,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature",
+        "name": "Nature",
+        "issn": "0028-0836",
+        "pages": 2,
+        "totalResults": 109,
+        "retrievedCount": 108,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "science",
+        "name": "Science",
+        "issn": "0036-8075",
+        "pages": 1,
+        "totalResults": 87,
+        "retrievedCount": 86,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-communications",
+        "name": "Nature Communications",
+        "issn": "2041-1723",
+        "pages": 3,
+        "totalResults": 262,
+        "retrievedCount": 260,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "science-advances",
+        "name": "Science Advances",
+        "issn": "2375-2548",
+        "pages": 2,
+        "totalResults": 174,
+        "retrievedCount": 166,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "pnas",
+        "name": "Proceedings of the National Academy of Sciences",
+        "issn": "0027-8424",
+        "pages": 2,
+        "totalResults": 120,
+        "retrievedCount": 112,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-geoscience",
+        "name": "Nature Geoscience",
+        "issn": "1752-0894",
+        "pages": 1,
+        "totalResults": 9,
+        "retrievedCount": 9,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-microbiology",
+        "name": "Nature Microbiology",
+        "issn": "2058-5276",
+        "pages": 1,
+        "totalResults": 8,
+        "retrievedCount": 8,
+        "complete": true,
+        "error": null
+      }
+    ]
+  },
+  "warnings": [
+    "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2528067123 失败：HTTP 403 Forbidden",
+    "模型不可用：采用规则评分，摘要解读与深读未完成",
+    "模型不可用：深读及候选空白分析未完成"
+  ],
+  "notes": [
+    "仅选入4篇符合约束的论文，候选不足不凑数。",
+    "贴近主线论文少于8篇；保留主线缺口，不用跨方向论文填满。",
+    "首次预览人工核查4篇出版方登记摘要：推荐理由及摘要级结果通过；全文深读、补充材料及文献空白质量尚未通过。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "relevance": 0.35,
+      "transferability": 0.3,
+      "decomposition": 0.2,
+      "frontier": 0.15
+    },
+    "policy": "主线优先；根系分泌物机制参考；可行性待核实；期刊名气不加分；证据不足明确降级。"
+  },
+  "contentReview": {
+    "status": "abstract-level-pass",
+    "paperCount": 4,
+    "fullTextQuality": "not-run",
+    "gapQuality": "not-run",
+    "reviewedAt": "2026-10-12T01:12:42.186Z"
+  }
+}

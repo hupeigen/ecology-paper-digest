@@ -61,40 +61,20 @@ export function selectPapers(candidates, options = {}) {
   const minimum = 4;
   const maxPerJournal = kind === 'weekly' ? 3 : 2;
   const maxReviews = kind === 'weekly' ? 2 : 1;
-  const maxExpansion = kind === 'weekly' ? 2 : 1;
   const history = new Set((options.historyDois || []).map((doi) => String(doi).toLowerCase()));
   const eligible = candidates.filter((paper) => paper && paper.doi && paper.isEcologyRelevant !== false && !paper.isRetracted && !history.has(String(paper.doi).toLowerCase()));
   const core = sortByRanking(eligible.filter((paper) => paper.pool !== 'expansion'));
   const expansion = sortByRanking(eligible.filter((paper) => paper.pool === 'expansion'));
   const notes = [];
 
-  let selected = [];
-  let journalCounts = new Map();
-  let reviewCount = 0;
-  let expansionUsed = 0;
-
-  if (core.length >= minimum) {
-    const primary = fillSelection(core, { target, minimum, maxPerJournal, maxReviews, ensureAdvisor: true, ensureNonAdvisor: true });
-    selected = primary.papers;
-    journalCounts = primary.journalCounts;
-    reviewCount = primary.reviewCount;
-  }
-
-  if (selected.length < target && expansion.length) {
-    const availableExpansion = expansion.slice(0, maxExpansion);
-    const combined = sortByRanking([...selected, ...availableExpansion]);
-    const expanded = fillSelection(combined, { target, minimum, maxPerJournal, maxReviews, ensureAdvisor: true, ensureNonAdvisor: true });
-    selected = expanded.papers;
-    journalCounts = expanded.journalCounts;
-    reviewCount = expanded.reviewCount;
-    expansionUsed = selected.filter((paper) => paper.pool === 'expansion').length;
-  }
+  const full=fillSelection(sortByRanking(eligible),{target,minimum,maxPerJournal,maxReviews,ensureAdvisor:false,ensureNonAdvisor:false});
+  const selected=full.papers,journalCounts=full.journalCounts,reviewCount=full.reviewCount;
+  const expansionUsed=selected.filter(p=>p.pool==='expansion').length;
 
   if (selected.length < minimum) notes.push(`仅找到 ${selected.length} 篇符合约束的论文，未使用低置信度文章凑数。`);
   else if (selected.length < target) notes.push(`本${kind === 'weekly' ? '周' : '日'}达到约束后仅有 ${selected.length} 篇，未使用低相关或低置信度文章凑数。`);
   if (eligible.length < minimum) notes.push(`近 30 天候选池只有 ${eligible.length} 篇符合基本条件。`);
-  if (!selected.some(isAdvisorRelevant)) notes.push('本批次没有足够的导师方向相关论文，已按综合价值补位。');
-  if (!selected.some((paper) => !isAdvisorRelevant(paper))) notes.push('本批次高分候选集中于导师方向，暂未形成方向对照。');
+
 
   const advisorCount = selected.filter(isAdvisorRelevant).length;
   return {

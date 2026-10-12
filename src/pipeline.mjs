@@ -1,14 +1,18 @@
-import { readFile } from 'node:fs/promises';
+import {readFile} from 'node:fs/promises';
+import {createBudget,evaluateTopicCandidates,analyzeMonthly} from './research.mjs';
+import {scoreForTopic,CRITERIA} from './criteria.mjs';
+import {selectMonthly} from './monthly.mjs';
+
 import { fetchJournalPool } from './crossref.mjs';
 import { enrichPapers } from './enrich.mjs';
-import { buildReport, recentHistoryDois, readIndex, writeReport } from './report.mjs';
+import { buildReport, recentHistoryDois, readIndex, readReport, writeReport } from './report.mjs';
 import { scorePaper, sortByRanking } from './scoring.mjs';
 import { selectPapers } from './selection.mjs';
 import { enhanceWithLlm, finalizeSummaries } from './summarize.mjs';
 import { normalizeDoi, uniqueStrings } from './text.mjs';
 
 function scoreAll(papers, topics) {
-  return papers.map((paper) => scorePaper(paper, topics));
+  return papers.map((paper) => scoreForTopic(scorePaper(paper, topics)));
 }
 
 function replaceEnriched(allPapers, enrichedPapers) {
@@ -71,32 +75,21 @@ export async function loadFixture(filePath) {
 export async function buildCandidateSet({ from, to, journals, topics, options = {} }) {
   const warnings = [];
   let papers = [];
+  let coverage = [];
   if (options.fixturePath) {
     papers = await loadFixture(options.fixturePath);
+    const fixturePayload=JSON.parse(await readFile(options.fixturePath,'utf8'));
+    coverage=fixturePayload.coverage||[]; warnings.push(...(fixturePayload.warnings||[]));
   } else {
-    const core = await fetchJournalPool(journals.core, from, to, {
-      mailto: options.contactEmail,
-      maxPages: options.maxPages ?? 3,
-      delayMs: options.delayMs ?? 120,
-      requestOptions: options.requestOptions
+    const result = await fetchJournalPool([...journals.core,...journals.expansion], from, to, {
+      mailto:options.contactEmail,maxPages:options.maxPages??3,delayMs:options.delayMs??300,requestOptions:options.requestOptions
     });
-    papers.push(...core.papers);
-    warnings.push(...core.warnings);
-    const expectedMinimum = options.expectedMinimum ?? 4;
-    if (core.papers.length < expectedMinimum) {
-      const expansion = await fetchJournalPool(journals.expansion, from, to, {
-        mailto: options.contactEmail,
-        maxPages: options.maxPages ?? 3,
-        delayMs: options.delayMs ?? 120,
-        requestOptions: options.requestOptions
-      });
-      papers.push(...expansion.papers);
-      warnings.push(...expansion.warnings);
-    }
-    if (papers.length === 0 && core.warnings.length > 0) {
-      throw new Error(`Crossref 候选获取失败：${uniqueStrings(core.warnings).join('；')}`);
-    }
+    papers=result.papers; warnings.push(...result.warnings); coverage=result.coverage;
+    if((coverage.length && coverage.every(c=>c.error && c.pages===0)) || (!papers.length && warnings.length)) throw new Error('所有期刊获取失败，保留上一版');
   }
+  if(options.kind==='monthly') papers=papers.filter(p=>p.publishedAt>=from&&p.publishedAt<=to);
+  const generalIds=new Set([...journals.core,...journals.expansion].filter(j=>j.generalScope).map(j=>j.id));
+  papers=papers.filter(p=>!generalIds.has(p.journalId)||isEcologicalGeneral(p));
 
   let scored = scoreAll(papers, topics);
   scored = scored.filter((paper) => !paper.isRetracted);
@@ -115,7 +108,7 @@ export async function buildCandidateSet({ from, to, journals, topics, options = 
     scored = scoreAll(replaceEnriched(scored, enriched.papers), topics);
     warnings.push(...enriched.warnings);
   }
-  return { papers: scored, warnings: uniqueStrings(warnings) };
+  return { papers: scored, warnings: uniqueStrings(warnings), coverage };
 }
 
 export async function prepareReportCandidates({ from, to, journals, topics, options = {} }) {
@@ -124,27 +117,20 @@ export async function prepareReportCandidates({ from, to, journals, topics, opti
 }
 
 export async function selectAndSummarize({ candidates, historyDois = [], topics, kind, options = {} }) {
-  const ranked = sortByRanking(candidates);
-  const llmInput = ranked.slice(0, Number(options.maxLlmCandidates ?? 12));
-  const enhanced = await enhanceWithLlm(llmInput, topics, {
-    baseUrl: options.llmBaseUrl,
-    apiKey: options.llmApiKey,
-    model: options.llmModel,
-    disabled: options.disableLlm,
-    maxPapers: options.maxLlmCandidates ?? 12
-  });
-  const enhancedMap = new Map(enhanced.papers.map((paper) => [normalizeDoi(paper.doi), paper]));
-  const merged = ranked.map((paper) => enhancedMap.get(normalizeDoi(paper.doi)) || paper);
-  const selection = selectPapers(merged, { kind, historyDois });
-  return {
-    ...selection,
-    papers: finalizeSummaries(selection.papers),
-    warnings: enhanced.warnings,
-    llmUsed: enhanced.used
-  };
+  const evaluated=await evaluateTopicCandidates(candidates,options);
+  const ranked=sortByRanking(evaluated.papers);
+  const selection=kind==='monthly'?selectMonthly(ranked):selectPapers(ranked,{kind,historyDois});
+  if(kind==='monthly'){
+    const analysis=await analyzeMonthly(selection.papers,options);
+    return {...selection,...analysis,warnings:[...evaluated.warnings,...analysis.warnings],llmUsed:evaluated.llmUsed||analysis.llmUsed};
+  }
+  return {...selection,papers:finalizeSummaries(selection.papers),warnings:evaluated.warnings,llmUsed:evaluated.llmUsed,budget:evaluated.budget};
 }
 
 export async function generateReport({ kind, date, reportId, period, journals, topics, options = {} }) {
+  if(kind==='monthly'&&options.write!==false&&!options.revise){try{const existing=await readReport(kind,reportId);if(existing.status==='archived')throw new Error('归档月报仅允许明确修订');}catch(e){if(e.code!=='ENOENT')throw e;}}
+  options.budget ||= createBudget();
+  options.date=date;
   const candidateSet = await prepareReportCandidates({
     from: period.from,
     to: period.to,
@@ -171,12 +157,23 @@ export async function generateReport({ kind, date, reportId, period, journals, t
     papers: selected.papers,
     warnings: [...candidateSet.warnings, ...selected.warnings],
     notes: selected.notes,
+    criteriaVersion:CRITERIA.version,
+    status:kind==='monthly'?(options.status||'provisional'):undefined,
+    monthlySynthesis:selected.monthlySynthesis,
+    methodology:{scoreWeights:CRITERIA.weights,policy:'主线优先；根系分泌物机制参考；可行性待核实；期刊名气不加分；证据不足明确降级。'},
     diagnostics: {
-      ...selected.diagnostics,
+      ...selected.diagnostics,budget:selected.budget,
+
       llmUsed: selected.llmUsed,
-      sourceCandidateCount: candidateSet.papers.length
+      sourceCandidateCount: candidateSet.papers.length, coverage:candidateSet.coverage
     }
   });
-  if (options.write !== false) await writeReport(report);
+  if (options.write !== false) await writeReport(report,{revise:options.revise});
   return report;
+}
+
+export function isEcologicalGeneral(paper) {
+ const text=`${paper.title} ${paper.abstract||''} ${(paper.subjects||[]).join(' ')}`.toLowerCase().replace(/random forest\w*/g,'');
+ const anchor=/\b(ecolog\w*|ecosystem\w*|soil\w*|forest\w*|biodiversity|biogeochem\w*|rhizosphere|litter|deadwood|vegetation|food web|plant communit\w*)\b/;
+ return anchor.test(text);
 }

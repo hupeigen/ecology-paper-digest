@@ -3,7 +3,7 @@ const DAY_MS = 86_400_000;
 export function assertDateKey(value) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(String(value))) throw new Error(`无效日期：${value}`);
   const date = new Date(`${value}T00:00:00+08:00`);
-  if (Number.isNaN(date.getTime())) throw new Error(`无效日期：${value}`);
+  if (Number.isNaN(date.getTime()) || todayInShanghai(date) !== value) throw new Error(`无效日期：${value}`);
   return value;
 }
 
@@ -70,4 +70,21 @@ export function dateLabel(dateKey) {
   return new Intl.DateTimeFormat('zh-CN', {
     timeZone: 'Asia/Shanghai', year: 'numeric', month: 'long', day: 'numeric', weekday: 'short'
   }).format(new Date(`${dateKey}T12:00:00+08:00`));
+}
+
+export function assertMonthKey(month) {
+  if (!/^\d{4}-(0[1-9]|1[0-2])$/.test(String(month))) throw new Error(`无效月份：${month}`);
+  return month;
+}
+export function previousMonth(date) { assertDateKey(date); return shiftDate(date.slice(0,7)+'-01',-1).slice(0,7); }
+export function monthRange(month, date=todayInShanghai()) {
+  assertMonthKey(month); assertDateKey(date);
+  if(month>date.slice(0,7)) throw new Error('不能检索未来月份');
+  const [year,m]=month.split('-').map(Number);
+  const last=new Date(Date.UTC(year,m,0)).toISOString().slice(0,10);
+  return {from:month+'-01',to:month===date.slice(0,7)?date:last};
+}
+export function scheduledMonths(date) {
+  assertDateKey(date);
+  return [...new Set([...(date.endsWith('-01')?[previousMonth(date)]:[]),...(isMonday(date)?[date.slice(0,7)]:[])])];
 }

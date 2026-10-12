@@ -6,7 +6,7 @@ import { previousNaturalWeek, shiftDate, todayInShanghai } from '../src/dates.mj
 test('核心期刊与扩展期刊配置完整且无重复', async () => {
   const journals = await loadJournals();
   assert.equal(journals.core.length, 8);
-  assert.equal(journals.expansion.length, 8);
+  assert.equal(journals.expansion.length, 15);
   assert.deepEqual(journals.core.map((item) => item.id), [
     'jpe', 'imeta', 'green-carbon', 'pedosphere', 'eeh', 'ecology-letters', 'journal-of-ecology', 'ecological-indicators'
   ]);

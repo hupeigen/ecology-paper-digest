@@ -52,7 +52,7 @@ export function normalizeCrossrefWork(raw, journal) {
   const authors = (Array.isArray(raw?.author) ? raw.author : []).map(normalizeAuthor).filter(Boolean).slice(0, 30);
   const abstract = stripHtml(raw?.abstract);
   const links = normalizeLinks(raw);
-  const isReview = String(raw?.type ?? '').toLowerCase() === 'review-article';
+  const isReview = String(raw?.type ?? '').toLowerCase() === 'review-article' || /\b(systematic review|a review|review of|review:)\b/i.test(title);
   const subjects = uniqueStrings(raw?.subject);
   return {
     id: doi,
@@ -68,14 +68,15 @@ export function normalizeCrossrefWork(raw, journal) {
     doiUrl: `https://doi.org/${doi}`,
     landingUrl: links.landingUrl || `https://doi.org/${doi}`,
     pdfUrl: links.pdfUrl,
-    oaUrl: links.pdfUrl,
-    isOpenAccess: Boolean(links.pdfUrl),
+    oaUrl: null,
+    isOpenAccess: false,
     abstract,
     hasAbstract: Boolean(abstract),
     subjects,
     referenceCount: Number(raw?.['references-count'] ?? 0) || 0,
     citedByCount: Number(raw?.['is-referenced-by-count'] ?? 0) || 0,
     pool: journal.pool,
+    generalScope: Boolean(journal.generalScope),
     sources: [{ name: 'Crossref', url: `https://api.crossref.org/works/${encodeURIComponent(doi)}` }]
   };
 }
@@ -118,6 +119,7 @@ export async function fetchJournalWorks(journal, from, to, options = {}) {
   const maxPages = Math.max(1, Math.min(Number(options.maxPages ?? 3), 5));
   const papers = [];
   const warnings = [];
+  const coverage = {journalId:journal.id,name:journal.name,issn:journal.issns[0],pages:0,totalResults:0,retrievedCount:0,complete:false,error:null};
   for (let page = 0; page < maxPages; page += 1) {
     const offset = page * 100;
     const url = crossrefWorksUrl(journal, from, to, { offset, mailto: options.mailto });
@@ -128,32 +130,30 @@ export async function fetchJournalWorks(journal, from, to, options = {}) {
         headers: { accept: 'application/json', ...(requestOptions.headers || {}) }
       });
     } catch (error) {
+      coverage.error = error.message;
       warnings.push(`${journal.name} 第 ${page + 1} 页获取失败：${error.message}`);
       break;
     }
     const items = Array.isArray(payload?.message?.items) ? payload.message.items : [];
     for (const item of items) {
       const paper = normalizeCrossrefWork(item, journal);
-      if (paper) papers.push(paper);
+      if (paper && paper.publishedAt >= from && paper.publishedAt <= to) papers.push(paper);
     }
     const total = Number(payload?.message?.['total-results'] ?? 0);
-    if (items.length < 100 || (offset + items.length) >= total) break;
+    coverage.pages += 1; coverage.totalResults=total;
+    if (items.length < 100 || (offset + items.length) >= total) {coverage.complete=true;break;}
   }
-  return { papers: dedupePapers(papers), warnings };
+  coverage.retrievedCount=dedupePapers(papers).length;
+  if (!coverage.complete && !coverage.error) warnings.push(`${journal.name} 检索达到页数上限，覆盖不完整`);
+  return { papers: dedupePapers(papers), warnings, coverage };
 }
 
 export async function fetchJournalPool(journals, from, to, options = {}) {
-  const papers = [];
-  const warnings = [];
-  const delayMs = Math.max(0, Number(options.delayMs ?? 120));
-  for (let index = 0; index < journals.length; index += 1) {
-    const result = await fetchJournalWorks(journals[index], from, to, options);
-    papers.push(...result.papers);
-    warnings.push(...result.warnings);
-    if (delayMs && index < journals.length - 1) await new Promise((resolve) => setTimeout(resolve, delayMs));
+  const papers=[],warnings=[],coverage=[];
+  for(const journal of journals) {
+    const r=await fetchJournalWorks(journal,from,to,options);papers.push(...r.papers);warnings.push(...r.warnings);coverage.push(r.coverage);
+    if(options.delayMs!==0) await new Promise(r=>setTimeout(r,options.delayMs??300));
   }
-  return { papers: dedupePapers(papers), warnings };
+  return {papers:dedupePapers(papers),warnings,coverage};
 }
-
 export { dateFromParts, publicationDate };
-
