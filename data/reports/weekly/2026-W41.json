@@ -1,0 +1,547 @@
+{
+  "version": 1,
+  "kind": "weekly",
+  "reportId": "2026-W41",
+  "date": "2026-10-12",
+  "period": {
+    "from": "2026-10-05",
+    "to": "2026-10-11"
+  },
+  "generatedAt": "2026-10-12T00:34:54.920Z",
+  "selectionTitle": "生态学高价值论文周报 · 2026-10-05 至 2026-10-11",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "doi": "10.1038/s41559-026-03200-4",
+      "title": "Biodiversity safeguards ecosystem services and functions worldwide",
+      "authors": [
+        {
+          "name": "Emma R. Moffett",
+          "orcid": "https://orcid.org/0000-0001-9891-6217"
+        },
+        {
+          "name": "Joel H. Gayford",
+          "orcid": "https://orcid.org/0000-0002-0839-3940"
+        },
+        {
+          "name": "Lexi Chen",
+          "orcid": "https://orcid.org/0009-0003-7196-646X"
+        },
+        {
+          "name": "Olivia F. Morris",
+          "orcid": "https://orcid.org/0009-0002-3093-419X"
+        },
+        {
+          "name": "Yuming Shi",
+          "orcid": "https://orcid.org/0009-0008-4027-2373"
+        },
+        {
+          "name": "Lucy Somekh",
+          "orcid": "https://orcid.org/0009-0002-6317-7076"
+        },
+        {
+          "name": "Nicole Stasik",
+          "orcid": null
+        },
+        {
+          "name": "Andy Purvis",
+          "orcid": "https://orcid.org/0000-0002-8609-6204"
+        },
+        {
+          "name": "Guy Woodward",
+          "orcid": "https://orcid.org/0000-0001-6158-2559"
+        },
+        {
+          "name": "William D. Pearse",
+          "orcid": "https://orcid.org/0000-0002-6241-3164"
+        }
+      ],
+      "journal": "Nature Ecology & Evolution",
+      "publishedAt": "2026-10-06",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1038/s41559-026-03200-4",
+      "oaUrl": "https://www.nature.com/articles/s41559-026-03200-4.pdf",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Biodiversity",
+        "biodiversity loss",
+        "ecosystem services",
+        "ecosystem functioning",
+        "biodiversity-ecosystem service relationships",
+        "regulating services",
+        "water quality"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 92,
+        "application": 8,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 22,
+      "recommendationReason": "重点体现国家战略与导师方向；命中“carbon sequestration、biodiversity、climate mitigation、ecosystem service”等信号。",
+      "essence": {
+        "problem": "Abstract Biodiversity loss threatens ecosystem services on which humanity depends, yet the strength, form and context-dependency of biodiversity–ecosystem service and biodiversity–ecosystem function relationships remain poorly quantified.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "While biodiversity enhances most functions and services, our effect-size analysis shows that oceanic ‘blue carbon’ sequestration is exceptionally sensitive, revealing how critical marine biodiversity is for climate mitigation.",
+        "transferableIdeas": "可将核心变量与土壤碳形成、稳定或通量过程建立联系。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1038%2Fs41559-026-03200-4"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220706141"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "doi": "10.1111/1365-2435.70413",
+      "title": "Land use intensification results in abrupt transitions between extensively and intensively managed grasslands",
+      "authors": [
+        {
+          "name": "Hugo Saiz",
+          "orcid": "https://orcid.org/0000-0002-7568-2996"
+        },
+        {
+          "name": "Lena Neuenkamp",
+          "orcid": "https://orcid.org/0000-0001-6108-5720"
+        },
+        {
+          "name": "Caterina Penone",
+          "orcid": "https://orcid.org/0000-0002-8170-6659"
+        },
+        {
+          "name": "Klaus Birkhofer",
+          "orcid": null
+        },
+        {
+          "name": "Nico Blüthgen",
+          "orcid": null
+        },
+        {
+          "name": "Steffen Boch",
+          "orcid": null
+        },
+        {
+          "name": "Michael Bonkowski",
+          "orcid": null
+        },
+        {
+          "name": "Francois Buscot",
+          "orcid": null
+        },
+        {
+          "name": "María Felipe‐Lucia",
+          "orcid": null
+        },
+        {
+          "name": "Anna Maria Fiore‐Donno",
+          "orcid": null
+        },
+        {
+          "name": "Markus Fischer",
+          "orcid": null
+        },
+        {
+          "name": "Martin Freitag",
+          "orcid": "https://orcid.org/0000-0002-3280-5941"
+        },
+        {
+          "name": "Oscar Godoy",
+          "orcid": null
+        },
+        {
+          "name": "Kezia Goldmann",
+          "orcid": "https://orcid.org/0000-0003-2954-5517"
+        },
+        {
+          "name": "Martin Gossner",
+          "orcid": null
+        },
+        {
+          "name": "Ute Hamer",
+          "orcid": null
+        },
+        {
+          "name": "Norbert Hölzel",
+          "orcid": "https://orcid.org/0000-0002-6367-3400"
+        },
+        {
+          "name": "Kirsten Jung",
+          "orcid": "https://orcid.org/0000-0002-9449-2215"
+        },
+        {
+          "name": "Ellen Kandeler",
+          "orcid": null
+        },
+        {
+          "name": "Valentin Klaus",
+          "orcid": "https://orcid.org/0000-0002-7469-6800"
+        },
+        {
+          "name": "Till Kleinebecker",
+          "orcid": "https://orcid.org/0000-0003-1121-2861"
+        },
+        {
+          "name": "Sophia Leimer",
+          "orcid": null
+        },
+        {
+          "name": "Sven Marhan",
+          "orcid": null
+        },
+        {
+          "name": "Yvonne Oelmann",
+          "orcid": null
+        },
+        {
+          "name": "Jörg Overmann",
+          "orcid": null
+        },
+        {
+          "name": "Daniel Prati",
+          "orcid": null
+        },
+        {
+          "name": "Swen Renner",
+          "orcid": null
+        },
+        {
+          "name": "Matthias Rillig",
+          "orcid": "https://orcid.org/0000-0003-3541-7853"
+        },
+        {
+          "name": "Sebastian Seibold",
+          "orcid": "https://orcid.org/0000-0002-7968-4489"
+        },
+        {
+          "name": "Michael Schloter",
+          "orcid": null
+        }
+      ],
+      "journal": "Functional Ecology",
+      "publishedAt": "2026-10-08",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2435.70413",
+      "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.70413",
+      "isOpenAccess": true,
+      "keywords": [
+        "Soil ecology",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "land use intensification",
+        "tipping points",
+        "hysteresis",
+        "grassland management"
+      ],
+      "valueScores": {
+        "advisor": 8,
+        "strategy": 16,
+        "application": 58,
+        "interdisciplinary": 0,
+        "frontier": 24
+      },
+      "totalScore": 21,
+      "recommendationReason": "重点体现应用价值与前沿突破；命中“litter decomposition、biodiversity、degradation、management”等信号。",
+      "essence": {
+        "problem": "Abstract Understanding whether land use intensification causes regime shifts (i.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其指标构建与跨尺度验证思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2435.70413"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220907661"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "doi": "10.1093/jpe/rtag242",
+      "title": "Divergent assembly mechanisms mediate plant stoichiometric responses to soil P constraints during ecosystem restoration",
+      "authors": [
+        {
+          "name": "Jiannan Lu",
+          "orcid": null
+        },
+        {
+          "name": "Xuyang Wang",
+          "orcid": null
+        },
+        {
+          "name": "Yuqiang Li",
+          "orcid": null
+        },
+        {
+          "name": "Chengzhuo Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Yuqian Li",
+          "orcid": null
+        },
+        {
+          "name": "Xueyong Zhao",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag242",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag242",
+      "isOpenAccess": true,
+      "keywords": [
+        "Plant-soil interactions",
+        "Restoration and management",
+        "Soil Carbon and Nitrogen Dynamics",
+        "Ecology and Vegetation Dynamics Studies",
+        "Mycorrhizal Fungi and Plant Interactions"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 34,
+        "application": 34,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 18,
+      "recommendationReason": "重点体现国家战略与应用价值；命中“belowground、restoration、restoration”等信号。",
+      "essence": {
+        "problem": "Abstract Stoichiometric coupling within plant-soil-microbial systems underpins ecosystem development.",
+        "design": "公开摘要未明确说明研究设计，需阅读全文确认。",
+        "innovation": "However, the assembly mechanisms governing these interactions during restoration in resource-limited environments remain poorly understood.",
+        "transferableIdeas": "可从其变量选择、对照设置和证据链组织方式中寻找可迁移思路。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag242"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7221318841"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "doi": "10.1093/jpe/rtag238",
+      "title": "Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation",
+      "authors": [
+        {
+          "name": "Cui Han",
+          "orcid": null
+        },
+        {
+          "name": "Jing Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xu Luo",
+          "orcid": null
+        },
+        {
+          "name": "Ying Zhao",
+          "orcid": null
+        },
+        {
+          "name": "Jiali Lian",
+          "orcid": null
+        },
+        {
+          "name": "Xueqin Yang",
+          "orcid": null
+        },
+        {
+          "name": "Adilbek Nogayev",
+          "orcid": null
+        },
+        {
+          "name": "Jianping Li",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-05",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag238",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag238",
+      "isOpenAccess": true,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "soil viruses",
+        "microbial necromass carbon",
+        "bacterial necromass carbon",
+        "fungal necromass carbon"
+      ],
+      "valueScores": {
+        "advisor": 56,
+        "strategy": 0,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 17,
+      "recommendationReason": "重点体现导师方向；命中“soil organic carbon、soil carbon、microbial community、carbon sequestration”等信号。",
+      "essence": {
+        "problem": "Abstract Soil viruses are increasingly recognized as important biotic components influencing microbial community dynamics and soil carbon cycling.",
+        "design": "Using a multi-year precipitation-manipulation experiment in a typical temperate steppe on the Loess Plateau, we integrated viral and microbial sequencing, amino sugar biomarkers, and structural equation modeling to examine how altered precipitation affects MNC accumulation through changes in viral and microbial communities.",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可借鉴其structural equation model设计。可将核心变量与土壤碳形成、稳定或通量过程建立联系。可参考其气候梯度、极端事件或长期处理设置。可迁移其建模、预测或不确定性分析框架。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag238"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7220690454"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "doi": "10.1093/jpe/rtag241",
+      "title": "Divergent diversity but convergent spatial variability responses: Plant and AMF communities under different precipitation pattern in temperate grasslands of Inner Mongolia",
+      "authors": [
+        {
+          "name": "Yu Tang",
+          "orcid": null
+        },
+        {
+          "name": "Sen Xing",
+          "orcid": null
+        },
+        {
+          "name": "Keyu Chen",
+          "orcid": null
+        },
+        {
+          "name": "Jiahui Sun",
+          "orcid": null
+        },
+        {
+          "name": "Jing Zhang",
+          "orcid": null
+        },
+        {
+          "name": "Baoming Ji",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-10",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag241",
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag241",
+      "isOpenAccess": true,
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Mycorrhizal Fungi and Plant Interactions",
+        "Ecology and Vegetation Dynamics Studies",
+        "Soil Carbon and Nitrogen Dynamics"
+      ],
+      "valueScores": {
+        "advisor": 16,
+        "strategy": 16,
+        "application": 0,
+        "interdisciplinary": 0,
+        "frontier": 0
+      },
+      "totalScore": 8,
+      "recommendationReason": "重点体现导师方向与国家战略；命中“belowground、mycorrhizal、climate change、biodiversity”等信号。",
+      "essence": {
+        "problem": "Abstract Global climate change is causing dramatic changes in precipitation patterns, profoundly affecting aboveground and belowground biodiversity in grasslands.",
+        "design": "In this study, we set up a controlled experiment in a typical grassland of Inner Mongolia with three natural precipitation treatments: ambient (control), reduced precipitation (-50%), and increased precipitation (+50%).",
+        "innovation": "公开摘要未明确说明创新点，需阅读全文确认。",
+        "transferableIdeas": "可参考其气候梯度、极端事件或长期处理设置。",
+        "limitations": "以上内容基于公开摘要；样本范围、统计细节与因果边界需阅读全文核验。",
+        "evidenceConfidence": "abstract",
+        "summaryMode": "rules"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag241"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7221310010"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "weekly",
+    "target": 8,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 36,
+    "coreCandidateCount": 4,
+    "expansionCandidateCount": 32,
+    "expansionUsed": 2,
+    "advisorCount": 1,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 3,
+      "nature-ecology-evolution": 1,
+      "functional-ecology": 1
+    },
+    "maxPerJournal": 3,
+    "maxReviews": 2,
+    "llmUsed": false,
+    "sourceCandidateCount": 38
+  },
+  "warnings": [],
+  "notes": [
+    "本周达到约束后仅有 5 篇，未使用低相关或低置信度文章凑数。"
+  ],
+  "methodology": {
+    "scoreWeights": {
+      "advisor": 30,
+      "strategy": 20,
+      "application": 20,
+      "interdisciplinary": 15,
+      "frontier": 15
+    },
+    "policy": "原创研究优先；摘要不足时明确标注；报告不公开完整摘要或全文，不绕过付费墙。"
+  }
+}

@@ -1,7 +1,24 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T00:32:24.901Z",
+  "updatedAt": "2026-10-12T00:34:54.920Z",
   "daily": [
+    {
+      "kind": "daily",
+      "reportId": "2026-10-12",
+      "date": "2026-10-12",
+      "period": {
+        "from": "2026-09-13",
+        "to": "2026-10-12"
+      },
+      "generatedAt": "2026-10-12T00:34:44.981Z",
+      "paperCount": 0,
+      "title": "生态学高价值论文日报 · 2026-10-12",
+      "path": "daily/2026-10-12.json",
+      "journals": [],
+      "keywords": [],
+      "paperDois": [],
+      "warnings": []
+    },
     {
       "kind": "daily",
       "reportId": "2026-10-11",
@@ -842,6 +859,54 @@
     }
   ],
   "weekly": [
+    {
+      "kind": "weekly",
+      "reportId": "2026-W41",
+      "date": "2026-10-12",
+      "period": {
+        "from": "2026-10-05",
+        "to": "2026-10-11"
+      },
+      "generatedAt": "2026-10-12T00:34:54.920Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文周报 · 2026-10-05 至 2026-10-11",
+      "path": "weekly/2026-W41.json",
+      "journals": [
+        "Nature Ecology & Evolution",
+        "Functional Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Biodiversity",
+        "biodiversity loss",
+        "ecosystem services",
+        "ecosystem functioning",
+        "biodiversity-ecosystem service relationships",
+        "regulating services",
+        "water quality",
+        "Soil ecology",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "land use intensification",
+        "tipping points",
+        "hysteresis",
+        "grassland management",
+        "Plant-soil interactions",
+        "Soil Carbon and Nitrogen Dynamics",
+        "Ecology and Vegetation Dynamics Studies",
+        "Mycorrhizal Fungi and Plant Interactions",
+        "Climate change"
+      ],
+      "paperDois": [
+        "10.1038/s41559-026-03200-4",
+        "10.1111/1365-2435.70413",
+        "10.1093/jpe/rtag242",
+        "10.1093/jpe/rtag238",
+        "10.1093/jpe/rtag241"
+      ],
+      "warnings": []
+    },
     {
       "kind": "weekly",
       "reportId": "2026-W40",
