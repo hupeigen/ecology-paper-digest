@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12T02:11:28.896Z",
+  "updatedAt": "2026-10-13T00:36:49.295Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Shrub expansion increases particulate organic carbon accumulation through reduced shoot litter decomposition rates 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology litter decomposition soil organic carbon mineral-associated Silent Alarms? Unveiling Destabilization Risk in Terrestrial Ecosystem Carbon Fluxes 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Biodiversity Ecosystem monitoring carbon sequestration carbon cycle ecosystem destabilization early warning indicators Cascading effects of winter climate change in northern forests: Microclimate, microbes, biogeochemical flux, and vegetation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Ecosystem monitoring winter climate change snowpack decline northern forests soil microbial activity soil microclimate Physicochemical Protection Outweighs Microbial Carbon Use Efficiency in Regulating Soil Organic Carbon Across an Aridity Gradient 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Ecosystem monitoring Modeling and AI soil organic carbon mineral-associated microbial carbon use efficiency aridity gradient microbial respiration Climate-driven adaptive microevolution in wild yeasts 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation Saccharomyces eubayanus cold-adapted yeasts latitudinal diversity gradient nucleotide diversity sporulation thermal optimum",
+      "reportId": "2026-10-13",
+      "date": "2026-10-13",
+      "period": {
+        "from": "2026-09-14",
+        "to": "2026-10-13"
+      },
+      "generatedAt": "2026-10-13T00:36:49.295Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-13",
+      "path": "daily/2026-10-13.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Global Change Biology",
+        "Ecology",
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Soil ecology",
+        "litter",
+        "decomposition",
+        "soil organic carbon",
+        "mineral-associated",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "carbon sequestration",
+        "carbon cycle",
+        "ecosystem destabilization",
+        "early warning indicators",
+        "Climate change",
+        "winter climate change",
+        "snowpack decline",
+        "northern forests",
+        "soil microbial activity",
+        "soil microclimate",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag239",
+        "10.1111/gcb.71100",
+        "10.1002/ecy.70526",
+        "10.1111/gcb.71138",
+        "10.1073/pnas.2618715123"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2536473123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aej8134 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
