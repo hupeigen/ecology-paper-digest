@@ -1,7 +1,64 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T00:36:49.295Z",
+  "updatedAt": "2026-10-14T00:43:26.833Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Soil ecology Modeling and AI decomposition soil carbon carbon cycling BpSRK1 ‐mediated phosphorylation of BpERF3 relieves HDA6 ‐dependent chromatin repression to enhance drought tolerance in birch 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought drought tolerance histone deacetylase chromatin repression protein phosphorylation peroxidase genes reactive oxygen species Differential ubiquitin modifications of ESCRT ‐I subunits VPS37 ‐1 and VPS28 ‐2 positively regulate plant immunity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 FLS2 pattern-triggered immunity protein stability K48-linked polyubiquitination K63-linked ubiquitination proteasomal degradation vacuolar degradation plant immunity Co‐Benefits of Intercropping on Crop Productivity, Soil Organic Carbon Sequestration and N 2 O Mitigation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Modeling and AI Restoration and management soil organic carbon carbon sequestration Mineral Stabilization of Soil Organic Sulfur at the Continental Scale 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management carbon sequestration mineral-associated moisture",
+      "reportId": "2026-10-14",
+      "date": "2026-10-14",
+      "period": {
+        "from": "2026-09-15",
+        "to": "2026-10-14"
+      },
+      "generatedAt": "2026-10-14T00:43:26.833Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-14",
+      "path": "daily/2026-10-14.json",
+      "journals": [
+        "Nature Communications",
+        "New Phytologist",
+        "Global Change Biology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "decomposition",
+        "soil carbon",
+        "carbon cycling",
+        "drought",
+        "drought tolerance",
+        "histone deacetylase",
+        "chromatin repression",
+        "protein phosphorylation",
+        "peroxidase genes",
+        "reactive oxygen species",
+        "FLS2",
+        "pattern-triggered immunity",
+        "protein stability",
+        "K48-linked polyubiquitination",
+        "K63-linked ubiquitination",
+        "proteasomal degradation"
+      ],
+      "paperDois": [
+        "10.1038/s41467-026-78137-0",
+        "10.1111/nph.71624",
+        "10.1111/nph.71590",
+        "10.1111/gcb.71149",
+        "10.1111/gcb.71131"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2536473123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aej8134 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
