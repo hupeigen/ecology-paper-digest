@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T00:43:26.833Z",
+  "updatedAt": "2026-10-15T00:42:32.716Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Complementary root and mycorrhizal foraging strategies for phosphorus acquisition among arbuscular and ectomycorrhizal trees in a subtropical forest 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Biodiversity Modeling and AI A microbial therapy-mimicry assay shows how spatial resource dynamics control resistance escape 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI treatment resistance spatial confinement intermittent therapy resource dynamics biofilm solid tumors yeast Evolution shapes ecosystem resilience through spatial self-organization 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought drying moisture ecosystem resilience spatial self-organization vegetation pattern formation Mosquito population dynamics are shaped by interactions among larval density, temperature, and relative humidity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Aedes albopictus mosquito population dynamics larval density intraspecific competition microclimate temperature relative humidity Tree species identity is associated with rhizosphere microbiome assembly via root metabolite‐mediated feedbacks in subtropical forests 根系分泌物/根代谢物机制参考，降低课题推荐优先级。 Plant-soil interactions Soil ecology Multi-omics and health rhizosphere microbiome tree species identity root metabolites microbial community assembly pine",
+      "reportId": "2026-10-15",
+      "date": "2026-10-15",
+      "period": {
+        "from": "2026-09-16",
+        "to": "2026-10-15"
+      },
+      "generatedAt": "2026-10-15T00:42:32.716Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-15",
+      "path": "daily/2026-10-15.json",
+      "journals": [
+        "Functional Ecology",
+        "Nature Ecology & Evolution",
+        "Proceedings of the National Academy of Sciences",
+        "Ecology"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Modeling and AI",
+        "treatment resistance",
+        "spatial confinement",
+        "intermittent therapy",
+        "resource dynamics",
+        "biofilm",
+        "solid tumors",
+        "yeast",
+        "Climate change",
+        "drought",
+        "drying",
+        "moisture",
+        "ecosystem resilience",
+        "spatial self-organization",
+        "vegetation pattern formation",
+        "Aedes albopictus",
+        "mosquito population dynamics",
+        "larval density"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70462",
+        "10.1038/s41559-026-03178-z",
+        "10.1073/pnas.2536473123",
+        "10.1002/ecy.70521",
+        "10.1111/1365-2435.70465"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2536473123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aej8134 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
