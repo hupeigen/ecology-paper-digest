@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T00:42:32.716Z",
+  "updatedAt": "2026-10-16T00:42:48.929Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Plant invasion in mountain ecosystems reduces soil micro‐food web complexity at higher elevations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Soil ecology Modeling and AI Restoration and management soil carbon moisture Abiotic conversion of nitrate to ammonium enhances nitrogen use efficiency in paddy soils 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Microbial niche partitioning explains N 2 O distributions and cycling in marine oxygen minimum zones 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Experiment and natural variation in N and P inputs elucidate complexity in freshwater ecosystems 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate drivers of mesophyll conductance: temperature and water deficit alter CO 2 diffusion and leaf anatomy in cotton 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI mesophyll conductance cotton Gossypium hirsutum Gossypium bickii high temperature drought stress heat stress",
+      "reportId": "2026-10-16",
+      "date": "2026-10-16",
+      "period": {
+        "from": "2026-09-17",
+        "to": "2026-10-16"
+      },
+      "generatedAt": "2026-10-16T00:42:48.929Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-16",
+      "path": "daily/2026-10-16.json",
+      "journals": [
+        "Functional Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "Ecology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Soil ecology",
+        "Modeling and AI",
+        "Restoration and management",
+        "soil carbon",
+        "moisture",
+        "mesophyll conductance",
+        "cotton",
+        "Gossypium hirsutum",
+        "Gossypium bickii",
+        "high temperature",
+        "drought stress",
+        "heat stress"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70480",
+        "10.1073/pnas.2616616123",
+        "10.1073/pnas.2612813123",
+        "10.1002/ecy.70539",
+        "10.1111/nph.71602"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2536473123 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
