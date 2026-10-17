@@ -1,7 +1,63 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T00:42:48.929Z",
+  "updatedAt": "2026-10-17T00:43:32.404Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Nitrogen deposition does not alter the temperate forest soil carbon pool: A 14-y experiment on varied nitrogen fertilization 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling soil carbon mineral-associated What we measure matters: Trait choice shapes inferences about grassland functional diversity under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity drought precipitation Death and chemotaxis: Bacterial chemotaxis enables collective escape from phage predation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Dryland Soil Rewetting Induces Strong Volatile Organic Compound Emissions With Potential to Form Ozone and Aerosols 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology drought rewetting precipitation Dual mechanisms give rise to biphasic stomatal opening in onion 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI stomatal opening guard cells turgor pressure onion cell shape cell wall stiffness morphospace",
+      "reportId": "2026-10-17",
+      "date": "2026-10-17",
+      "period": {
+        "from": "2026-09-18",
+        "to": "2026-10-17"
+      },
+      "generatedAt": "2026-10-17T00:43:32.404Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-17",
+      "path": "daily/2026-10-17.json",
+      "journals": [
+        "Proceedings of the National Academy of Sciences",
+        "Journal of Ecology",
+        "Science Advances",
+        "Global Change Biology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "soil carbon",
+        "mineral-associated",
+        "Climate change",
+        "Biodiversity",
+        "drought",
+        "precipitation",
+        "Modeling and AI",
+        "Soil ecology",
+        "rewetting",
+        "stomatal opening",
+        "guard cells",
+        "turgor pressure",
+        "onion",
+        "cell shape",
+        "cell wall stiffness",
+        "morphospace"
+      ],
+      "paperDois": [
+        "10.1073/pnas.2626990123",
+        "10.1111/1365-2745.70465",
+        "10.1126/sciadv.aeg2358",
+        "10.1111/gcb.71145",
+        "10.1111/nph.71615"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
