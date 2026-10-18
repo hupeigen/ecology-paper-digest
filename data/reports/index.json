@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T00:43:32.404Z",
+  "updatedAt": "2026-10-18T00:43:17.678Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Mapping the epigenetic regulatory network of cotton single‐cell fiber elongation mediated by H3K4me3 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI Research in Cotton Cultivation Plant Molecular Biology Research Epigenetics and DNA Methylation Provenance and environment jointly shape early regeneration in fir and beech: evidence from distributed participatory trials across Europe 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Restoration and management Seedling growth and survival studies Seed Germination and Physiology Ecology and Vegetation Dynamics Studies Direct and Trait‐Mediated Effects of Climate on Grassland Productivity Across the Alps 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity Modeling and AI moisture Organic imprint: Natural matter dictates crystallization of manganese oxides on hematite 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 mineral-associated Vegetation Phenology Shifts Under Climate Change: Cross‐Season Mechanisms and Consequences for Ecosystem Productivity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Modeling and AI carbon cycle",
+      "reportId": "2026-10-18",
+      "date": "2026-10-18",
+      "period": {
+        "from": "2026-09-19",
+        "to": "2026-10-18"
+      },
+      "generatedAt": "2026-10-18T00:43:17.678Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-18",
+      "path": "daily/2026-10-18.json",
+      "journals": [
+        "New Phytologist",
+        "Global Change Biology",
+        "Proceedings of the National Academy of Sciences"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "Research in Cotton Cultivation",
+        "Plant Molecular Biology Research",
+        "Epigenetics and DNA Methylation",
+        "Restoration and management",
+        "Seedling growth and survival studies",
+        "Seed Germination and Physiology",
+        "Ecology and Vegetation Dynamics Studies",
+        "Biodiversity",
+        "moisture",
+        "mineral-associated",
+        "Carbon cycling",
+        "carbon cycle"
+      ],
+      "paperDois": [
+        "10.1111/nph.71612",
+        "10.1111/nph.71627",
+        "10.1111/gcb.71142",
+        "10.1073/pnas.2535329123",
+        "10.1111/gcb.71112"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
