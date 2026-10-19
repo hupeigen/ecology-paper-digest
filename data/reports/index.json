@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T00:43:17.678Z",
+  "updatedAt": "2026-10-19T04:31:39.077Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Phosphorylation and epigenetic remodeling mediate BpEBP1 ‐dependent drought resistance in birch 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought Belowground growth is the primary driver of radial oxygen loss from Typha angustifolia to sediment 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions decomposition The anthropogenic fingerprint on emerging infectious diseases 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Multi-omics and health precipitation emerging infectious diseases Anthropocene zoonoses vector-borne diseases arboviruses Microbial ecological instability and non-linear host interactions shape airway inflammation in HIV-associated COPD 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Multi-omics and health Global mangrove distribution on the open coast is controlled by waves 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI Restoration and management",
+      "reportId": "2026-10-19",
+      "date": "2026-10-19",
+      "period": {
+        "from": "2026-09-20",
+        "to": "2026-10-19"
+      },
+      "generatedAt": "2026-10-19T04:30:56.470Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-19",
+      "path": "daily/2026-10-19.json",
+      "journals": [
+        "New Phytologist",
+        "Nature",
+        "Nature Communications"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "drought",
+        "Plant-soil interactions",
+        "decomposition",
+        "Multi-omics and health",
+        "precipitation",
+        "emerging infectious diseases",
+        "Anthropocene",
+        "zoonoses",
+        "vector-borne diseases",
+        "arboviruses",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/nph.71613",
+        "10.1111/nph.71593",
+        "10.1038/s41586-026-11058-6",
+        "10.1038/s41467-026-78400-4",
+        "10.1038/s41586-026-11089-z"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
@@ -1219,6 +1269,70 @@
     {
       "kind": "weekly",
       "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Soil ecology Modeling and AI decomposition soil carbon soil warming subsoil carbon cycling Plant invasion in mountain ecosystems reduces soil micro‐food web complexity at higher elevations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Soil ecology Modeling and AI Restoration and management soil carbon moisture plant invasion Ageratina adenophora Shrub expansion increases particulate organic carbon accumulation through reduced shoot litter decomposition rates 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology litter decomposition soil organic carbon mineral-associated shrub expansion shrubification Nitrogen deposition does not alter the temperate forest soil carbon pool: A 14-y experiment on varied nitrogen fertilization 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling soil carbon mineral-associated nitrogen deposition soil carbon pools nitrogen fertilization organic nitrogen inorganic nitrogen Mapping the epigenetic regulatory network of cotton single‐cell fiber elongation mediated by H3K4me3 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI cotton fiber elongation H3K4me3 histone modifications epigenetic regulation transcriptional repression transcriptional repressor Provenance and environment jointly shape early regeneration in fir and beech: evidence from distributed participatory trials across Europe 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Restoration and management forest regeneration seed source Abies Fagus fir beech seed germination Complementary root and mycorrhizal foraging strategies for phosphorus acquisition among arbuscular and ectomycorrhizal trees in a subtropical forest 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Biodiversity Modeling and AI phosphorus acquisition arbuscular mycorrhizal trees ectomycorrhizal trees inorganic phosphorus organic phosphorus Abiotic conversion of nitrate to ammonium enhances nitrogen use efficiency in paddy soils 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 nitrogen use efficiency paddy soil rice rhizosphere iron plaque Fe(II) ions iron cycling interfacial charge transfer nitrogen fertilizer reduction",
+      "reportId": "2026-W42",
+      "date": "2026-10-19",
+      "period": {
+        "from": "2026-10-12",
+        "to": "2026-10-18"
+      },
+      "generatedAt": "2026-10-19T04:31:17.685Z",
+      "paperCount": 8,
+      "title": "生态学高价值论文周报 · 2026-10-12 至 2026-10-18",
+      "path": "weekly/2026-W42.json",
+      "journals": [
+        "Nature Communications",
+        "Functional Ecology",
+        "Journal of Plant Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Soil ecology",
+        "Modeling and AI",
+        "decomposition",
+        "soil carbon",
+        "soil warming",
+        "subsoil",
+        "carbon cycling",
+        "Restoration and management",
+        "moisture",
+        "plant invasion",
+        "Ageratina adenophora",
+        "litter",
+        "soil organic carbon",
+        "mineral-associated",
+        "shrub expansion",
+        "shrubification",
+        "nitrogen deposition",
+        "soil carbon pools"
+      ],
+      "paperDois": [
+        "10.1038/s41467-026-78137-0",
+        "10.1111/1365-2435.70480",
+        "10.1093/jpe/rtag239",
+        "10.1073/pnas.2626990123",
+        "10.1111/nph.71612",
+        "10.1111/nph.71627",
+        "10.1111/1365-2435.70462",
+        "10.1073/pnas.2616616123"
+      ],
+      "warnings": [
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2536473123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed6878 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aem6116 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aei1145 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
+    {
+      "kind": "weekly",
+      "criteriaVersion": "ecology-topic-v1",
       "searchText": "Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Patterns and determinants of the glomalin-related soil protein accrual at rock-soil interfaces across two lithologies in karst forests, Southwest China 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Modeling and AI Restoration and management soil organic carbon glomalin-related soil protein soil-rock interface karst forest bedrock lithology Divergent diversity but convergent spatial variability responses: Plant and AMF communities under different precipitation pattern in temperate grasslands of Inner Mongolia 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Biodiversity precipitation Mycorrhizal Fungi and Plant Interactions Ecology and Vegetation Dynamics Studies Soil Carbon and Nitrogen Dynamics Climate drivers of mesophyll conductance: temperature and water deficit alter CO 2 diffusion and leaf anatomy in cotton 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Plant Water Relations and Carbon Dynamics Photosynthetic Processes and Mechanisms Plant Stress Responses and Tolerance Dual mechanisms give rise to biphasic stomatal opening in onion 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI stomatal opening guard cells turgor pressure onion cell shape cell wall stiffness morphospace Organic imprint: Natural matter dictates crystallization of manganese oxides on hematite 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 mineral-associated manganese oxide hematite humic acid nucleation and growth mineral-associated organic matter Mn(II) oxidation hausmannite Microbial ecological instability and non-linear host interactions shape airway inflammation in HIV-associated COPD 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Multi-omics and health chronic obstructive pulmonary disease airway microbiome host-microbe interactions airway inflammation sputum microbiota outer membrane vesicles A method quantifying soil melanin to understand fungal impacts on soil carbon stability 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling soil carbon carbon stability necromass Soil Carbon and Nitrogen Dynamics Mycorrhizal Fungi and Plant Interactions Soil and Environmental Studies",
       "reportId": "2026-W41",
       "date": "2026-10-12",
@@ -1452,55 +1566,60 @@
       "kind": "monthly",
       "status": "provisional",
       "criteriaVersion": "ecology-topic-v1",
-      "searchText": "Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI decay soil carbon ectomycorrhizal fungi tree growth nitrogen limitation Patterns and determinants of the glomalin-related soil protein accrual at rock-soil interfaces across two lithologies in karst forests, Southwest China 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Modeling and AI Restoration and management soil organic carbon glomalin-related soil protein soil-rock interface karst forest bedrock lithology Functional traits modulate nitrogen addition and climate impacts on growth–mortality trade‐offs in a temperate forest experiment 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation growth-mortality trade-off nitrogen addition nitrogen deposition functional traits warming temperate forests",
+      "searchText": "Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Soil ecology Modeling and AI decomposition soil carbon soil warming subsoil carbon cycling Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Plant invasion in mountain ecosystems reduces soil micro‐food web complexity at higher elevations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Soil ecology Modeling and AI Restoration and management soil carbon moisture plant invasion Ageratina adenophora Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI decay soil carbon ectomycorrhizal fungi tree growth nitrogen limitation Shrub expansion increases particulate organic carbon accumulation through reduced shoot litter decomposition rates 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology litter decomposition soil organic carbon mineral-associated shrub expansion shrubification Nitrogen deposition does not alter the temperate forest soil carbon pool: A 14-y experiment on varied nitrogen fertilization 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling soil carbon mineral-associated nitrogen deposition soil carbon pools nitrogen fertilization organic nitrogen inorganic nitrogen Patterns and determinants of the glomalin-related soil protein accrual at rock-soil interfaces across two lithologies in karst forests, Southwest China 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Modeling and AI Restoration and management soil organic carbon glomalin-related soil protein soil-rock interface karst forest bedrock lithology",
       "reportId": "2026-10",
-      "date": "2026-10-12",
+      "date": "2026-10-19",
       "period": {
         "from": "2026-10-01",
-        "to": "2026-10-12"
+        "to": "2026-10-19"
       },
-      "generatedAt": "2026-10-12T02:11:28.896Z",
-      "paperCount": 4,
+      "generatedAt": "2026-10-19T04:31:39.077Z",
+      "paperCount": 7,
       "title": "生态论文雷达月度精选 · 2026-10",
       "path": "monthly/2026-10.json",
       "journals": [
+        "Nature Communications",
         "Journal of Plant Ecology",
-        "Journal of Ecology"
+        "Functional Ecology",
+        "Journal of Ecology",
+        "Proceedings of the National Academy of Sciences"
       ],
       "keywords": [
         "Carbon cycling",
         "Climate change",
         "Soil ecology",
         "Modeling and AI",
+        "decomposition",
         "soil carbon",
+        "soil warming",
+        "subsoil",
+        "carbon cycling",
         "soil organic carbon",
         "carbon sequestration",
         "necromass",
-        "carbon cycling",
         "precipitation",
         "moisture",
+        "Restoration and management",
+        "plant invasion",
+        "Ageratina adenophora",
         "Plant-soil interactions",
         "decay",
-        "ectomycorrhizal fungi",
-        "tree growth",
-        "nitrogen limitation",
-        "Restoration and management",
-        "glomalin-related soil protein",
-        "soil-rock interface",
-        "karst forest"
+        "ectomycorrhizal fungi"
       ],
       "paperDois": [
+        "10.1038/s41467-026-78137-0",
         "10.1093/jpe/rtag238",
+        "10.1111/1365-2435.70480",
         "10.1111/1365-2745.70446",
-        "10.1093/jpe/rtag202",
-        "10.1111/1365-2745.70459"
+        "10.1093/jpe/rtag239",
+        "10.1073/pnas.2626990123",
+        "10.1093/jpe/rtag202"
       ],
       "warnings": [
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1073/pnas.2535329123 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1073/pnas.2528067123 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1126/sciadv.aed8728 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1126/sciadv.aei3713 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成",
         "模型不可用：深读及候选空白分析未完成"
       ]
