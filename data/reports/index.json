@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T04:31:39.077Z",
+  "updatedAt": "2026-10-20T04:40:18.968Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Understory diversity is positively associated with overstory carbon sequestration 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Biodiversity soil carbon carbon sequestration moisture Biotic response networks are an important organizer of the transcriptome in wild Arabidopsis thaliana populations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Whole‐genome duplication promotes phenotypic and genetic adaptation to elevation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI decay Engineering root development with high precision 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Overwintering Strategies Drive Climate Change Impacts on Body Mass in Northern Mammals 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change",
+      "reportId": "2026-10-20",
+      "date": "2026-10-20",
+      "period": {
+        "from": "2026-09-21",
+        "to": "2026-10-20"
+      },
+      "generatedAt": "2026-10-20T04:40:18.968Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-20",
+      "path": "daily/2026-10-20.json",
+      "journals": [
+        "Proceedings of the National Academy of Sciences",
+        "New Phytologist",
+        "Global Change Biology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Biodiversity",
+        "soil carbon",
+        "carbon sequestration",
+        "moisture",
+        "Modeling and AI",
+        "decay",
+        "Climate change"
+      ],
+      "paperDois": [
+        "10.1073/pnas.2615624123",
+        "10.1073/pnas.2611539123",
+        "10.1111/nph.71572",
+        "10.1111/nph.71583",
+        "10.1111/gcb.71132"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
