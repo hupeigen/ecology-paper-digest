@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T04:40:18.968Z",
+  "updatedAt": "2026-10-21T04:33:55.486Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Contrasting CH 4 flux responses to distinct drought regimes and nitrogen enrichment in a temperate steppe 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Modeling and AI drought Carbon Accumulation in Tropical Dry Forests and Savannas Despite Widespread Land‐Cover Change, Revealed by Radar Remote Sensing 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Biodiversity Ecosystem monitoring Restoration and management carbon cycle Plants regulate the soil biodiversity–ecosystem stability relationship by mediating green‐brown food web coupling: Evidence from a removal experiment 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Biodiversity moisture Thermal Generalism Shapes Tolerance to Extreme Heatwaves in Estuarine Fishes 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Increasing exotic dominance generates soil microbial legacies that favour exotic over native plants 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Soil ecology Biodiversity",
+      "reportId": "2026-10-21",
+      "date": "2026-10-21",
+      "period": {
+        "from": "2026-09-22",
+        "to": "2026-10-21"
+      },
+      "generatedAt": "2026-10-21T04:33:55.486Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-21",
+      "path": "daily/2026-10-21.json",
+      "journals": [
+        "New Phytologist",
+        "Global Change Biology",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "drought",
+        "Carbon cycling",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "carbon cycle",
+        "moisture",
+        "Soil ecology"
+      ],
+      "paperDois": [
+        "10.1111/nph.71677",
+        "10.1111/gcb.71141",
+        "10.1111/1365-2745.70467",
+        "10.1111/gcb.71143",
+        "10.1111/1365-2745.70460"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
