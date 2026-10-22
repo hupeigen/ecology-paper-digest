@@ -1,0 +1,727 @@
+{
+  "version": 2,
+  "criteriaVersion": "ecology-topic-v1",
+  "kind": "daily",
+  "reportId": "2026-10-22",
+  "date": "2026-10-22",
+  "period": {
+    "from": "2026-09-23",
+    "to": "2026-10-22"
+  },
+  "generatedAt": "2026-10-22T04:32:27.121Z",
+  "selectionTitle": "生态学高价值论文日报 · 2026-10-22",
+  "paperCount": 5,
+  "papers": [
+    {
+      "rank": 1,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“decomposition、soil carbon、soil organic carbon、mineral-associated”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“control”；具体迁移条件待全文及设备核实。",
+        "decomposition": "题目/公开摘要匹配“mechanism、control、mediat、contrasting”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "题目/公开摘要匹配“mechanism”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "优先核验摘要与方法",
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "mainline",
+      "doi": "10.1093/jpe/rtag244",
+      "title": "Divergent responses of soil organic carbon fractions to chronic nutrient additions in alpine meadow vs. alpine steppe",
+      "authors": [
+        {
+          "name": "Xue-Ying Chen",
+          "orcid": null
+        },
+        {
+          "name": "Pei-Li Shi",
+          "orcid": null
+        },
+        {
+          "name": "Jia-Luo Yu",
+          "orcid": null
+        },
+        {
+          "name": "Ge Hou",
+          "orcid": null
+        },
+        {
+          "name": "Ning Zong",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag244",
+      "oaUrl": null,
+      "isOpenAccess": false,
+      "keywords": [
+        "Carbon cycling",
+        "decomposition",
+        "soil carbon",
+        "soil organic carbon",
+        "mineral-associated"
+      ],
+      "valueScores": {
+        "relevance": 70,
+        "transferability": 25,
+        "decomposition": 56,
+        "frontier": 10
+      },
+      "totalScore": 45,
+      "recommendationReason": "贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。",
+      "essence": {
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“control”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag244"
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“soil carbon、soil organic carbon、carbon sequestration、necromass、mineral-associated”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "未发现明确匹配信号，不据期刊名气补分。",
+        "decomposition": "题目/公开摘要匹配“mechanism、interaction、compare”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "题目/公开摘要匹配“mechanism、poorly understood”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1093/jpe/rtag245",
+      "title": "Microbial-derived carbon outweighs plant-derived carbon in soil carbon accumulation under woody intercropping in tea plantations",
+      "authors": [
+        {
+          "name": "Sheng Tang",
+          "orcid": null
+        },
+        {
+          "name": "Kang Ni",
+          "orcid": null
+        },
+        {
+          "name": "Yaqin Long",
+          "orcid": null
+        },
+        {
+          "name": "Qingxu Ma",
+          "orcid": null
+        },
+        {
+          "name": "Xiu Liu",
+          "orcid": null
+        },
+        {
+          "name": "Lifeng Ma",
+          "orcid": null
+        },
+        {
+          "name": "Yuanzhi Shi",
+          "orcid": null
+        },
+        {
+          "name": "Linbo Chen",
+          "orcid": null
+        },
+        {
+          "name": "Xiangde Yang",
+          "orcid": null
+        },
+        {
+          "name": "Jianyun Ruan",
+          "orcid": null
+        }
+      ],
+      "journal": "Journal of Plant Ecology",
+      "publishedAt": "2026-10-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1093/jpe/rtag245",
+      "oaUrl": null,
+      "isOpenAccess": false,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Modeling and AI",
+        "Multi-omics and health",
+        "soil carbon",
+        "soil organic carbon",
+        "carbon sequestration",
+        "necromass",
+        "mineral-associated"
+      ],
+      "valueScores": {
+        "relevance": 30,
+        "transferability": 0,
+        "decomposition": 42,
+        "frontier": 20
+      },
+      "totalScore": 22,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "规则未识别到明确方法信号，需阅读原文确认。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
+      },
+      "methodSignals": [
+        "multi-omics",
+        "random forest"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag245"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“forest、subtropical、drought”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“isotope、structural equation”；具体迁移条件待全文及设备核实。",
+        "decomposition": "题目/公开摘要匹配“contrasting”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "未发现明确匹配信号，不据期刊名气补分。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1111/1365-2435.70472",
+      "title": "Improved use of deep soil water promotes radial growth during drought",
+      "authors": [
+        {
+          "name": "Ziqiang Liu",
+          "orcid": "https://orcid.org/0000-0003-3560-2338"
+        },
+        {
+          "name": "Xiaodi Wang",
+          "orcid": null
+        },
+        {
+          "name": "Zhaowang Huang",
+          "orcid": null
+        },
+        {
+          "name": "Martín Hadad",
+          "orcid": null
+        },
+        {
+          "name": "Jiang Jiang",
+          "orcid": null
+        }
+      ],
+      "journal": "Functional Ecology",
+      "publishedAt": "2026-10-20",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/1365-2435.70472",
+      "oaUrl": null,
+      "isOpenAccess": false,
+      "keywords": [
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "drought"
+      ],
+      "valueScores": {
+        "relevance": 25,
+        "transferability": 30,
+        "decomposition": 14,
+        "frontier": 0
+      },
+      "totalScore": 21,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“isotope、structural equation”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
+      },
+      "methodSignals": [
+        "structural equation model"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2F1365-2435.70472"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "题目/公开摘要匹配“precipitation”；仅用于相关性排序，不能据此推断实验细节。",
+        "transferability": "题目/公开摘要匹配“measurement、sampling”；具体迁移条件待全文及设备核实。",
+        "decomposition": "未发现明确匹配信号，不据期刊名气补分。",
+        "frontier": "未发现明确匹配信号，不据期刊名气补分。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1002/ecy.70354",
+      "title": "Net ecosystem productivity of grasslands: A chamber‐based global database",
+      "authors": [
+        {
+          "name": "Jinlong Zheng",
+          "orcid": null
+        },
+        {
+          "name": "Zhiyan Peng",
+          "orcid": null
+        },
+        {
+          "name": "Yuting Liu",
+          "orcid": null
+        },
+        {
+          "name": "Qiong Cai",
+          "orcid": null
+        },
+        {
+          "name": "Wenjing Fang",
+          "orcid": null
+        },
+        {
+          "name": "Suhui Ma",
+          "orcid": "https://orcid.org/0000-0001-6557-6834"
+        },
+        {
+          "name": "Zhiming Zhang",
+          "orcid": null
+        }
+      ],
+      "journal": "Ecology",
+      "publishedAt": "2026-10-21",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1002/ecy.70354",
+      "oaUrl": null,
+      "isOpenAccess": false,
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "precipitation"
+      ],
+      "valueScores": {
+        "relevance": 15,
+        "transferability": 30,
+        "decomposition": 0,
+        "frontier": 0
+      },
+      "totalScore": 14,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“measurement、sampling”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
+      },
+      "methodSignals": [
+        "machine learning"
+      ],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1002%2Fecy.70354"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "criteriaVersion": "ecology-topic-v1",
+      "scoreReasons": {
+        "relevance": "未发现明确匹配信号，不据期刊名气补分。",
+        "transferability": "题目/公开摘要匹配“sequencing”；具体迁移条件待全文及设备核实。",
+        "decomposition": "题目/公开摘要匹配“mechanism、interaction、compare”；仅用于相关性排序，不能据此推断实验细节。",
+        "frontier": "题目/公开摘要匹配“mechanism”；仅为候选机制信号，不能证明文献空白。"
+      },
+      "evidenceLevel": "abstract",
+      "readingPriority": "机制/方法参考",
+      "feasibility": "待核实：实验周期、设备、场地和经费尚未确认",
+      "selectionTrack": "inspiration",
+      "doi": "10.1111/nph.71673",
+      "title": "PuWRKY46 drives root system architecture and enhances salt tolerance in poplar",
+      "authors": [
+        {
+          "name": "Haoqin Zhao",
+          "orcid": "https://orcid.org/0009-0003-7135-3217"
+        },
+        {
+          "name": "Shicheng Zhao",
+          "orcid": "https://orcid.org/0000-0001-8458-0660"
+        },
+        {
+          "name": "Tiantian Sun",
+          "orcid": "https://orcid.org/0009-0005-6475-3575"
+        },
+        {
+          "name": "Wenhui Zhuang",
+          "orcid": "https://orcid.org/0009-0008-7849-1862"
+        },
+        {
+          "name": "Jinhui Gao",
+          "orcid": "https://orcid.org/0000-0002-9660-7127"
+        },
+        {
+          "name": "Houliang Zhang",
+          "orcid": "https://orcid.org/0009-0000-3316-6339"
+        },
+        {
+          "name": "Jingru Ren",
+          "orcid": "https://orcid.org/0009-0006-5194-9488"
+        },
+        {
+          "name": "Qianqian Liu",
+          "orcid": "https://orcid.org/0009-0003-2089-7919"
+        },
+        {
+          "name": "Jingli Yang",
+          "orcid": "https://orcid.org/0000-0003-0922-5954"
+        }
+      ],
+      "journal": "New Phytologist",
+      "publishedAt": "2026-10-16",
+      "articleType": "research",
+      "doiUrl": "https://doi.org/10.1111/nph.71673",
+      "oaUrl": null,
+      "isOpenAccess": false,
+      "keywords": [
+        "Modeling and AI"
+      ],
+      "valueScores": {
+        "relevance": 0,
+        "transferability": 15,
+        "decomposition": 42,
+        "frontier": 10
+      },
+      "totalScore": 14,
+      "recommendationReason": "跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "essence": {
+        "problem": "公开摘要可得；当前为规则精选，具体研究问题的中文解读未完成。",
+        "design": "题目/摘要含“sequencing”方法信号；不能据此确定处理、对照、实验单位或样本量。",
+        "innovation": "前沿评分仅作机制线索提示，创新性尚未通过相关文献核验。",
+        "transferableIdeas": "先核查论文的问题、变量与对照链条；向森林干旱与分解课题迁移须单独验证场地、周期、设备和经费。",
+        "limitations": "仅有题录和公开摘要的规则解读；不推断实验细节或因果，不构成全文深读。",
+        "results": "主要结果的中文核验未完成，请阅读摘要与原文。",
+        "summaryMode": "rules",
+        "evidenceConfidence": "abstract"
+      },
+      "methodSignals": [],
+      "sources": [
+        {
+          "name": "Crossref",
+          "url": "https://api.crossref.org/works/10.1111%2Fnph.71673"
+        }
+      ]
+    }
+  ],
+  "diagnostics": {
+    "kind": "daily",
+    "target": 5,
+    "minimum": 4,
+    "selectedCount": 5,
+    "candidateCount": 305,
+    "coreCandidateCount": 17,
+    "expansionCandidateCount": 288,
+    "expansionUsed": 3,
+    "advisorCount": 0,
+    "reviewCount": 0,
+    "journalCounts": {
+      "jpe": 2,
+      "functional-ecology": 1,
+      "ecology": 1,
+      "new-phytologist": 1
+    },
+    "maxPerJournal": 2,
+    "maxReviews": 1,
+    "budget": {
+      "limit": 12,
+      "attempts": 0,
+      "abstractDois": [],
+      "deepDois": [],
+      "gaps": 0,
+      "exhausted": false
+    },
+    "llmUsed": false,
+    "sourceCandidateCount": 386,
+    "coverage": [
+      {
+        "journalId": "jpe",
+        "name": "Journal of Plant Ecology",
+        "issn": "1752-9921",
+        "pages": 1,
+        "totalResults": 17,
+        "retrievedCount": 17,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "imeta",
+        "name": "iMeta",
+        "issn": "2770-596X",
+        "pages": 1,
+        "totalResults": 11,
+        "retrievedCount": 11,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "green-carbon",
+        "name": "Green Carbon",
+        "issn": "2950-1555",
+        "pages": 1,
+        "totalResults": 1,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "pedosphere",
+        "name": "Pedosphere",
+        "issn": "1002-0160",
+        "pages": 1,
+        "totalResults": 19,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "eeh",
+        "name": "Eco-Environment & Health",
+        "issn": "2772-9850",
+        "pages": 1,
+        "totalResults": 4,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecology-letters",
+        "name": "Ecology Letters",
+        "issn": "1461-023X",
+        "pages": 1,
+        "totalResults": 12,
+        "retrievedCount": 10,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "journal-of-ecology",
+        "name": "Journal of Ecology",
+        "issn": "0022-0477",
+        "pages": 1,
+        "totalResults": 18,
+        "retrievedCount": 17,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecological-indicators",
+        "name": "Ecological Indicators",
+        "issn": "1470-160X",
+        "pages": 3,
+        "totalResults": 213,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-ecology-evolution",
+        "name": "Nature Ecology & Evolution",
+        "issn": "2397-334X",
+        "pages": 1,
+        "totalResults": 27,
+        "retrievedCount": 27,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-climate-change",
+        "name": "Nature Climate Change",
+        "issn": "1758-678X",
+        "pages": 1,
+        "totalResults": 26,
+        "retrievedCount": 26,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "global-change-biology",
+        "name": "Global Change Biology",
+        "issn": "1354-1013",
+        "pages": 1,
+        "totalResults": 39,
+        "retrievedCount": 35,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "new-phytologist",
+        "name": "New Phytologist",
+        "issn": "0028-646X",
+        "pages": 1,
+        "totalResults": 79,
+        "retrievedCount": 74,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "functional-ecology",
+        "name": "Functional Ecology",
+        "issn": "0269-8463",
+        "pages": 1,
+        "totalResults": 24,
+        "retrievedCount": 22,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "geb",
+        "name": "Global Ecology and Biogeography",
+        "issn": "1466-822X",
+        "pages": 1,
+        "totalResults": 13,
+        "retrievedCount": 11,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "soil-biology-biochemistry",
+        "name": "Soil Biology and Biochemistry",
+        "issn": "0038-0717",
+        "pages": 1,
+        "totalResults": 49,
+        "retrievedCount": 0,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "ecology",
+        "name": "Ecology",
+        "issn": "0012-9658",
+        "pages": 1,
+        "totalResults": 29,
+        "retrievedCount": 27,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature",
+        "name": "Nature",
+        "issn": "0028-0836",
+        "pages": 5,
+        "totalResults": 415,
+        "retrievedCount": 413,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "science",
+        "name": "Science",
+        "issn": "0036-8075",
+        "pages": 2,
+        "totalResults": 171,
+        "retrievedCount": 167,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-communications",
+        "name": "Nature Communications",
+        "issn": "2041-1723",
+        "pages": 5,
+        "totalResults": 829,
+        "retrievedCount": 499,
+        "complete": false,
+        "error": null
+      },
+      {
+        "journalId": "science-advances",
+        "name": "Science Advances",
+        "issn": "2375-2548",
+        "pages": 4,
+        "totalResults": 354,
+        "retrievedCount": 340,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "pnas",
+        "name": "Proceedings of the National Academy of Sciences",
+        "issn": "0027-8424",
+        "pages": 5,
+        "totalResults": 418,
+        "retrievedCount": 401,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-geoscience",
+        "name": "Nature Geoscience",
+        "issn": "1752-0894",
+        "pages": 1,
+        "totalResults": 27,
+        "retrievedCount": 27,
+        "complete": true,
+        "error": null
+      },
+      {
+        "journalId": "nature-microbiology",
+        "name": "Nature Microbiology",
+        "issn": "2058-5276",
+        "pages": 1,
+        "totalResults": 29,
+        "retrievedCount": 29,
+        "complete": true,
+        "error": null
+      }
+    ]
+  },
+  "warnings": [
+    "Nature Communications 检索达到页数上限，覆盖不完整",
+    "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+    "模型不可用：采用规则评分，摘要解读与深读未完成"
+  ],
+  "notes": [],
+  "methodology": {
+    "scoreWeights": {
+      "relevance": 0.35,
+      "transferability": 0.3,
+      "decomposition": 0.2,
+      "frontier": 0.15
+    },
+    "policy": "主线优先；根系分泌物机制参考；可行性待核实；期刊名气不加分；证据不足明确降级。"
+  }
+}

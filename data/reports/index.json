@@ -1,7 +1,59 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T04:33:55.486Z",
+  "updatedAt": "2026-10-22T04:32:27.121Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Divergent responses of soil organic carbon fractions to chronic nutrient additions in alpine meadow vs. alpine steppe 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling decomposition soil carbon soil organic carbon mineral-associated Microbial-derived carbon outweighs plant-derived carbon in soil carbon accumulation under woody intercropping in tea plantations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Modeling and AI Multi-omics and health soil carbon soil organic carbon carbon sequestration necromass mineral-associated Improved use of deep soil water promotes radial growth during drought 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring Modeling and AI drought Net ecosystem productivity of grasslands: A chamber‐based global database 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Ecosystem monitoring Modeling and AI precipitation PuWRKY46 drives root system architecture and enhances salt tolerance in poplar 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI",
+      "reportId": "2026-10-22",
+      "date": "2026-10-22",
+      "period": {
+        "from": "2026-09-23",
+        "to": "2026-10-22"
+      },
+      "generatedAt": "2026-10-22T04:32:27.121Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-22",
+      "path": "daily/2026-10-22.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Functional Ecology",
+        "Ecology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "decomposition",
+        "soil carbon",
+        "soil organic carbon",
+        "mineral-associated",
+        "Climate change",
+        "Modeling and AI",
+        "Multi-omics and health",
+        "carbon sequestration",
+        "necromass",
+        "Ecosystem monitoring",
+        "drought",
+        "precipitation"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag244",
+        "10.1093/jpe/rtag245",
+        "10.1111/1365-2435.70472",
+        "10.1002/ecy.70354",
+        "10.1111/nph.71673"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
