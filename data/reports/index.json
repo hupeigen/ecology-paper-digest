@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T04:32:27.121Z",
+  "updatedAt": "2026-10-23T04:37:44.461Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Non‐Linear Increases of Soil Carbon Stocks and Turnover Along Alpine Greening Gradients on Different Bedrocks 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change soil carbon soil organic carbon Herbivory enhances cadmium foraging in the invasive hyperaccumulating plant Phytolacca americana 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant nutrient-acquisition strategies promote primary phosphorus mineral weathering during early pedogenesis 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Restoration and management Divergent rearrangements of rhizosphere microbiomes to aboveground herbivory in Fibrous and Taproot Plants 根系分泌物/根代谢物机制参考，降低课题推荐优先级。 Plant-soil interactions Multi-omics and health Elevated CO 2 drives nonlinear trait responses and reshapes growth‐virulence trade‐offs in a plant pathogen 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "reportId": "2026-10-23",
+      "date": "2026-10-23",
+      "period": {
+        "from": "2026-09-24",
+        "to": "2026-10-23"
+      },
+      "generatedAt": "2026-10-23T04:37:44.461Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-23",
+      "path": "daily/2026-10-23.json",
+      "journals": [
+        "Global Change Biology",
+        "Functional Ecology",
+        "Journal of Plant Ecology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "soil carbon",
+        "soil organic carbon",
+        "Plant-soil interactions",
+        "Restoration and management",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1111/gcb.71158",
+        "10.1111/1365-2435.70486",
+        "10.1093/jpe/rtag247",
+        "10.1093/jpe/rtag249",
+        "10.1111/nph.71669"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
