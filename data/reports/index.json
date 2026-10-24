@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T04:37:44.461Z",
+  "updatedAt": "2026-10-24T04:26:56.423Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Nitrogen stimulation of soil carbon content differs between two types of mycorrhizal‐dominated ecosystems 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions litter soil carbon soil organic carbon Carbon sink strength and its environmental controls in ecosystems along an elevational gradient in dryland mountains 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Modeling and AI carbon cycle water limitation Microbial volatile humulene orchestrates plant–microbe alliance to establish disease‐suppressive rhizosphere 根系分泌物/根代谢物机制参考，降低课题推荐优先级。 Plant-soil interactions Multi-omics and health Monospecific cover crops perpetuate soil biotic homogenization in croplands across diverse soils 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Counteracting excessive stomatal closure under drought: mechanisms and implications for plant growth and crop productivity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought",
+      "reportId": "2026-10-24",
+      "date": "2026-10-24",
+      "period": {
+        "from": "2026-09-25",
+        "to": "2026-10-24"
+      },
+      "generatedAt": "2026-10-24T04:26:56.423Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-24",
+      "path": "daily/2026-10-24.json",
+      "journals": [
+        "Functional Ecology",
+        "Journal of Plant Ecology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "litter",
+        "soil carbon",
+        "soil organic carbon",
+        "Modeling and AI",
+        "carbon cycle",
+        "water limitation",
+        "Multi-omics and health",
+        "Biodiversity",
+        "Climate change",
+        "drought"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70470",
+        "10.1093/jpe/rtag252",
+        "10.1111/nph.71689",
+        "10.1111/1365-2435.70483",
+        "10.1093/jpe/rtag250"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
