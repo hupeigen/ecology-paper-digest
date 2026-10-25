@@ -1,7 +1,56 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T04:26:56.423Z",
+  "updatedAt": "2026-10-25T04:30:48.995Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Unravelling Biodiversity Change: A Multi‐Scale Decomposition of Changes in European Breeding Bird Diversity 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Biodiversity Restoration and management decomposition Biodegradable and Non‐Biodegradable Microplastics Drive Divergent Microbial Carbon and Nitrogen Metabolism Regimes in Soil–Plant Systems 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Soil ecology Modeling and AI Conservative Spruce Outperforms Acquisitive Larch Under Warming and CO 2 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change drying moisture Microbial community variation in rhizosphere and bulk soil of Hippophae rhamnoides across plantation ages 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Soil ecology Biodiversity Restoration and management soil carbon Frequency-dependent fitness effects are ubiquitous in rapidly adapting microbial populations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI",
+      "reportId": "2026-10-25",
+      "date": "2026-10-25",
+      "period": {
+        "from": "2026-09-26",
+        "to": "2026-10-25"
+      },
+      "generatedAt": "2026-10-25T04:30:48.995Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-25",
+      "path": "daily/2026-10-25.json",
+      "journals": [
+        "Global Ecology and Biogeography",
+        "Global Change Biology",
+        "Journal of Plant Ecology",
+        "Science Advances"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Restoration and management",
+        "decomposition",
+        "Soil ecology",
+        "Modeling and AI",
+        "Carbon cycling",
+        "Climate change",
+        "drying",
+        "moisture",
+        "soil carbon"
+      ],
+      "paperDois": [
+        "10.1111/geb.70320",
+        "10.1111/gcb.71159",
+        "10.1111/gcb.71157",
+        "10.1093/jpe/rtag257",
+        "10.1126/sciadv.aeh3295"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
