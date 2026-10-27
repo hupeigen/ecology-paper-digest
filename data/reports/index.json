@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T04:36:41.347Z",
+  "updatedAt": "2026-10-27T04:53:38.217Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Resource-driven release from lag phase triggers the world’s fastest and largest coastal plant invasion 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Drought legacies weaken resistance and plant‐mycorrhizal associations but not recovery 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions drought precipitation The Effects of Missing Taxa and Phylogenetic Imputation on Spatial Phylogenetic Studies 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Frenemies forever: when parasitic fungi become an insect's secret weapon 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Seed‐derived microbiota in the Medicago holobiont: Associations with host phylogeny and breeding‐associated traits 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Multi-omics and health drought",
+      "reportId": "2026-10-27",
+      "date": "2026-10-27",
+      "period": {
+        "from": "2026-09-28",
+        "to": "2026-10-27"
+      },
+      "generatedAt": "2026-10-27T04:53:38.217Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-27",
+      "path": "daily/2026-10-27.json",
+      "journals": [
+        "Proceedings of the National Academy of Sciences",
+        "Journal of Ecology",
+        "Global Ecology and Biogeography",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "Climate change",
+        "Plant-soil interactions",
+        "drought",
+        "precipitation",
+        "Biodiversity",
+        "Soil ecology",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1073/pnas.2622290123",
+        "10.1111/1365-2745.70469",
+        "10.1111/geb.70323",
+        "10.1111/nph.71697",
+        "10.1111/1365-2745.70468"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
