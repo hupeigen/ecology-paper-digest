@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T04:53:38.217Z",
+  "updatedAt": "2026-10-28T05:28:43.589Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Higher priming effect induced by stem than leaf and root litter 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI litter decomposition soil organic carbon Disentangling atmospheric and soil drought: a new stand‐level manipulation approach for mature forests 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought drying precipitation moisture Canopy‐scale VPD reduction in a mature forest alters stomatal response to soil drought in Pinus sylvestris L. 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought precipitation moisture Saline versus alkaline stresses in paddy soils drive divergent microbial nutrient limitations despite shared carbon constraints 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Soil ecology Modeling and AI Restoration and management Enemy release in salt marshes: How herbivorous crabs help an invasive grass to outcompete the native reed 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "reportId": "2026-10-28",
+      "date": "2026-10-28",
+      "period": {
+        "from": "2026-09-29",
+        "to": "2026-10-28"
+      },
+      "generatedAt": "2026-10-28T05:28:43.589Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-28",
+      "path": "daily/2026-10-28.json",
+      "journals": [
+        "Functional Ecology",
+        "New Phytologist",
+        "Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "litter",
+        "decomposition",
+        "soil organic carbon",
+        "Climate change",
+        "drought",
+        "drying",
+        "precipitation",
+        "moisture",
+        "Soil ecology",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70491",
+        "10.1111/nph.71661",
+        "10.1111/nph.71640",
+        "10.1111/1365-2435.70488",
+        "10.1002/ecy.70580"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
