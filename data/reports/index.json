@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T05:37:28.431Z",
+  "updatedAt": "2026-10-30T05:36:22.222Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Tree and neighborhood damage have distinct effects on delayed mortality after a severe hurricane 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Biodiversity Modeling and AI carbon sequestration Regeneration beyond the treeline: Seed and seedling performance of the Himalayan birch tree under climate warming 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring Modeling and AI Light‐induced phyB ‐ NPR1 interaction activates systemic acquired resistance 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biotic and abiotic factors directly and indirectly shape mixed‐species group structure across a rainfall gradient 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation Temperature–precipitation synchrony: A critical perspective on ecosystem productivity under climate change 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring Modeling and AI drought precipitation moisture",
+      "reportId": "2026-10-30",
+      "date": "2026-10-30",
+      "period": {
+        "from": "2026-10-01",
+        "to": "2026-10-30"
+      },
+      "generatedAt": "2026-10-30T05:36:22.222Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-10-30",
+      "path": "daily/2026-10-30.json",
+      "journals": [
+        "New Phytologist",
+        "Journal of Ecology",
+        "Ecology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "Modeling and AI",
+        "carbon sequestration",
+        "Ecosystem monitoring",
+        "precipitation",
+        "drought",
+        "moisture"
+      ],
+      "paperDois": [
+        "10.1111/nph.71621",
+        "10.1111/1365-2745.70466",
+        "10.1111/nph.71623",
+        "10.1002/ecy.70578",
+        "10.1093/jpe/rtag256"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
