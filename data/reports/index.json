@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T05:26:32.735Z",
+  "updatedAt": "2026-11-01T05:52:14.972Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Embryonal degreening and seed longevity require plastid LEA proteins 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI drying Immense but not immutable: A sudden and sustained decline in deep-pelagic life in a large oceanic ecosystem 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 carbon cycling Dormancy type, seed traits, and species identity shape seed‐associated fungal community composition in tropical pioneer trees 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Drought and soil macrofauna functional diversity effects on Mediterranean tree growth in an Ecotron ecosystem experiment 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity drought Global grassland productivity and carbon storage benefit from functional diversity under climate change 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Biodiversity Ecosystem monitoring Modeling and AI Restoration and management soil organic carbon",
+      "reportId": "2026-11-01",
+      "date": "2026-11-01",
+      "period": {
+        "from": "2026-10-03",
+        "to": "2026-11-01"
+      },
+      "generatedAt": "2026-11-01T05:51:53.230Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-01",
+      "path": "daily/2026-11-01.json",
+      "journals": [
+        "New Phytologist",
+        "Proceedings of the National Academy of Sciences",
+        "Functional Ecology"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "drying",
+        "carbon cycling",
+        "Climate change",
+        "Biodiversity",
+        "drought",
+        "Carbon cycling",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "soil organic carbon"
+      ],
+      "paperDois": [
+        "10.1111/nph.71670",
+        "10.1073/pnas.2616554123",
+        "10.1111/nph.71601",
+        "10.1111/1365-2435.70469",
+        "10.1073/pnas.2528067123"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh3295 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6350 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
@@ -2216,69 +2266,68 @@
   "monthly": [
     {
       "kind": "monthly",
-      "status": "provisional",
+      "status": "archived",
       "criteriaVersion": "ecology-topic-v1",
-      "searchText": "Divergent responses of soil organic carbon fractions to chronic nutrient additions in alpine meadow vs. alpine steppe 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling decomposition soil carbon soil organic carbon mineral-associated soil organic carbon fractions nitrogen addition phosphorus addition Soil proteogenomics uncover microbial strategies for soil depth-specific carbon cycling under whole-soil warming conditions 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Soil ecology Modeling and AI decomposition soil carbon soil warming subsoil carbon cycling Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Plant invasion in mountain ecosystems reduces soil micro‐food web complexity at higher elevations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Soil ecology Modeling and AI Restoration and management soil carbon moisture plant invasion Ageratina adenophora Unravelling Biodiversity Change: A Multi‐Scale Decomposition of Changes in European Breeding Bird Diversity 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Biodiversity Restoration and management decomposition Avian ecology and behavior Ecology and Vegetation Dynamics Studies Species Distribution and Climate Change Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI decay soil carbon ectomycorrhizal fungi tree growth nitrogen limitation Nitrogen stimulation of soil carbon content differs between two types of mycorrhizal‐dominated ecosystems 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions litter soil carbon soil organic carbon nitrogen deposition ectomycorrhizal plants litter input Shrub expansion increases particulate organic carbon accumulation through reduced shoot litter decomposition rates 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology litter decomposition soil organic carbon mineral-associated shrub expansion shrubification Understory diversity is positively associated with overstory carbon sequestration 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Biodiversity soil carbon carbon sequestration moisture understory vegetation species diversity soil carbon accumulation Nitrogen deposition does not alter the temperate forest soil carbon pool: A 14-y experiment on varied nitrogen fertilization 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling soil carbon mineral-associated nitrogen deposition soil carbon pools nitrogen fertilization organic nitrogen inorganic nitrogen",
+      "searchText": "Decomposition and mycorrhizal suppression of saprotrophs remain stable after wildfire and clearcut disturbance in boreal forests 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Plant-soil interactions Soil ecology Restoration and management litter decomposition soil carbon moisture Higher priming effect induced by stem than leaf and root litter 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI litter decomposition soil organic carbon priming effect soil organic carbon decomposition Divergent responses of soil organic carbon fractions to chronic nutrient additions in alpine meadow vs. alpine steppe 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling decomposition soil carbon soil organic carbon mineral-associated soil organic carbon fractions nitrogen addition phosphorus addition Soil viral and microbial interactions are linked to microbial necromass carbon accumulation in a semi-arid typical steppe under altered precipitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Soil ecology Modeling and AI soil carbon soil organic carbon carbon sequestration necromass carbon cycling precipitation moisture Increasing susceptibility to priming of soil N mineralisation across a subarctic tundra‐forest ecotone under N fertilisation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Climate change Plant-soil interactions Soil ecology decomposition soil organic matter soil nitrogen mineralization nitrogen fertilization phosphorus fertilization Unravelling Biodiversity Change: A Multi‐Scale Decomposition of Changes in European Breeding Bird Diversity 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Biodiversity Restoration and management decomposition species richness trends community structure species abundance distribution bird density homogenization Ectomycorrhizal communities underlie trade‐offs between greater long‐term tree growth and reduced soil carbon concentrations in boreal forests 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI decay soil carbon ectomycorrhizal fungi tree growth nitrogen limitation Divergent Spatial Climate Associations of the Microbial Nitrogen Pump Across a Subtropical Cropland‐Forest Transect 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Soil ecology Modeling and AI necromass soil organic matter precipitation land use forest soils Nitrogen stimulation of soil carbon content differs between two types of mycorrhizal‐dominated ecosystems 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions litter soil carbon soil organic carbon nitrogen deposition ectomycorrhizal plants litter input Contrasting CH 4 flux responses to distinct drought regimes and nitrogen enrichment in a temperate steppe 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Modeling and AI drought methane uptake methane sinks nitrogen addition temperate steppe",
       "reportId": "2026-10",
-      "date": "2026-10-26",
+      "date": "2026-11-01",
       "period": {
         "from": "2026-10-01",
-        "to": "2026-10-26"
+        "to": "2026-10-31"
       },
-      "generatedAt": "2026-10-26T04:36:41.347Z",
+      "generatedAt": "2026-11-01T05:52:14.972Z",
       "paperCount": 10,
       "title": "生态论文雷达月度精选 · 2026-10",
       "path": "monthly/2026-10.json",
       "journals": [
-        "Journal of Plant Ecology",
-        "Nature Communications",
+        "New Phytologist",
         "Functional Ecology",
+        "Journal of Plant Ecology",
         "Global Ecology and Biogeography",
         "Journal of Ecology",
-        "Proceedings of the National Academy of Sciences"
+        "Global Change Biology"
       ],
       "keywords": [
         "Carbon cycling",
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Restoration and management",
+        "litter",
         "decomposition",
         "soil carbon",
+        "moisture",
+        "Modeling and AI",
         "soil organic carbon",
+        "priming effect",
+        "soil organic carbon decomposition",
         "mineral-associated",
         "soil organic carbon fractions",
         "nitrogen addition",
         "phosphorus addition",
         "Climate change",
-        "Soil ecology",
-        "Modeling and AI",
-        "soil warming",
-        "subsoil",
-        "carbon cycling",
         "carbon sequestration",
         "necromass",
-        "precipitation",
-        "moisture",
-        "Restoration and management",
-        "plant invasion"
+        "carbon cycling"
       ],
       "paperDois": [
+        "10.1111/nph.71694",
+        "10.1111/1365-2435.70491",
         "10.1093/jpe/rtag244",
-        "10.1038/s41467-026-78137-0",
         "10.1093/jpe/rtag238",
-        "10.1111/1365-2435.70480",
+        "10.1111/1365-2435.70492",
         "10.1111/geb.70320",
         "10.1111/1365-2745.70446",
+        "10.1111/gcb.71160",
         "10.1111/1365-2435.70470",
-        "10.1093/jpe/rtag239",
-        "10.1073/pnas.2615624123",
-        "10.1073/pnas.2626990123"
+        "10.1111/nph.71677"
       ],
       "warnings": [
         "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1073/pnas.2618715123 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1073/pnas.2616616123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1126/sciadv.aeh3295 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成",
         "模型不可用：深读及候选空白分析未完成"
       ]
