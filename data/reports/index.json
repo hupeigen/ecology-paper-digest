@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T05:52:14.972Z",
+  "updatedAt": "2026-11-02T05:57:46.716Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Aridity reshapes leaf and root trait dispersion through distinct microbial pathways 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Biodiversity Modeling and AI drought Jasmonate biosynthesis regulates key events in barley vegetative and reproductive development 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Local adaptation to host plants in herbivorous insects: A meta‐analysis 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Action features dominate cortical representation during natural vision 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Rethinking post-drought hydraulic recovery: from consensus to controversy and mechanistic insights into embolism refilling 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Modeling and AI drought",
+      "reportId": "2026-11-02",
+      "date": "2026-11-02",
+      "period": {
+        "from": "2026-10-04",
+        "to": "2026-11-02"
+      },
+      "generatedAt": "2026-11-02T05:54:27.176Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-02",
+      "path": "daily/2026-11-02.json",
+      "journals": [
+        "New Phytologist",
+        "Functional Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Modeling and AI",
+        "drought"
+      ],
+      "paperDois": [
+        "10.1111/nph.71720",
+        "10.1111/nph.71566",
+        "10.1111/1365-2435.70481",
+        "10.1073/pnas.2625018123",
+        "10.1093/jpe/rtag254"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh3295 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6350 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
@@ -1909,6 +1955,69 @@
     {
       "kind": "weekly",
       "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Decomposition and mycorrhizal suppression of saprotrophs remain stable after wildfire and clearcut disturbance in boreal forests 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Plant-soil interactions Soil ecology Restoration and management litter decomposition soil carbon moisture Higher priming effect induced by stem than leaf and root litter 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI litter decomposition soil organic carbon priming effect soil organic carbon decomposition Increasing susceptibility to priming of soil N mineralisation across a subarctic tundra‐forest ecotone under N fertilisation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Climate change Plant-soil interactions Soil ecology decomposition soil organic matter soil nitrogen mineralization nitrogen fertilization phosphorus fertilization Elevated CO 2 mitigated warming-enhanced carbon loss from northern peatland 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Modeling and AI decomposition soil carbon northern peatlands elevated CO2 global warming Isotopic evidence of dissolved organic nitrogen production and consumption in ocean surface waters 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 decomposition dissolved organic nitrogen nitrogen isotopes 15N/14N ratio nitrogen cycling nitrate consumption nitrogen fixation subtropical gyre Disentangling atmospheric and soil drought: a new stand‐level manipulation approach for mature forests 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought drying precipitation moisture atmospheric drought soil drought Tree and neighborhood damage have distinct effects on delayed mortality after a severe hurricane 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Biodiversity Modeling and AI carbon sequestration Hurricane Maria neighborhood effects crown loss Vegetation increasingly controlled by atmospheric dryness rather than soil moisture 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI carbon cycling moisture vegetation dynamics atmospheric dryness soil moisture climate change impacts on vegetation",
+      "reportId": "2026-W44",
+      "date": "2026-11-02",
+      "period": {
+        "from": "2026-10-26",
+        "to": "2026-11-01"
+      },
+      "generatedAt": "2026-11-02T05:56:32.692Z",
+      "paperCount": 8,
+      "title": "生态学高价值论文周报 · 2026-10-26 至 2026-11-01",
+      "path": "weekly/2026-W44.json",
+      "journals": [
+        "New Phytologist",
+        "Functional Ecology",
+        "Science Advances",
+        "Proceedings of the National Academy of Sciences",
+        "Nature Geoscience"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Restoration and management",
+        "litter",
+        "decomposition",
+        "soil carbon",
+        "moisture",
+        "Modeling and AI",
+        "soil organic carbon",
+        "priming effect",
+        "soil organic carbon decomposition",
+        "Climate change",
+        "soil organic matter",
+        "soil nitrogen mineralization",
+        "nitrogen fertilization",
+        "phosphorus fertilization",
+        "northern peatlands",
+        "elevated CO2",
+        "global warming"
+      ],
+      "paperDois": [
+        "10.1111/nph.71694",
+        "10.1111/1365-2435.70491",
+        "10.1111/1365-2435.70492",
+        "10.1126/sciadv.aek1491",
+        "10.1073/pnas.2530315123",
+        "10.1111/nph.71661",
+        "10.1111/nph.71621",
+        "10.1038/s41561-026-02107-w"
+      ],
+      "warnings": [
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6350 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aei1959 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615743123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.aef3063 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
+    {
+      "kind": "weekly",
+      "criteriaVersion": "ecology-topic-v1",
       "searchText": "Divergent responses of soil organic carbon fractions to chronic nutrient additions in alpine meadow vs. alpine steppe 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling decomposition soil carbon soil organic carbon mineral-associated soil organic carbon fractions nitrogen addition phosphorus addition Nitrogen stimulation of soil carbon content differs between two types of mycorrhizal‐dominated ecosystems 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions litter soil carbon soil organic carbon nitrogen deposition ectomycorrhizal plants litter input Contrasting CH 4 flux responses to distinct drought regimes and nitrogen enrichment in a temperate steppe 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Modeling and AI drought methane uptake methane sinks nitrogen addition temperate steppe Understory diversity is positively associated with overstory carbon sequestration 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Biodiversity soil carbon carbon sequestration moisture understory vegetation species diversity soil carbon accumulation Carbon sink strength and its environmental controls in ecosystems along an elevational gradient in dryland mountains 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Modeling and AI carbon cycle water limitation carbon sink strength elevation gradient net ecosystem production gross primary productivity Microbial volatile humulene orchestrates plant–microbe alliance to establish disease‐suppressive rhizosphere 根系分泌物/根代谢物机制参考，降低课题推荐优先级。 Plant-soil interactions Multi-omics and health humulene microbial volatile organic compounds plant-microbe interactions disease suppression rhizosphere plant defense Microbial-derived carbon outweighs plant-derived carbon in soil carbon accumulation under woody intercropping in tea plantations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Modeling and AI Multi-omics and health soil carbon soil organic carbon carbon sequestration necromass mineral-associated Improved use of deep soil water promotes radial growth during drought 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring Modeling and AI drought drought adaptation deep soil water radial growth tree water uptake",
       "reportId": "2026-W43",
       "date": "2026-10-26",
@@ -2264,6 +2373,40 @@
     }
   ],
   "monthly": [
+    {
+      "kind": "monthly",
+      "status": "provisional",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Aridity reshapes leaf and root trait dispersion through distinct microbial pathways 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Biodiversity Modeling and AI drought",
+      "reportId": "2026-11",
+      "date": "2026-11-02",
+      "period": {
+        "from": "2026-11-01",
+        "to": "2026-11-02"
+      },
+      "generatedAt": "2026-11-02T05:57:46.716Z",
+      "paperCount": 1,
+      "title": "生态论文雷达月度精选 · 2026-11",
+      "path": "monthly/2026-11.json",
+      "journals": [
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Climate change",
+        "Plant-soil interactions",
+        "Biodiversity",
+        "Modeling and AI",
+        "drought"
+      ],
+      "paperDois": [
+        "10.1111/nph.71720"
+      ],
+      "warnings": [
+        "公开摘要页 10.1111/nph.71723 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成",
+        "模型不可用：深读及候选空白分析未完成"
+      ]
+    },
     {
       "kind": "monthly",
       "status": "archived",
