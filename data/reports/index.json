@@ -1,7 +1,62 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T05:57:46.716Z",
+  "updatedAt": "2026-11-03T06:36:24.228Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Herbivore versus detritivore effect on decomposition through leaf conversion into faeces 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 litter decomposition soil organic matter Plant‐ and Microbial‐Derived Soil Organic Carbon: Global Patterns and Divergent Climatic Associations 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Ecosystem monitoring Modeling and AI soil organic carbon necromass Water amount, rather than watering frequency, structures root‐associated microbial communities and their links to plant performance 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Multi-omics and health drought precipitation Differential Patterns in β‐Diversity Among Plants, Soil Fungi and Insects Across Two Subarctic Landscapes 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity decay Rice bZIP11 acts as a transcriptional repressor that negatively regulates photosynthesis in response to nitrogen deficiency 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "reportId": "2026-11-03",
+      "date": "2026-11-03",
+      "period": {
+        "from": "2026-10-05",
+        "to": "2026-11-03"
+      },
+      "generatedAt": "2026-11-03T06:36:24.228Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-03",
+      "path": "daily/2026-11-03.json",
+      "journals": [
+        "Functional Ecology",
+        "Global Change Biology",
+        "Global Ecology and Biogeography",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "litter",
+        "decomposition",
+        "soil organic matter",
+        "Carbon cycling",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "soil organic carbon",
+        "necromass",
+        "Climate change",
+        "Multi-omics and health",
+        "drought",
+        "precipitation",
+        "Biodiversity",
+        "decay"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70478",
+        "10.1111/gcb.71174",
+        "10.1111/1365-2435.70484",
+        "10.1111/geb.70325",
+        "10.1111/nph.71701"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh3295 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6350 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
