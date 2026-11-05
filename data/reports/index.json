@@ -1,7 +1,57 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T06:04:17.038Z",
+  "updatedAt": "2026-11-05T06:32:45.383Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Duality of root‐dominated net soil organic carbon gain and mycelium‐mediated carbon loss in hyper‐arid afforestation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management soil organic carbon mineral-associated Weapon regeneration can promote unreliable signalling when reduced strength goes undetected 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Ecosystem monitoring Embracing the Heterogeneity Within Particulate and Mineral‐Associated Organic Matter for the Next Generation of Soil Carbon Questions 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling soil carbon mineral-associated soil organic matter OsERF27 ‐ OsPLT4 regulatory module and ROS equilibrium control temporospatial rice crown root patterning 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Resolving the Multiple Controls of Biomass Production Efficiency in Woody Plants 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Modeling and AI",
+      "reportId": "2026-11-05",
+      "date": "2026-11-05",
+      "period": {
+        "from": "2026-10-07",
+        "to": "2026-11-05"
+      },
+      "generatedAt": "2026-11-05T06:32:45.383Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-05",
+      "path": "daily/2026-11-05.json",
+      "journals": [
+        "New Phytologist",
+        "Functional Ecology",
+        "Global Change Biology"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Climate change",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "soil organic carbon",
+        "mineral-associated",
+        "soil carbon",
+        "soil organic matter",
+        "Plant-soil interactions",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1111/nph.71737",
+        "10.1111/1365-2435.70475",
+        "10.1111/gcb.71191",
+        "10.1111/nph.71721",
+        "10.1111/gcb.71173"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh3295 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6350 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
