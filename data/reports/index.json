@@ -1,7 +1,60 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T06:32:45.383Z",
+  "updatedAt": "2026-11-06T06:28:22.940Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Echoes of the Anthropocene: Noise pollution as a global threat 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Restoration and management Divergent regulation of floral pigments by essential and non-essential metals shapes linked biogeographic patterns 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Stony coral symbioses show variable responses to future ocean conditions 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Multi-omics and health Scleractinia coral-algal symbiosis future ocean conditions heat stress dysbiosis symbiont diversity host-microbiome interactions Thermal acclimation as an emergent property of economically optimal photosynthesis 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Submesoscale feedback suppresses marine heatwaves 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI decay",
+      "reportId": "2026-11-06",
+      "date": "2026-11-06",
+      "period": {
+        "from": "2026-10-08",
+        "to": "2026-11-06"
+      },
+      "generatedAt": "2026-11-06T06:28:22.940Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-06",
+      "path": "daily/2026-11-06.json",
+      "journals": [
+        "Science",
+        "Journal of Plant Ecology",
+        "Science Advances",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Restoration and management",
+        "Multi-omics and health",
+        "Scleractinia",
+        "coral-algal symbiosis",
+        "future ocean conditions",
+        "heat stress",
+        "dysbiosis",
+        "symbiont diversity",
+        "host-microbiome interactions",
+        "Modeling and AI",
+        "Climate change",
+        "decay"
+      ],
+      "paperDois": [
+        "10.1126/science.adu9593",
+        "10.1093/jpe/rtag266",
+        "10.1126/sciadv.aed4599",
+        "10.1111/nph.71714",
+        "10.1126/sciadv.aei4624"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
