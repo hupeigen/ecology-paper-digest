@@ -1,7 +1,65 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T06:28:22.940Z",
+  "updatedAt": "2026-11-07T05:50:03.591Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Bison grazing and prairie fire shape soil microbial community diversity and assembly 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Biodiversity Multi-omics and health precipitation Dual Constraints of Microbial Carbon Use Efficiency and Mineral Protection Govern Necromass Accrual 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Restoration and management soil organic carbon necromass The impacts of large wild grazers on soil carbon persistence are strongly modulated by the environmental context 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Ecosystem monitoring Restoration and management soil carbon soil organic carbon carbon sequestration mineral-associated carbon cycling Virus transmission required for maintenance and host adaptation mirrors neurophysiological differences in rabies-derived peptides 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Drought and disease trigger novel interactions among top predators 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought",
+      "reportId": "2026-11-07",
+      "date": "2026-11-07",
+      "period": {
+        "from": "2026-10-09",
+        "to": "2026-11-07"
+      },
+      "generatedAt": "2026-11-07T05:50:03.591Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-07",
+      "path": "daily/2026-11-07.json",
+      "journals": [
+        "Ecology",
+        "Global Change Biology",
+        "Functional Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "Nature"
+      ],
+      "keywords": [
+        "Climate change",
+        "Soil ecology",
+        "Biodiversity",
+        "Multi-omics and health",
+        "precipitation",
+        "Carbon cycling",
+        "Restoration and management",
+        "soil organic carbon",
+        "necromass",
+        "Ecosystem monitoring",
+        "soil carbon",
+        "carbon sequestration",
+        "mineral-associated",
+        "carbon cycling",
+        "Modeling and AI",
+        "drought"
+      ],
+      "paperDois": [
+        "10.1002/ecy.70558",
+        "10.1111/gcb.71162",
+        "10.1111/1365-2435.70485",
+        "10.1073/pnas.2618744123",
+        "10.1038/s41586-026-11194-z"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
