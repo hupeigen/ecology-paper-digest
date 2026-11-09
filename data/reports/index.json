@@ -1,7 +1,52 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T05:53:31.426Z",
+  "updatedAt": "2026-11-09T06:08:29.374Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "PGCopilot: an AI ‐assisted research agent for plant functional genomics 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI MicroRNA 160 controls the auxin response factor–class III peroxidase module and couples salicylic acid and redox signaling networks in the potato hypersensitive response to potato virus Y 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Field experiments predict ecological response to a large-scale epidemic of an anti-keystone pathogen 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity The effect of prenatal environment on brain mitochondrial function and prey detection in a lizard 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Compounding Human and Bioclimatic Factors Driving the Global Fire Crisis 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Restoration and management",
+      "reportId": "2026-11-09",
+      "date": "2026-11-09",
+      "period": {
+        "from": "2026-10-11",
+        "to": "2026-11-09"
+      },
+      "generatedAt": "2026-11-09T06:07:34.564Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-09",
+      "path": "daily/2026-11-09.json",
+      "journals": [
+        "New Phytologist",
+        "Proceedings of the National Academy of Sciences",
+        "Functional Ecology",
+        "Global Change Biology"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "Biodiversity",
+        "Climate change",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1111/nph.71738",
+        "10.1111/nph.71646",
+        "10.1073/pnas.2529492123",
+        "10.1111/1365-2435.70473",
+        "10.1111/gcb.71189"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
@@ -2267,6 +2312,70 @@
     {
       "kind": "weekly",
       "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Herbivore versus detritivore effect on decomposition through leaf conversion into faeces 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 litter decomposition soil organic matter leaf litter decomposition leaf senescence green leaves caterpillars millipedes Duality of root‐dominated net soil organic carbon gain and mycelium‐mediated carbon loss in hyper‐arid afforestation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management soil organic carbon mineral-associated root-derived carbon dryland afforestation Weapon regeneration can promote unreliable signalling when reduced strength goes undetected 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Ecosystem monitoring signal reliability Cherax destructor crayfish chela escalation signal detection physical growth Echoes of the Anthropocene: Noise pollution as a global threat 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Restoration and management anthropogenic noise noise pollution Anthropocene physiological effects of noise predator-prey interactions selection pressure ecosystem dynamics Water amount, rather than watering frequency, structures root‐associated microbial communities and their links to plant performance 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Multi-omics and health drought precipitation irrigation frequency root-associated microbiome rhizosphere microbiome plant performance Higher intensity, lower frequency precipitation more effectively alleviates the negative impacts of nitrogen addition on ecosystem stability in a temperate grassland 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity precipitation moisture nitrogen addition precipitation intensity precipitation regime ecosystem stability PGCopilot: an AI ‐assisted research agent for plant functional genomics 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Divergent regulation of floral pigments by essential and non-essential metals shapes linked biogeographic patterns 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 flower pigments carotenoids anthocyanins iron copper titanium metal availability Stellera chamaejasme",
+      "reportId": "2026-W45",
+      "date": "2026-11-09",
+      "period": {
+        "from": "2026-11-02",
+        "to": "2026-11-08"
+      },
+      "generatedAt": "2026-11-09T06:08:02.208Z",
+      "paperCount": 8,
+      "title": "生态学高价值论文周报 · 2026-11-02 至 2026-11-08",
+      "path": "weekly/2026-W45.json",
+      "journals": [
+        "Functional Ecology",
+        "New Phytologist",
+        "Science",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "litter",
+        "decomposition",
+        "soil organic matter",
+        "leaf litter decomposition",
+        "leaf senescence",
+        "green leaves",
+        "caterpillars",
+        "millipedes",
+        "Carbon cycling",
+        "Climate change",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "soil organic carbon",
+        "mineral-associated",
+        "root-derived carbon",
+        "dryland afforestation",
+        "signal reliability",
+        "Cherax destructor",
+        "crayfish",
+        "chela"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70478",
+        "10.1111/nph.71737",
+        "10.1111/1365-2435.70475",
+        "10.1126/science.adu9593",
+        "10.1111/1365-2435.70484",
+        "10.1093/jpe/rtag269",
+        "10.1111/nph.71738",
+        "10.1093/jpe/rtag266"
+      ],
+      "warnings": [
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622400123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626713123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh9111 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2623623123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aef6060 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh3280 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
+    {
+      "kind": "weekly",
+      "criteriaVersion": "ecology-topic-v1",
       "searchText": "Decomposition and mycorrhizal suppression of saprotrophs remain stable after wildfire and clearcut disturbance in boreal forests 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Carbon cycling Plant-soil interactions Soil ecology Restoration and management litter decomposition soil carbon moisture Higher priming effect induced by stem than leaf and root litter 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI litter decomposition soil organic carbon priming effect soil organic carbon decomposition Increasing susceptibility to priming of soil N mineralisation across a subarctic tundra‐forest ecotone under N fertilisation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Climate change Plant-soil interactions Soil ecology decomposition soil organic matter soil nitrogen mineralization nitrogen fertilization phosphorus fertilization Elevated CO 2 mitigated warming-enhanced carbon loss from northern peatland 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Modeling and AI decomposition soil carbon northern peatlands elevated CO2 global warming Isotopic evidence of dissolved organic nitrogen production and consumption in ocean surface waters 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 decomposition dissolved organic nitrogen nitrogen isotopes 15N/14N ratio nitrogen cycling nitrate consumption nitrogen fixation subtropical gyre Disentangling atmospheric and soil drought: a new stand‐level manipulation approach for mature forests 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought drying precipitation moisture atmospheric drought soil drought Tree and neighborhood damage have distinct effects on delayed mortality after a severe hurricane 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Biodiversity Modeling and AI carbon sequestration Hurricane Maria neighborhood effects crown loss Vegetation increasingly controlled by atmospheric dryness rather than soil moisture 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI carbon cycling moisture vegetation dynamics atmospheric dryness soil moisture climate change impacts on vegetation",
       "reportId": "2026-W44",
       "date": "2026-11-02",
@@ -2689,32 +2798,59 @@
       "kind": "monthly",
       "status": "provisional",
       "criteriaVersion": "ecology-topic-v1",
-      "searchText": "Aridity reshapes leaf and root trait dispersion through distinct microbial pathways 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Biodiversity Modeling and AI drought",
+      "searchText": "Herbivore versus detritivore effect on decomposition through leaf conversion into faeces 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 litter decomposition soil organic matter leaf litter decomposition leaf senescence green leaves caterpillars millipedes Plant‐ and Microbial‐Derived Soil Organic Carbon: Global Patterns and Divergent Climatic Associations 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Ecosystem monitoring Modeling and AI soil organic carbon necromass microbial necromass carbon plant-derived carbon carbon pools Divergent Patterns of Interactions Between Dissolved Organic Matter and Microbial Communities in Mangroves and Salt Marshes 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology decay soil organic carbon dissolved organic matter microbial communities mangroves salt marshes Duality of root‐dominated net soil organic carbon gain and mycelium‐mediated carbon loss in hyper‐arid afforestation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management soil organic carbon mineral-associated root-derived carbon dryland afforestation Microbial Life‐History Strategies Shape Biocrusts Soil Multifunctionality Responses to Multi‐Year Snow‐Cover Change 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Soil ecology Modeling and AI Biocrusts and Microbial Ecology Lichen and fungal ecology Microbial Community Ecology and Physiology Bison grazing and prairie fire shape soil microbial community diversity and assembly 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Biodiversity Multi-omics and health precipitation bison grazing prairie fires soil microbial communities",
       "reportId": "2026-11",
-      "date": "2026-11-02",
+      "date": "2026-11-09",
       "period": {
         "from": "2026-11-01",
-        "to": "2026-11-02"
+        "to": "2026-11-09"
       },
-      "generatedAt": "2026-11-02T05:57:46.716Z",
-      "paperCount": 1,
+      "generatedAt": "2026-11-09T06:08:29.374Z",
+      "paperCount": 6,
       "title": "生态论文雷达月度精选 · 2026-11",
       "path": "monthly/2026-11.json",
       "journals": [
-        "New Phytologist"
+        "Functional Ecology",
+        "Global Change Biology",
+        "New Phytologist",
+        "Ecology"
       ],
       "keywords": [
-        "Climate change",
-        "Plant-soil interactions",
-        "Biodiversity",
+        "litter",
+        "decomposition",
+        "soil organic matter",
+        "leaf litter decomposition",
+        "leaf senescence",
+        "green leaves",
+        "caterpillars",
+        "millipedes",
+        "Carbon cycling",
+        "Ecosystem monitoring",
         "Modeling and AI",
-        "drought"
+        "soil organic carbon",
+        "necromass",
+        "microbial necromass carbon",
+        "plant-derived carbon",
+        "carbon pools",
+        "Soil ecology",
+        "decay",
+        "dissolved organic matter",
+        "microbial communities"
       ],
       "paperDois": [
-        "10.1111/nph.71720"
+        "10.1111/1365-2435.70478",
+        "10.1111/gcb.71174",
+        "10.1111/gcb.71190",
+        "10.1111/nph.71737",
+        "10.1111/gcb.71194",
+        "10.1002/ecy.70558"
       ],
       "warnings": [
-        "公开摘要页 10.1111/nph.71723 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622400123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626713123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeh9111 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成",
         "模型不可用：深读及候选空白分析未完成"
       ]
