@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T07:12:34.113Z",
+  "updatedAt": "2026-11-11T05:59:50.372Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Ambient climate exceeds the effects of warming and precipitation treatment on leaf senescence phenology of community in an alpine meadow 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation Global biodiversity models exhibit low predictive accuracy on local scales 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Ecosystem monitoring Modeling and AI Restoration and management The evolutionary history of brackish specialization from marine ancestry in the seagrass Ruppia sinensis 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Restoration and management PhYAB4 directly activates PhAGL6‐2 to regulate lip‐related organ curvature morphology in Paphiopedilum henryanum 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant–hummingbird interactions, floral abundance, and floral traits for three altitudinal gradients in the Americas 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Restoration and management",
+      "reportId": "2026-11-11",
+      "date": "2026-11-11",
+      "period": {
+        "from": "2026-10-13",
+        "to": "2026-11-11"
+      },
+      "generatedAt": "2026-11-11T05:59:50.372Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-11",
+      "path": "daily/2026-11-11.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Nature Ecology & Evolution",
+        "New Phytologist",
+        "Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "precipitation",
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Restoration and management"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag262",
+        "10.1038/s41559-026-03205-z",
+        "10.1111/nph.71740",
+        "10.1111/nph.71706",
+        "10.1002/ecy.70511"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
