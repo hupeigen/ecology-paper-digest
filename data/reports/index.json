@@ -1,7 +1,58 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T05:59:50.372Z",
+  "updatedAt": "2026-11-12T07:01:15.948Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Three‐Phase Mobilization of Organic Phosphorus Sustains Phosphorus Bioavailability Under Long‐Term Nitrogen Addition in a Subtropical Plantation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Modeling and AI decomposition Mineral‐Associated Carbon Accrual Masks Labile Particulate Carbon Loss in Permafrost Region on the Tibetan Plateau 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Modeling and AI decomposition soil organic carbon mineral-associated Divergent growth-climate responses of living and dying Picea crassifolia trees in the western Qilian Mountains: early-warning signals for tree mortality 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Restoration and management drought precipitation Progressive shifts in soil respiration response to long-term nitrogen enrichment across global forests and grasslands 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Soil ecology Modeling and AI Plant diversity–mediated variation in root exudates regulates anaerobic nitrogen transformations in soil 根系分泌物/根代谢物机制参考，降低课题推荐优先级。 Plant-soil interactions",
+      "reportId": "2026-11-12",
+      "date": "2026-11-12",
+      "period": {
+        "from": "2026-10-14",
+        "to": "2026-11-12"
+      },
+      "generatedAt": "2026-11-12T07:01:15.948Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-12",
+      "path": "daily/2026-11-12.json",
+      "journals": [
+        "Global Change Biology",
+        "Journal of Plant Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "Journal of Ecology"
+      ],
+      "keywords": [
+        "Modeling and AI",
+        "decomposition",
+        "Carbon cycling",
+        "Climate change",
+        "soil organic carbon",
+        "mineral-associated",
+        "Restoration and management",
+        "drought",
+        "precipitation",
+        "Soil ecology",
+        "Plant-soil interactions"
+      ],
+      "paperDois": [
+        "10.1111/gcb.71201",
+        "10.1111/gcb.71200",
+        "10.1093/jpe/rtag273",
+        "10.1073/pnas.2622400123",
+        "10.1111/1365-2745.70477"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
