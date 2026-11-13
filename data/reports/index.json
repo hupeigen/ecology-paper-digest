@@ -1,7 +1,68 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T07:01:15.948Z",
+  "updatedAt": "2026-11-13T06:28:48.676Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Fern-dominated understory-mediated microbial carbon flow channel driving residue carbon accumulation: evidence from a subtropical degraded forest restoration sequence 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI Restoration and management litter soil carbon soil organic carbon carbon sequestration Superoxide dismutase shapes manganese stoichiometry in Southern Ocean diatoms 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI superoxide dismutase diatoms elemental stoichiometry Fragilariopsis cylindrus nickel superoxide dismutase manganese limitation iron availability Intensive Agriculture and Erosion Affect Composition of Soil Organic Matter 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI mineral-associated soil organic matter The cryosphere beyond a planetary safe operating space 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 When Drought Is Not Drought: How Metrics Bias Estimates of Ecosystem Water Limitation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring drought precipitation water limitation water stress",
+      "reportId": "2026-11-13",
+      "date": "2026-11-13",
+      "period": {
+        "from": "2026-10-15",
+        "to": "2026-11-13"
+      },
+      "generatedAt": "2026-11-13T06:28:48.676Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-13",
+      "path": "daily/2026-11-13.json",
+      "journals": [
+        "Journal of Plant Ecology",
+        "Science Advances",
+        "Global Change Biology",
+        "Science"
+      ],
+      "keywords": [
+        "Carbon cycling",
+        "Plant-soil interactions",
+        "Modeling and AI",
+        "Restoration and management",
+        "litter",
+        "soil carbon",
+        "soil organic carbon",
+        "carbon sequestration",
+        "superoxide dismutase",
+        "diatoms",
+        "elemental stoichiometry",
+        "Fragilariopsis cylindrus",
+        "nickel superoxide dismutase",
+        "manganese limitation",
+        "iron availability",
+        "mineral-associated",
+        "soil organic matter",
+        "Climate change",
+        "Ecosystem monitoring",
+        "drought"
+      ],
+      "paperDois": [
+        "10.1093/jpe/rtag274",
+        "10.1126/sciadv.aee6210",
+        "10.1111/gcb.71199",
+        "10.1126/science.aef5636",
+        "10.1111/gcb.71172"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2626990123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aeg2358 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
