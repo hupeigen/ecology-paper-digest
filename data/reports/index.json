@@ -1,7 +1,55 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T06:20:39.065Z",
+  "updatedAt": "2026-11-17T07:49:38.168Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Long‐term drought, warming and elevated CO 2 reshape grassland functional structure through environmental filtering and trait plasticity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity drought GmSUT4 ‐ GmCyt b5‐2 complex regulates sucrose transport and root pH homeostasis, conferring saline–alkaline tolerance in soybean 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Seasonal Asynchrony of Microbial Biomass and Respiration Across Terrestrial Ecosystems 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI carbon cycling Microbial network-mediated nitrogen availability improves grassland productivity under seasonal rest from grazing 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Restoration and management Arbuscular mycorrhizal fungus Rhizophagus irregularis expresses an outward potassium Shaker‐like channel in the interaction with rice ( Oryza sativa ) 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Modeling and AI",
+      "reportId": "2026-11-17",
+      "date": "2026-11-17",
+      "period": {
+        "from": "2026-10-19",
+        "to": "2026-11-17"
+      },
+      "generatedAt": "2026-11-17T07:49:38.168Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-17",
+      "path": "daily/2026-11-17.json",
+      "journals": [
+        "Functional Ecology",
+        "New Phytologist",
+        "Global Change Biology",
+        "Journal of Plant Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "drought",
+        "Modeling and AI",
+        "carbon cycling",
+        "Soil ecology",
+        "Restoration and management",
+        "Plant-soil interactions"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70500",
+        "10.1111/nph.71744",
+        "10.1111/gcb.71203",
+        "10.1093/jpe/rtag271",
+        "10.1111/nph.71736"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2615624123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
