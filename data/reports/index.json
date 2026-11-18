@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:49:38.168Z",
+  "updatedAt": "2026-11-18T07:13:24.484Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Plant functional composition and trait networks jointly explain grassland productivity under precipitation and nutrient manipulation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI drought precipitation Impact pathways of a jurisdictional approach to slowing deforestation in the Brazilian Amazon 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Ecosystem monitoring Restoration and management Drivers of alien plant invasion levels depend on the invasion stage and residence time 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Disturbance shifts belowground plant nutrient acquisition strategies in a tropical peat swamp forest 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Chlorophagy targets chloroplasts irreversibly damaged by photoinhibition 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "reportId": "2026-11-18",
+      "date": "2026-11-18",
+      "period": {
+        "from": "2026-10-20",
+        "to": "2026-11-18"
+      },
+      "generatedAt": "2026-11-18T07:13:24.484Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-18",
+      "path": "daily/2026-11-18.json",
+      "journals": [
+        "Journal of Ecology",
+        "Proceedings of the National Academy of Sciences",
+        "Ecology",
+        "New Phytologist"
+      ],
+      "keywords": [
+        "Climate change",
+        "Modeling and AI",
+        "drought",
+        "precipitation",
+        "Ecosystem monitoring",
+        "Restoration and management",
+        "Plant-soil interactions"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70502",
+        "10.1073/pnas.2612873123",
+        "10.1111/1365-2745.70507",
+        "10.1002/ecy.70598",
+        "10.1111/nph.71688"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
