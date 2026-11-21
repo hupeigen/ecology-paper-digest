@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T07:02:01.332Z",
+  "updatedAt": "2026-11-21T06:56:17.395Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "The chloroplast CLP chaperone–protease system controls the steady‐state abundance of the singlet oxygen sensors EXCUTER 1 and 2 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Functional traits and climate variability co‐regulate the dynamics and coexistence of rare plant species in tropical forests 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Ecosystem monitoring Modeling and AI Contrasting Fire‐Driven Erosion Processes Mobilise Distinct Organic Carbon Pools in Forest Landscapes 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Osmotic stress‐induced phase separation drives OsbZIP13 condensates to reprogram transcription from growth to stress adaptation 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought Cropping context disrupts conspecific aggregation in a specialist herbivore through shifts in host plant chemistry 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Multi-omics and health",
+      "reportId": "2026-11-21",
+      "date": "2026-11-21",
+      "period": {
+        "from": "2026-10-23",
+        "to": "2026-11-21"
+      },
+      "generatedAt": "2026-11-21T06:56:17.395Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-21",
+      "path": "daily/2026-11-21.json",
+      "journals": [
+        "New Phytologist",
+        "Journal of Ecology",
+        "Global Change Biology",
+        "Functional Ecology"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "Climate change",
+        "drought",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1111/nph.71750",
+        "10.1111/1365-2745.70509",
+        "10.1111/gcb.71206",
+        "10.1111/nph.71755",
+        "10.1111/1365-2435.70504"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
