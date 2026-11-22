@@ -1,7 +1,53 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T06:56:17.395Z",
+  "updatedAt": "2026-11-22T06:33:46.691Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Pathogens and soil nutrients contrastingly drive arbuscular and ectomycorrhizal tree species abundance in a subtropical forest 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant-soil interactions Soil ecology Greenhouse gas responses to coastal wetland land use change vary by ecosystem and conversion pathway 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Restoration and management soil carbon Injury-induced signalling coordinates immunity and cannibalism in locusts 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Soil ecology Multi-omics and health A counterintuitive strategy: Enhanced cold sensitivity coupled with life cycle acceleration facilitates northward range expansion in an invasive plant 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。",
+      "reportId": "2026-11-22",
+      "date": "2026-11-22",
+      "period": {
+        "from": "2026-10-24",
+        "to": "2026-11-22"
+      },
+      "generatedAt": "2026-11-22T06:33:46.691Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-22",
+      "path": "daily/2026-11-22.json",
+      "journals": [
+        "Journal of Ecology",
+        "Nature Communications",
+        "Nature"
+      ],
+      "keywords": [
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Carbon cycling",
+        "Climate change",
+        "Restoration and management",
+        "soil carbon",
+        "Multi-omics and health"
+      ],
+      "paperDois": [
+        "10.1111/1365-2745.70501",
+        "10.1038/s41467-026-79685-1",
+        "10.1038/s41586-026-11297-7",
+        "10.1038/s41467-026-79487-5",
+        "10.1111/1365-2745.70506"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
