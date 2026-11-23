@@ -1,7 +1,54 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T06:33:46.691Z",
+  "updatedAt": "2026-11-23T07:27:55.565Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Australian 2019–2020 megafire synthesis dataset 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Biodiversity Migration and colder temperatures constrain microsporidian parasite outbreaks in zooplankton populations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Ecological and social cues orchestrate concerted courtship in Drosophila 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Stability of arbuscular mycorrhizal fungi-protist interaction networks strengthens vegetation-soil quality in plantations 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Ecosystem monitoring Modeling and AI Intensification and Spatial Reorganization of Drought Risks for Global Rainfed Crops Under Climate Change 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Ecosystem monitoring Modeling and AI drought drying",
+      "reportId": "2026-11-23",
+      "date": "2026-11-23",
+      "period": {
+        "from": "2026-10-25",
+        "to": "2026-11-23"
+      },
+      "generatedAt": "2026-11-23T07:27:13.708Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-23",
+      "path": "daily/2026-11-23.json",
+      "journals": [
+        "Ecology",
+        "Nature",
+        "Journal of Plant Ecology",
+        "Global Change Biology"
+      ],
+      "keywords": [
+        "Biodiversity",
+        "Climate change",
+        "Plant-soil interactions",
+        "Ecosystem monitoring",
+        "Modeling and AI",
+        "drought",
+        "drying"
+      ],
+      "paperDois": [
+        "10.1002/ecy.70629",
+        "10.1002/ecy.70635",
+        "10.1038/s41586-026-11209-9",
+        "10.1093/jpe/rtag263",
+        "10.1111/gcb.71164"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2622290123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
@@ -2947,6 +2994,68 @@
     {
       "kind": "weekly",
       "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Long‐term drought, warming and elevated CO 2 reshape grassland functional structure through environmental filtering and trait plasticity 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Biodiversity drought long-term drought warming elevated CO2 environmental filtering trait plasticity GmSUT4 ‐ GmCyt b5‐2 complex regulates sucrose transport and root pH homeostasis, conferring saline–alkaline tolerance in soybean 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 sucrose transport soybean H+-ATPase proton efflux root acidification reactive oxygen species root volume overexpression Strain level variation in pathogenic invaders alters rhizosphere communities 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 strain-level diversity rhizosphere microbiome Ralstonia solanacearum plant microbiome intraspecific trait variation community assembly deterministic assembly pathogenic bacteria Lanosterol is the biosynthetic precursor of solanoeclepins, root‐secreted hatching factors for potato cyst nematodes 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 lanosterol triterpenoid biosynthesis potato cyst nematode lanosterol synthase deuterium labeling plant-nematode interaction nematode control metabolic engineering Niche constraints drive differences between mycorrhizal fungal guilds in future range shifts 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Plant-soil interactions Biodiversity Modeling and AI soil organic carbon mycorrhizal fungi arbuscular mycorrhizal fungi ectomycorrhizal fungi Microbial network-mediated nitrogen availability improves grassland productivity under seasonal rest from grazing 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Restoration and management grazing management nitrogen addition soil nitrogen availability microbial networks soil enzyme activity Greenhouse gas responses to coastal wetland land use change vary by ecosystem and conversion pathway 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Carbon cycling Climate change Restoration and management soil carbon Coastal wetland ecosystem dynamics Peatlands and Wetlands Ecology Soil Carbon and Nitrogen Dynamics The chloroplast CLP chaperone–protease system controls the steady‐state abundance of the singlet oxygen sensors EXCUTER 1 and 2 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 protein degradation protein half-life chloroplast biogenesis Arabidopsis thaliana chloroplast proteome Photosynthetic Processes and Mechanisms Heat shock proteins research Plant Stress Responses and Tolerance",
+      "reportId": "2026-W47",
+      "date": "2026-11-23",
+      "period": {
+        "from": "2026-11-16",
+        "to": "2026-11-22"
+      },
+      "generatedAt": "2026-11-23T07:27:36.722Z",
+      "paperCount": 8,
+      "title": "生态学高价值论文周报 · 2026-11-16 至 2026-11-22",
+      "path": "weekly/2026-W47.json",
+      "journals": [
+        "Functional Ecology",
+        "New Phytologist",
+        "iMeta",
+        "Proceedings of the National Academy of Sciences",
+        "Journal of Plant Ecology",
+        "Nature Communications"
+      ],
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "drought",
+        "long-term drought",
+        "warming",
+        "elevated CO2",
+        "environmental filtering",
+        "trait plasticity",
+        "sucrose transport",
+        "soybean",
+        "H+-ATPase",
+        "proton efflux",
+        "root acidification",
+        "reactive oxygen species",
+        "root volume",
+        "overexpression",
+        "strain-level diversity",
+        "rhizosphere microbiome",
+        "Ralstonia solanacearum",
+        "plant microbiome"
+      ],
+      "paperDois": [
+        "10.1111/1365-2435.70500",
+        "10.1111/nph.71744",
+        "10.1002/imt2.70196",
+        "10.1111/nph.71760",
+        "10.1073/pnas.2616772123",
+        "10.1093/jpe/rtag271",
+        "10.1038/s41467-026-79685-1",
+        "10.1111/nph.71750"
+      ],
+      "warnings": [
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aei7767 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2606084123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2523162123 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
+    {
+      "kind": "weekly",
+      "criteriaVersion": "ecology-topic-v1",
       "searchText": "Nitrogen transfer contributes to synergistic effects during mixed litter decomposition in a subtropical forest 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Soil ecology Modeling and AI litter decomposition Fern-dominated understory-mediated microbial carbon flow channel driving residue carbon accumulation: evidence from a subtropical degraded forest restoration sequence 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI Restoration and management litter soil carbon soil organic carbon carbon sequestration SIP-enabled multi-omics reveals soil microbiome responses to drought and rehydration 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Multi-omics and health drought soil microbiome rehydration microbial growth rate soil carbon cycling greenhouse gas fluxes soil carbon carbon cycling rewetting Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Modeling and AI carbon cycling drought precipitation water stress moisture leaf traits Ambient climate exceeds the effects of warming and precipitation treatment on leaf senescence phenology of community in an alpine meadow 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change precipitation global warming precipitation manipulation alpine meadow precipitation frequency plant diversity plant productivity What's the buzz around polyploids? Plant–pollinator interactions among sympatric cytotypes in an African grassland bulb 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Plant and animal studies Chromosomal and Genetic Variations Plant Taxonomy and Phylogenetics Superoxide dismutase shapes manganese stoichiometry in Southern Ocean diatoms 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI superoxide dismutase diatoms Southern Ocean nickel superoxide dismutase manganese limitation elemental stoichiometry proteome composition The cyanobacterium Anabaena uses pleomorphism as an acclimation strategy to high‐light stress 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Modeling and AI Anabaena sp. PCC 7120 pleomorphism cell shape high light stress photoinhibition photosynthetic acclimation morphological transition",
       "reportId": "2026-W46",
       "date": "2026-11-16",
@@ -3498,14 +3607,14 @@
       "kind": "monthly",
       "status": "provisional",
       "criteriaVersion": "ecology-topic-v1",
-      "searchText": "Nitrogen transfer contributes to synergistic effects during mixed litter decomposition in a subtropical forest 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Soil ecology Modeling and AI litter decomposition Fern-dominated understory-mediated microbial carbon flow channel driving residue carbon accumulation: evidence from a subtropical degraded forest restoration sequence 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI Restoration and management litter soil carbon soil organic carbon carbon sequestration Deadwood Mitigates Declines in Soil Food‐Web Energy Fluxes in Canopy Gaps 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Plant-soil interactions Biodiversity Restoration and management deadwood dead wood canopy gaps soil food webs energy flux Herbivore versus detritivore effect on decomposition through leaf conversion into faeces 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 litter decomposition soil organic matter leaf litter decomposition leaf senescence green leaves caterpillars millipedes Plant‐ and Microbial‐Derived Soil Organic Carbon: Global Patterns and Divergent Climatic Associations 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Ecosystem monitoring Modeling and AI soil organic carbon necromass microbial necromass carbon plant-derived carbon carbon pools Divergent Patterns of Interactions Between Dissolved Organic Matter and Microbial Communities in Mangroves and Salt Marshes 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology decay soil organic carbon dissolved organic matter microbial communities mangroves salt marshes Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Modeling and AI carbon cycling drought precipitation water stress moisture leaf traits Beyond the safety thresholds: Contrasting drought responses in Mediterranean seeders and resprouters revealed by hydraulic and leaf turgor safety margins 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI Restoration and management drought precipitation drought mortality hydraulic safety margin seeders Duality of root‐dominated net soil organic carbon gain and mycelium‐mediated carbon loss in hyper‐arid afforestation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management soil organic carbon mineral-associated root-derived carbon dryland afforestation Bison grazing and prairie fire shape soil microbial community diversity and assembly 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Biodiversity Multi-omics and health precipitation bison grazing prairie fires soil microbial communities",
+      "searchText": "Nitrogen transfer contributes to synergistic effects during mixed litter decomposition in a subtropical forest 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Soil ecology Modeling and AI litter decomposition litter decomposition nitrogen transfer non-additive effects synergistic effect Fern-dominated understory-mediated microbial carbon flow channel driving residue carbon accumulation: evidence from a subtropical degraded forest restoration sequence 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Plant-soil interactions Modeling and AI Restoration and management litter soil carbon soil organic carbon carbon sequestration Deadwood Mitigates Declines in Soil Food‐Web Energy Fluxes in Canopy Gaps 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Plant-soil interactions Biodiversity Restoration and management deadwood dead wood canopy gaps soil food webs energy flux Herbivore versus detritivore effect on decomposition through leaf conversion into faeces 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 litter decomposition soil organic matter leaf litter decomposition leaf senescence green leaves caterpillars millipedes Plant‐ and Microbial‐Derived Soil Organic Carbon: Global Patterns and Divergent Climatic Associations 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Ecosystem monitoring Modeling and AI soil organic carbon necromass microbial necromass carbon plant-derived carbon carbon pools Divergent Patterns of Interactions Between Dissolved Organic Matter and Microbial Communities in Mangroves and Salt Marshes 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Soil ecology decay soil organic carbon dissolved organic matter microbial communities mangroves salt marshes Leaf hydraulic and photosynthetic traits mediate forest-scale resource use efficiencies across the continental United States 贴近分解/森林土壤碳主线；包含干旱或水分变化信号。 Climate change Modeling and AI carbon cycling drought precipitation water stress moisture leaf traits Beyond the safety thresholds: Contrasting drought responses in Mediterranean seeders and resprouters revealed by hydraulic and leaf turgor safety margins 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI Restoration and management drought precipitation drought mortality hydraulic safety margin drought tolerance Duality of root‐dominated net soil organic carbon gain and mycelium‐mediated carbon loss in hyper‐arid afforestation 贴近分解/森林土壤碳主线；干旱机制及亚热带迁移适用性需进一步核实。 Carbon cycling Climate change Ecosystem monitoring Restoration and management soil organic carbon mineral-associated root-derived carbon dryland afforestation Bison grazing and prairie fire shape soil microbial community diversity and assembly 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Soil ecology Biodiversity Multi-omics and health precipitation bison grazing prairie fires soil microbial communities",
       "reportId": "2026-11",
-      "date": "2026-11-16",
+      "date": "2026-11-23",
       "period": {
         "from": "2026-11-01",
-        "to": "2026-11-16"
+        "to": "2026-11-23"
       },
-      "generatedAt": "2026-11-16T06:20:39.065Z",
+      "generatedAt": "2026-11-23T07:27:55.565Z",
       "paperCount": 10,
       "title": "生态论文雷达月度精选 · 2026-11",
       "path": "monthly/2026-11.json",
@@ -3523,6 +3632,10 @@
         "Modeling and AI",
         "litter",
         "decomposition",
+        "litter decomposition",
+        "nitrogen transfer",
+        "non-additive effects",
+        "synergistic effect",
         "Carbon cycling",
         "Plant-soil interactions",
         "Restoration and management",
@@ -3534,11 +3647,7 @@
         "dead wood",
         "canopy gaps",
         "soil food webs",
-        "energy flux",
-        "soil organic matter",
-        "leaf litter decomposition",
-        "leaf senescence",
-        "green leaves"
+        "energy flux"
       ],
       "paperDois": [
         "10.1093/jpe/rtag260",
@@ -3553,12 +3662,11 @@
         "10.1002/ecy.70558"
       ],
       "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
         "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
         "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1126/science.aef5636 失败：HTTP 403 Forbidden",
-        "公开摘要页 10.1073/pnas.2622400123 失败：HTTP 403 Forbidden",
         "模型不可用：采用规则评分，摘要解读与深读未完成",
         "模型不可用：深读及候选空白分析未完成"
       ]

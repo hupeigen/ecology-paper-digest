@@ -19,12 +19,12 @@
   },
   "kind": "monthly",
   "reportId": "2026-11",
-  "date": "2026-11-16",
+  "date": "2026-11-23",
   "period": {
     "from": "2026-11-01",
-    "to": "2026-11-16"
+    "to": "2026-11-23"
   },
-  "generatedAt": "2026-11-16T06:20:39.065Z",
+  "generatedAt": "2026-11-23T07:27:55.565Z",
   "selectionTitle": "生态论文雷达月度精选 · 2026-11",
   "paperCount": 10,
   "papers": [
@@ -142,13 +142,17 @@
       "publishedAt": "2026-11-14",
       "articleType": "research",
       "doiUrl": "https://doi.org/10.1093/jpe/rtag260",
-      "oaUrl": null,
-      "isOpenAccess": false,
+      "oaUrl": "https://doi.org/10.1093/jpe/rtag260",
+      "isOpenAccess": true,
       "keywords": [
         "Soil ecology",
         "Modeling and AI",
         "litter",
-        "decomposition"
+        "decomposition",
+        "litter decomposition",
+        "nitrogen transfer",
+        "non-additive effects",
+        "synergistic effect"
       ],
       "valueScores": {
         "relevance": 70,
@@ -177,6 +181,10 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag260"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7233619409"
         }
       ]
     },
@@ -282,8 +290,8 @@
       "publishedAt": "2026-11-13",
       "articleType": "research",
       "doiUrl": "https://doi.org/10.1093/jpe/rtag274",
-      "oaUrl": null,
-      "isOpenAccess": false,
+      "oaUrl": "https://academic.oup.com/jpe/advance-article-pdf/doi/10.1093/jpe/rtag274/73511444/rtag274.pdf",
+      "isOpenAccess": true,
       "keywords": [
         "Carbon cycling",
         "Plant-soil interactions",
@@ -319,6 +327,10 @@
         {
           "name": "Crossref",
           "url": "https://api.crossref.org/works/10.1093%2Fjpe%2Frtag274"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org/W7234446310"
         }
       ]
     },
@@ -1082,7 +1094,7 @@
         "precipitation",
         "drought mortality",
         "hydraulic safety margin",
-        "seeders"
+        "drought tolerance"
       ],
       "valueScores": {
         "relevance": 25,
@@ -1367,7 +1379,7 @@
     "kind": "monthly",
     "target": 10,
     "selectedCount": 10,
-    "candidateCount": 41,
+    "candidateCount": 56,
     "mainlineCount": 8,
     "inspirationCount": 2,
     "reviewCount": 0,
@@ -1391,15 +1403,15 @@
       "exhausted": false
     },
     "llmUsed": false,
-    "sourceCandidateCount": 205,
+    "sourceCandidateCount": 300,
     "coverage": [
       {
         "journalId": "jpe",
         "name": "Journal of Plant Ecology",
         "issn": "1752-9921",
         "pages": 1,
-        "totalResults": 13,
-        "retrievedCount": 13,
+        "totalResults": 17,
+        "retrievedCount": 17,
         "complete": true,
         "error": null
       },
@@ -1408,8 +1420,8 @@
         "name": "iMeta",
         "issn": "2770-596X",
         "pages": 1,
-        "totalResults": 3,
-        "retrievedCount": 3,
+        "totalResults": 7,
+        "retrievedCount": 7,
         "complete": true,
         "error": null
       },
@@ -1418,7 +1430,7 @@
         "name": "Green Carbon",
         "issn": "2950-1555",
         "pages": 1,
-        "totalResults": 3,
+        "totalResults": 4,
         "retrievedCount": 0,
         "complete": true,
         "error": null
@@ -1438,7 +1450,7 @@
         "name": "Eco-Environment & Health",
         "issn": "2772-9850",
         "pages": 1,
-        "totalResults": 0,
+        "totalResults": 2,
         "retrievedCount": 0,
         "complete": true,
         "error": null
@@ -1448,8 +1460,8 @@
         "name": "Ecology Letters",
         "issn": "1461-023X",
         "pages": 1,
-        "totalResults": 4,
-        "retrievedCount": 2,
+        "totalResults": 8,
+        "retrievedCount": 6,
         "complete": true,
         "error": null
       },
@@ -1458,8 +1470,8 @@
         "name": "Journal of Ecology",
         "issn": "0022-0477",
         "pages": 1,
-        "totalResults": 10,
-        "retrievedCount": 9,
+        "totalResults": 20,
+        "retrievedCount": 19,
         "complete": true,
         "error": null
       },
@@ -1468,7 +1480,7 @@
         "name": "Ecological Indicators",
         "issn": "1470-160X",
         "pages": 2,
-        "totalResults": 160,
+        "totalResults": 165,
         "retrievedCount": 0,
         "complete": true,
         "error": null
@@ -1478,8 +1490,8 @@
         "name": "Nature Ecology & Evolution",
         "issn": "2397-334X",
         "pages": 1,
-        "totalResults": 9,
-        "retrievedCount": 9,
+        "totalResults": 13,
+        "retrievedCount": 13,
         "complete": true,
         "error": null
       },
@@ -1488,8 +1500,8 @@
         "name": "Nature Climate Change",
         "issn": "1758-678X",
         "pages": 1,
-        "totalResults": 13,
-        "retrievedCount": 13,
+        "totalResults": 17,
+        "retrievedCount": 17,
         "complete": true,
         "error": null
       },
@@ -1498,8 +1510,8 @@
         "name": "Global Change Biology",
         "issn": "1354-1013",
         "pages": 1,
-        "totalResults": 28,
-        "retrievedCount": 27,
+        "totalResults": 30,
+        "retrievedCount": 29,
         "complete": true,
         "error": null
       },
@@ -1508,8 +1520,8 @@
         "name": "New Phytologist",
         "issn": "0028-646X",
         "pages": 1,
-        "totalResults": 48,
-        "retrievedCount": 45,
+        "totalResults": 64,
+        "retrievedCount": 60,
         "complete": true,
         "error": null
       },
@@ -1518,8 +1530,8 @@
         "name": "Functional Ecology",
         "issn": "0269-8463",
         "pages": 1,
-        "totalResults": 15,
-        "retrievedCount": 14,
+        "totalResults": 19,
+        "retrievedCount": 18,
         "complete": true,
         "error": null
       },
@@ -1528,8 +1540,8 @@
         "name": "Global Ecology and Biogeography",
         "issn": "1466-822X",
         "pages": 1,
-        "totalResults": 7,
-        "retrievedCount": 6,
+        "totalResults": 13,
+        "retrievedCount": 12,
         "complete": true,
         "error": null
       },
@@ -1548,8 +1560,8 @@
         "name": "Ecology",
         "issn": "0012-9658",
         "pages": 1,
-        "totalResults": 26,
-        "retrievedCount": 24,
+        "totalResults": 39,
+        "retrievedCount": 35,
         "complete": true,
         "error": null
       },
@@ -1557,9 +1569,9 @@
         "journalId": "nature",
         "name": "Nature",
         "issn": "0028-0836",
-        "pages": 2,
-        "totalResults": 194,
-        "retrievedCount": 188,
+        "pages": 3,
+        "totalResults": 297,
+        "retrievedCount": 296,
         "complete": true,
         "error": null
       },
@@ -1567,9 +1579,9 @@
         "journalId": "science",
         "name": "Science",
         "issn": "0036-8075",
-        "pages": 1,
-        "totalResults": 95,
-        "retrievedCount": 93,
+        "pages": 2,
+        "totalResults": 133,
+        "retrievedCount": 131,
         "complete": true,
         "error": null
       },
@@ -1577,19 +1589,19 @@
         "journalId": "nature-communications",
         "name": "Nature Communications",
         "issn": "2041-1723",
-        "pages": 4,
-        "totalResults": 351,
-        "retrievedCount": 350,
-        "complete": true,
+        "pages": 5,
+        "totalResults": 543,
+        "retrievedCount": 499,
+        "complete": false,
         "error": null
       },
       {
         "journalId": "science-advances",
         "name": "Science Advances",
         "issn": "2375-2548",
-        "pages": 2,
-        "totalResults": 160,
-        "retrievedCount": 158,
+        "pages": 3,
+        "totalResults": 248,
+        "retrievedCount": 244,
         "complete": true,
         "error": null
       },
@@ -1597,9 +1609,9 @@
         "journalId": "pnas",
         "name": "Proceedings of the National Academy of Sciences",
         "issn": "0027-8424",
-        "pages": 2,
-        "totalResults": 174,
-        "retrievedCount": 166,
+        "pages": 3,
+        "totalResults": 283,
+        "retrievedCount": 270,
         "complete": true,
         "error": null
       },
@@ -1608,8 +1620,8 @@
         "name": "Nature Geoscience",
         "issn": "1752-0894",
         "pages": 1,
-        "totalResults": 9,
-        "retrievedCount": 9,
+        "totalResults": 13,
+        "retrievedCount": 13,
         "complete": true,
         "error": null
       },
@@ -1618,20 +1630,19 @@
         "name": "Nature Microbiology",
         "issn": "2058-5276",
         "pages": 1,
-        "totalResults": 10,
-        "retrievedCount": 10,
+        "totalResults": 14,
+        "retrievedCount": 14,
         "complete": true,
         "error": null
       }
     ]
   },
   "warnings": [
+    "Nature Communications 检索达到页数上限，覆盖不完整",
     "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
     "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+    "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
     "公开摘要页 10.1126/sciadv.aee6210 失败：HTTP 403 Forbidden",
-    "公开摘要页 10.1126/sciadv.aed4599 失败：HTTP 403 Forbidden",
-    "公开摘要页 10.1126/science.aef5636 失败：HTTP 403 Forbidden",
-    "公开摘要页 10.1073/pnas.2622400123 失败：HTTP 403 Forbidden",
     "模型不可用：采用规则评分，摘要解读与深读未完成",
     "模型不可用：深读及候选空白分析未完成"
   ],
