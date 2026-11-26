@@ -1,7 +1,51 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T08:20:42.753Z",
+  "updatedAt": "2026-11-26T08:04:47.130Z",
   "daily": [
+    {
+      "kind": "daily",
+      "criteriaVersion": "ecology-topic-v1",
+      "searchText": "Disturbances and climate drive tree elevational shifts 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change drought Tree species diversity and three-dimensional canopy structure jointly shape soil bacterial and fungal diversity in mangroves 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Plant-soil interactions Soil ecology Biodiversity Restoration and management Debudding uncouples the phenology of xylogenesis in Abies georgei var. smithii 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Ideal foragers react to risk, not food 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 How temperature, photoperiod, and evolutionary history shape forest leafout 跨方向方法参考；与森林分解及土壤碳主线的联系需核实。 Climate change Modeling and AI",
+      "reportId": "2026-11-26",
+      "date": "2026-11-26",
+      "period": {
+        "from": "2026-10-28",
+        "to": "2026-11-26"
+      },
+      "generatedAt": "2026-11-26T08:04:47.130Z",
+      "paperCount": 5,
+      "title": "生态学高价值论文日报 · 2026-11-26",
+      "path": "daily/2026-11-26.json",
+      "journals": [
+        "Nature",
+        "Journal of Plant Ecology",
+        "Ecology"
+      ],
+      "keywords": [
+        "Climate change",
+        "drought",
+        "Plant-soil interactions",
+        "Soil ecology",
+        "Biodiversity",
+        "Restoration and management",
+        "Modeling and AI"
+      ],
+      "paperDois": [
+        "10.1038/s41586-026-11354-1",
+        "10.1093/jpe/rtag285",
+        "10.1093/jpe/rtag283",
+        "10.1002/ecy.70594",
+        "10.1002/ecy.70562"
+      ],
+      "warnings": [
+        "Nature Communications 检索达到页数上限，覆盖不完整",
+        "公开摘要页 10.1073/pnas.2526434123 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/sciadv.aek1491 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1126/science.adu9593 失败：HTTP 403 Forbidden",
+        "公开摘要页 10.1073/pnas.2616772123 失败：HTTP 403 Forbidden",
+        "模型不可用：采用规则评分，摘要解读与深读未完成"
+      ]
+    },
     {
       "kind": "daily",
       "criteriaVersion": "ecology-topic-v1",
